@@ -1,18 +1,41 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Za krásnu zem</title>
-    <author>HUDBA: Conrad Kocher; TEXT: Folliott S. Pierpoint, podľa čes. prekl. J. Procházku prel. Branislav Kráľ</author>
-    <hymn_number>23</hymn_number>
-    <presentation>V1 C V2 C V3 C V4 C</presentation>
-    <theme>TROJJEDINÝ BOH A NEBESKÝ OTEC / Boh - Stvoriteľ a Udržiavateľ sveta; </theme>
-    <lyrics>[V1]
- Za slnko a riečny tok, ktorý prúdi údolím, za slávičí popevok, nad krajom čo hlaholí, 
+  <title>Za krásnu zem</title>
+  <author>HUDBA: Conrad Kocher; TEXT: Folliott S. Pierpoint, podľa čes. prekl. J. Procházku prel. Branislav Kráľ</author>
+  <hymn_number>23</hymn_number>
+  <presentation>V1 C V2 C V3 C V4 C</presentation>
+  <theme>TROJJEDINÝ BOH A NEBESKÝ OTEC / Boh - Stvoriteľ a Udržiavateľ sveta; </theme>
+  <lyrics>[V1]
+ Za slnko a riečny tok,
+ ktorý prúdi údolím,
+ za slávičí popevok,
+ nad krajom čo hlaholí, 
 [C]
- spievame Ti pieseň chvál. Ty si náš Boh, Pán a Kráľ. 
+ spievame Ti pieseň chvál.
+ Ty si náš Boh, Pán a Kráľ. 
 [V2]
- Za bolesť i trápenie, búrky a či zimný mráz, za šťastie a za zdravie, jarnú lúku plnú krás, 
+ Za bolesť i trápenie,
+ búrky a či zimný mráz,
+ za šťastie a za zdravie,
+ jarnú lúku plnú krás, 
 [V3]
- Za rodičov, za deti, bratov, sestry, priateľov v radosti i v súžení kráčajúcich za Tebou, 
+ Za rodičov, za deti,
+ bratov, sestry, priateľov
+ v radosti i v súžení
+ kráčajúcich za Tebou, 
 [V4]
- Za milosť a za lásku, čo nás vedie k pokoju, za silu a odvahu kráčať k Tvojmu domovu, </lyrics>
-</song>
+ Za milosť a za lásku,
+ čo nás vedie k pokoju,
+ za silu a odvahu
+ kráčať k Tvojmu domovu, </lyrics>
+  <copyright></copyright>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <tempo></tempo>
+  <time_sig></time_sig></song>

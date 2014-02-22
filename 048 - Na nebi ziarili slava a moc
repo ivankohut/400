@@ -1,14 +1,44 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Na nebi žiarili sláva a moc</title>
-    <author>HUDBA: Mária Royová, upr.; TEXT: Mária Royová</author>
-    <hymn_number>48</hymn_number>
-    <presentation>V1 V2 V3</presentation>
-    <theme>PÁN JEŽIŠ KRISTUS / Narodenie - Vianoce; </theme>
-    <lyrics>[V1]
- Na nebi žiarili sláva a moc, svätý spev anjelov oživil noc. Nadšene spievali, pastierom hlásali: „Pán Ježiš zostúpil, nebeský Hosť!“ 
+  <title>Na nebi žiarili sláva a moc</title>
+  <author>HUDBA: Mária Royová, upr.; TEXT: Mária Royová</author>
+  <hymn_number>48</hymn_number>
+  <presentation>V1 V2 V3</presentation>
+  <theme>PÁN JEŽIŠ KRISTUS / Narodenie - Vianoce; </theme>
+  <lyrics>[V1]
+ Na nebi žiarili
+ sláva a moc,
+ svätý spev anjelov
+ oživil noc.||
+ Nadšene spievali,
+ pastierom hlásali:
+ „Pán Ježiš zostúpil,
+ nebeský Hosť!“
 [V2]
- V betlemských jasličkách položený, spočinul Mesiáš vytúžený. Nebesia opustil, chudobu okúsil, aby svet vykúpil z hriechov a vín. 
+ V betlemských jasličkách
+ položený,
+ spočinul Mesiáš
+ vytúžený.||
+ Nebesia opustil,
+ chudobu okúsil,
+ aby svet vykúpil
+ z hriechov a vín.
 [V3]
- Pane náš, Ježišu, príďže i k nám, srdcia nám povznášaj ku nebesiam! Nech svet už pozná raz, že si Ty poklad náš, vesmíru, smrti i života Pán. </lyrics>
-</song>
+ Pane náš, Ježišu,
+ príďže i k nám,
+ srdcia nám povznášaj
+ ku nebesiam!||
+ Nech svet už pozná raz,
+ že si Ty poklad náš,
+ vesmíru, smrti i života Pán. </lyrics>
+  <copyright></copyright>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <tempo></tempo>
+  <time_sig></time_sig></song>

@@ -1,20 +1,47 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Ó, príď, ó, príď, Emanuel!</title>
-    <author>HUDBA: anon., zo spevníka „Psalteriolum Cantionum Catholicarum“, latinský nápev, upr.; TEXT: Ondrej Betko ml.</author>
-    <hymn_number>29</hymn_number>
-    <presentation>V1 C V2 C V3 C V4 C V5 C</presentation>
-    <theme>PÁN JEŽIŠ KRISTUS / Očakávanie narodenia - Advent; </theme>
-    <lyrics>[V1]
- Ó, príď, ó, príď, Emanuel, tak túžobne lká Izrael a neprestajne čaká Ťa sťa opustená sirota. 
+  <title>Ó, príď, ó, príď, Emanuel!</title>
+  <author>HUDBA: anon., zo spevníka „Psalteriolum Cantionum Catholicarum“, latinský nápev, upr.; TEXT: Ondrej Betko ml.</author>
+  <hymn_number>29</hymn_number>
+  <presentation>V1 C V2 C V3 C V4 C V5 C</presentation>
+  <theme>PÁN JEŽIŠ KRISTUS / Očakávanie narodenia - Advent; </theme>
+  <lyrics>[V1]
+ Ó, príď, ó, príď, Emanuel,
+ tak túžobne lká Izrael
+ a neprestajne čaká Ťa
+ sťa opustená sirota.
 [C]
- Už blízko deň, ó, Izrael, keď príde tvoj Emanuel. 
+ Už blízko deň, ó, Izrael,
+ keď príde tvoj Emanuel.
 [V2]
- Ó, príď, ó, príď, prút Jesseho! Zlo potri mocou bezmedznou. Z dna hlbokosti vyveď nás a z ohňa zachráň, Mesiáš! 
+ Ó, príď, ó, príď, prút Jesseho!
+ Zlo potri mocou bezmedznou.
+ Z dna hlbokosti vyveď nás
+ a z ohňa zachráň, Mesiáš!
 [V3]
- Ó, príď, ó, príď, Ty východ dňa, Tvoj národ, hľa, sa zobúdza. Hmlu hustej noci rozožeň, nech svitne nad ním jasný deň. 
+ Ó, príď, ó, príď, Ty východ dňa,
+ Tvoj národ, hľa, sa zobúdza.
+ Hmlu hustej noci rozožeň,
+ nech svitne nad ním jasný deň.
 [V4]
- Ó, príď, ó, príď, Syn kráľovský! Spas ľud svoj, zbav ho žalosti. Ty do neba mu priprav púť, nech nemusí raz zahynúť. 
+ Ó, príď, ó, príď, Syn kráľovský!
+ Spas ľud svoj, zbav ho žalosti.
+ Ty do neba mu priprav púť,
+ nech nemusí raz zahynúť.
 [V5]
- Ó, príď, ó, príď, Ty veľký Kráľ, čo na Sinai raz si stál! Svet ohromujúc slávou príď raz pred súd ľudstvo postaviť! </lyrics>
-</song>
+ Ó, príď, ó, príď, Ty veľký Kráľ,
+ čo na Sinai raz si stál!
+ Svet ohromujúc slávou
+ príď raz pred súd
+ ľudstvo postaviť! </lyrics>
+  <copyright></copyright>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <tempo></tempo>
+  <time_sig></time_sig></song>

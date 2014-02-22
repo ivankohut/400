@@ -1,16 +1,53 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Zaspievaj Pánovi!</title>
-    <author>HUDBA: Joachim Neander; TEXT: Joachim Neander, prel. Július Kremský</author>
-    <hymn_number>9</hymn_number>
-    <presentation>V1 V2 V3 V4</presentation>
-    <theme>TROJJEDINÝ BOH A NEBESKÝ OTEC / Oslava a uctievanie Boha; </theme>
-    <lyrics>[V1]
- Zaspievaj Pánovi oslavnú pieseň, žalm chvály! Ó, duša, jedinú žiadosť maj: Ježiša sláviť. On je tvoj Kráľ, na každom mieste Ho chváľ, pre Božiu službu buď stály! 
+  <title>Zaspievaj Pánovi!</title>
+  <author>HUDBA: Joachim Neander; TEXT: Joachim Neander, prel. Július Kremský</author>
+  <hymn_number>9</hymn_number>
+  <presentation>V1 V2 V3 V4</presentation>
+  <theme>TROJJEDINÝ BOH A NEBESKÝ OTEC / Oslava a uctievanie Boha; </theme>
+  <lyrics>[V1]
+ Zaspievaj Pánovi
+ oslavnú pieseň,
+ žalm chvály!
+ Ó, duša, jedinú žiadosť maj:
+ Ježiša sláviť.||
+ On je tvoj Kráľ,
+ na každom mieste Ho chváľ,
+ pre Božiu službu buď stály! 
 [V2]
- Oslavuj Pána, On život tvoj pre nebo chystá! Ver, že aj za teba tiekla raz Jeho krv čistá. V súženia dňoch nedá ti zahynúť Boh, u Neho ochrana istá. 
+ Oslavuj Pána,
+ On život tvoj pre nebo chystá!
+ Ver, že aj za teba
+ tiekla raz Jeho krv čistá.||
+ V súženia dňoch
+ nedá ti zahynúť Boh,
+ u Neho ochrana istá. 
 [V3]
- Oslavuj Pána, On s tebou je na každom mieste! Vrúcne ťa miluje, žehná ti, chráni ťa v ceste. Z vďačnosti dnes srdca dar v obeť Mu nes, na všetkých cestách ťa viesť chce. 
+ Oslavuj Pána,
+ On s tebou je na každom mieste!
+ Vrúcne ťa miluje, žehná ti,
+ chráni ťa v ceste.||
+ Z vďačnosti dnes
+ srdca dar v obeť Mu nes,
+ na všetkých cestách
+ ťa viesť chce. 
 [V4]
- Ľudstvo, tiež oslavuj Ježiša, meno tak vzácne! Spasený ľud Boží, z hĺbky sŕdc, chválu Mu vzdajme! On je náš Kráľ, za nás On svoj život dal, aj my Mu životy dajme! </lyrics>
-</song>
+ Ľudstvo, tiež oslavuj Ježiša,
+ meno tak vzácne!
+ Spasený ľud Boží,
+ z hĺbky sŕdc,
+ chválu Mu vzdajme!||
+ On je náš Kráľ,
+ za nás On svoj život dal,
+ aj my Mu životy dajme! </lyrics>
+  <copyright></copyright>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <tempo></tempo>
+  <time_sig></time_sig></song>

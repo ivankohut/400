@@ -1,14 +1,33 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Chválim Ho v piesni</title>
-    <author>HUDBA: anon., ľudový nápev; TEXT: anon., zo spevníka „Bratské piesne“, prel. Jana Nagajová</author>
-    <hymn_number>16</hymn_number>
-    <presentation>V1 V2 V3</presentation>
-    <theme>TROJJEDINÝ BOH A NEBESKÝ OTEC / Oslava a uctievanie Boha; </theme>
-    <lyrics>[V1]
- Skúsil som, že dobrý je Boh. Chválim Ho v piesni, v šťastí i tiesni. Skúsil som, že dobrý je Boh. 
+  <title>Chválim Ho v piesni</title>
+  <author>HUDBA: anon., ľudový nápev; TEXT: anon., zo spevníka „Bratské piesne“, prel. Jana Nagajová</author>
+  <hymn_number>16</hymn_number>
+  <presentation>V1 V2 V3</presentation>
+  <theme>TROJJEDINÝ BOH A NEBESKÝ OTEC / Oslava a uctievanie Boha; </theme>
+  <lyrics>[V1]
+ Skúsil som, že dobrý je Boh.
+ Chválim Ho v piesni,
+ v šťastí i tiesni.
+ Skúsil som, že dobrý je Boh. 
 [V2]
- Vyznal som, že verný je Boh. Chválim Ho v piesni, v šťastí i tiesni. Vyznal som, že verný je Boh. 
+ Vyznal som, že verný je Boh.
+ Chválim Ho v piesni,
+ v šťastí i tiesni.
+ Vyznal som, že verný je Boh. 
 [V3]
- Spoznal som, že svätý je Boh. Chválim Ho v piesni, v šťastí i tiesni. Spoznal som, že svätý je Boh. </lyrics>
-</song>
+ Spoznal som, že svätý je Boh.
+ Chválim Ho v piesni,
+ v šťastí i tiesni.
+ Spoznal som, že svätý je Boh. </lyrics>
+  <copyright></copyright>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <tempo></tempo>
+  <time_sig></time_sig></song>

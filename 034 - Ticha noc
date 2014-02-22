@@ -1,14 +1,39 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Tichá noc</title>
-    <author>HUDBA: Franz Gruber, harm. Milan Uhrin; TEXT: Joseph Mohr, prel. Michal Slavka</author>
-    <hymn_number>34</hymn_number>
-    <presentation>V1 V2 V3</presentation>
-    <theme>PÁN JEŽIŠ KRISTUS / Narodenie - Vianoce; </theme>
-    <lyrics>[V1]
- Tichá noc, svätá noc. Vo sna taj stíchol kraj. Iba pár, v úžase presvätom, skláňa sa nad Božím Dieťaťom, v svätom čo pokoji spí, v svätom čo pokoji spí. 
+  <title>Tichá noc</title>
+  <author>HUDBA: Franz Gruber, harm. Milan Uhrin; TEXT: Joseph Mohr, prel. Michal Slavka</author>
+  <hymn_number>34</hymn_number>
+  <presentation>V1 V2 V3</presentation>
+  <theme>PÁN JEŽIŠ KRISTUS / Narodenie - Vianoce; </theme>
+  <lyrics>[V1]
+ Tichá noc, svätá noc.
+ Vo sna taj stíchol kraj.||
+ Iba pár, v úžase presvätom,
+ skláňa sa nad Božím Dieťaťom,
+ v svätom čo pokoji spí,
+ v svätom čo pokoji spí. 
 [V2]
- Tichá noc, svätá noc. Svätý chór z nebies hôr pastierom strážiacim na poli, spásnu zvesť radostne hlaholí: „Kristus sa narodil nám, Kristus sa narodil nám!“ 
+ Tichá noc, svätá noc.
+ Svätý chór z nebies hôr||
+ pastierom strážiacim na poli,
+ spásnu zvesť radostne hlaholí:
+ „Kristus sa narodil nám,
+ Kristus sa narodil nám!“ 
 [V3]
- Tichá noc, svätá noc. Boží Syn, prostý vín, preveľkou láskou len nútený, zostúpil medzi nás stratených, spasenie priniesol nám, spasenie priniesol nám. </lyrics>
-</song>
+ Tichá noc, svätá noc.
+ Boží Syn, prostý vín,||
+ preveľkou láskou len nútený,
+ zostúpil medzi nás stratených,
+ spasenie priniesol nám,
+ spasenie priniesol nám. </lyrics>
+  <copyright></copyright>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <tempo></tempo>
+  <time_sig></time_sig></song>
