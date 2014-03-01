@@ -1,10 +1,23 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Amen</title>
-    <author>HUDBA: anon., zo spevníka „Bratské piesne“; TEXT: anon., zo spevníka „Bratské piesne“</author>
-    <hymn_number>400</hymn_number>
-    <presentation>V1</presentation>
-    <theme>POŽEHNANIA; </theme>
-    <lyrics>[V1]
- Amen! Amen! Amen! Amen! </lyrics>
-</song>
+  <title>Amen</title>
+  <author>HUDBA: anon., zo spevníka „Bratské piesne“; TEXT: anon., zo spevníka „Bratské piesne“</author>
+  <hymn_number>400</hymn_number>
+  <presentation>V1</presentation>
+  <theme>POŽEHNANIA; </theme>
+  <lyrics>[V1]
+ A - - - men!
+ A - - - - men!
+ A - - - - - - - - men!
+ A - men! </lyrics>
+  <copyright></copyright>
+  <ccli></ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <tempo></tempo>
+  <time_sig></time_sig></song>
