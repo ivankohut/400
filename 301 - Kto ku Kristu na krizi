@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Kto ku Kristu na kríži</title>
-    <author>TEXT: Amelia M. Hull, prel. Július Kremský; HUDBA: Virgil C. Taylor</author>
-    <hymn_number>301</hymn_number>
-    <presentation>V1 C V2 C V3 C V4 C</presentation>
-    <theme>ŽIVOT KRESŤANA / Napomínanie a povzbudenie; </theme>
-    <lyrics>[V1]
+  <title>Kto ku Kristu na kríži</title>
+  <author>TEXT: Amelia M. Hull, prel. Július Kremský; HUDBA: Virgil C. Taylor</author>
+  <hymn_number>301</hymn_number>
+  <presentation>V1 C V2 C V3 C V4 C</presentation>
+  <theme>ŽIVOT KRESŤANA / Napomínanie a povzbudenie; </theme>
+  <lyrics>[V1]
  Kto ku Kristu na kríži
  upiera zrak,
  je z milosti uzdravený.||
@@ -38,7 +38,7 @@
  Ty z Ježiša smieš čerpať,
  blažene žiť,
  Boh za teba v obeť Ho dal.</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

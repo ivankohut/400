@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Nech príde Tvoje kráľovstvo!</title>
-    <author>TEXT: anon., zo spevníka „Bratské piesne“, prel. Ondrej Betko st.; HUDBA: Charles H. Gabriel</author>
-    <hymn_number>321</hymn_number>
-    <presentation>V1 C V2 C V3 C</presentation>
-    <theme>ZBOROVÝ ŽIVOT / Modlitebné stretnutia; </theme>
-    <lyrics>[V1]
+  <title>Nech príde Tvoje kráľovstvo!</title>
+  <author>TEXT: anon., zo spevníka „Bratské piesne“, prel. Ondrej Betko st.; HUDBA: Charles H. Gabriel</author>
+  <hymn_number>321</hymn_number>
+  <presentation>V1 C V2 C V3 C</presentation>
+  <theme>ZBOROVÝ ŽIVOT / Modlitebné stretnutia; </theme>
+  <lyrics>[V1]
  Nech príde Tvoje kráľovstvo,
  ó, Bože!
  V ňom svitne lásky,
@@ -41,7 +41,7 @@
  človek všetko zmôže,
  Ty obnov nás
  a tiahni stále vpred!</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

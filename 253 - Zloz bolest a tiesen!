@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Zlož bolesť a tieseň!</title>
-    <author>TEXT: Mary A. Bachelor, podľa čes. prekl. J. Bašteckého prel. Jana Nagajová; HUDBA: Philip P. Bliss</author>
-    <hymn_number>253</hymn_number>
-    <presentation>V1 V2 V3</presentation>
-    <theme>ŽIVOT KRESŤANA / Skúšky, boje viery a víťazný život; </theme>
-    <lyrics>[V1]
+  <title>Zlož bolesť a tieseň!</title>
+  <author>TEXT: Mary A. Bachelor, podľa čes. prekl. J. Bašteckého prel. Jana Nagajová; HUDBA: Philip P. Bliss</author>
+  <hymn_number>253</hymn_number>
+  <presentation>V1 V2 V3</presentation>
+  <theme>ŽIVOT KRESŤANA / Skúšky, boje viery a víťazný život; </theme>
+  <lyrics>[V1]
  Zlož bolesť a tieseň
  pod Ježišov kríž!
  Z úst nech ti znie pieseň,
@@ -32,7 +32,7 @@
  ty k Nemu ich voď!
  Slúž, volaj a svedči,
  vstaň, ochotne choď!</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

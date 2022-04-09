@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Duša búrkou zmietaná</title>
-    <author>TEXT: Edward Hopper, prel. Jana Nagajová; HUDBA: John E. Gould</author>
-    <hymn_number>261</hymn_number>
-    <presentation>V1 V2 V3</presentation>
-    <theme>ŽIVOT KRESŤANA / Skúšky, boje viery a víťazný život; </theme>
-    <lyrics>[V1]
+  <title>Duša búrkou zmietaná</title>
+  <author>TEXT: Edward Hopper, prel. Jana Nagajová; HUDBA: John E. Gould</author>
+  <hymn_number>261</hymn_number>
+  <presentation>V1 V2 V3</presentation>
+  <theme>ŽIVOT KRESŤANA / Skúšky, boje viery a víťazný život; </theme>
+  <lyrics>[V1]
  Duša búrkou zmietaná
  pokoj vzácny v Tebe má.
  Úskalím, či hrôzy tmou,
@@ -26,7 +26,7 @@
  silu dúfať dávaš mi.||
  S Tebou môžem dôjsť i ja
  k brehom slávy, pokoja.</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

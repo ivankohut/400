@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Rozsievajme všade!</title>
-    <author>TEXT:  Knowles Shaw, podľa čes. prekl. F. Kozáka prel. Vladimír Kohút; HUDBA: George A. Minor, upr. Slávo Kráľ</author>
-    <hymn_number>344</hymn_number>
-    <presentation>V1 C V2 C V3 C</presentation>
-    <theme>ZBOROVÝ ŽIVOT / Oddelenie pracovníkov k službe; </theme>
-    <lyrics>[V1]
+  <title>Rozsievajme všade!</title>
+  <author>TEXT:  Knowles Shaw, podľa čes. prekl. F. Kozáka prel. Vladimír Kohút; HUDBA: George A. Minor, upr. Slávo Kráľ</author>
+  <hymn_number>344</hymn_number>
+  <presentation>V1 C V2 C V3 C</presentation>
+  <theme>ZBOROVÝ ŽIVOT / Oddelenie pracovníkov k službe; </theme>
+  <lyrics>[V1]
  Rozsievajme všade
  vzácne semä pravdy,
  zvesť o Božej láske
@@ -41,7 +41,7 @@
  príležitosť k práci,
  náš Pán je už blízko,
  k žatve dozrel čas.</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

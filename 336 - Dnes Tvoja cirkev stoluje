@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Dnes Tvoja cirkev stoluje</title>
-    <author>TEXT: Alois Adlof, prel. Vladimír Betina, upr.; HUDBA: Johann Michael Haydn</author>
-    <hymn_number>336</hymn_number>
-    <presentation>V1 V2 V3 V4</presentation>
-    <theme>ZBOROVÝ ŽIVOT / Večera Pánova; </theme>
-    <lyrics>[V1]
+  <title>Dnes Tvoja cirkev stoluje</title>
+  <author>TEXT: Alois Adlof, prel. Vladimír Betina, upr.; HUDBA: Johann Michael Haydn</author>
+  <hymn_number>336</hymn_number>
+  <presentation>V1 V2 V3 V4</presentation>
+  <theme>ZBOROVÝ ŽIVOT / Večera Pánova; </theme>
+  <lyrics>[V1]
  Dnes Tvoja cirkev stoluje,
  ó, Pane Ježišu.
  Veď záchranu, čo zvestuje,
@@ -49,7 +49,7 @@
  si svoju cirkev uhosti!||
  Ó, príď, už príď,
  náš Kráľu, skoro príď!</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

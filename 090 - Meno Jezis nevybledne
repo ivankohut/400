@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Meno Ježiš nevybledne</title>
-    <author>TEXT: David Welander, prel. J. P. Piroch, upr. Ondrej Betko st., upr.; HUDBA: anon., nápev z južnej afriky, harm. David Welander</author>
-    <hymn_number>90</hymn_number>
-    <presentation>V1 C V2 C V3 C</presentation>
-    <theme>PÁN JEŽIŠ KRISTUS / Oslava Spasiteľa; </theme>
-    <lyrics>[V1]
+  <title>Meno Ježiš nevybledne</title>
+  <author>TEXT: David Welander, prel. J. P. Piroch, upr. Ondrej Betko st., upr.; HUDBA: anon., nápev z južnej afriky, harm. David Welander</author>
+  <hymn_number>90</hymn_number>
+  <presentation>V1 C V2 C V3 C</presentation>
+  <theme>PÁN JEŽIŠ KRISTUS / Oslava Spasiteľa; </theme>
+  <lyrics>[V1]
  Meno Ježiš nevybledne,
  nezničí ho času zub.
  Menu Ježiš sláva večná,
@@ -37,7 +37,7 @@
  ako hviezda premenná.
  Príde čas, keď všetci ľudia
  pred Ním sklonia kolená.</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

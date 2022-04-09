@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Pane, pusť nás s požehnaním!</title>
-    <author>TEXT: John Fawcett, podľa čes. prekl. P. Věrného prel. Milan Šramo, Pavel Kondač; HUDBA: Jean J. Rousseau</author>
-    <hymn_number>307</hymn_number>
-    <presentation>V1 V2 V3</presentation>
-    <theme>ZBOROVÝ ŽIVOT / Zhromaždenia Božieho ľudu; </theme>
-    <lyrics>[V1]
+  <title>Pane, pusť nás s požehnaním!</title>
+  <author>TEXT: John Fawcett, podľa čes. prekl. P. Věrného prel. Milan Šramo, Pavel Kondač; HUDBA: Jean J. Rousseau</author>
+  <hymn_number>307</hymn_number>
+  <presentation>V1 V2 V3</presentation>
+  <theme>ZBOROVÝ ŽIVOT / Zhromaždenia Božieho ľudu; </theme>
+  <lyrics>[V1]
  Pane, pusť nás s požehnaním
  domov v Tvojom pokoji!
  Skrze nás nech mnohé rany
@@ -26,7 +26,7 @@
  v slávnej ríši večných krás,||
  tam, kde s Tebou v blaženosti
  zostať smieme, Pane náš!</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Náš Pán, čo ľuďom s láskou slúžil</title>
-    <author>TEXT: Jana Nagajová; HUDBA: Peter P. Bilhorn</author>
-    <hymn_number>355</hymn_number>
-    <presentation>V1 V2 V3</presentation>
-    <theme>ZBOROVÝ ŽIVOT / Oddelenie pracovníkov k službe; </theme>
-    <lyrics>[V1]
+  <title>Náš Pán, čo ľuďom s láskou slúžil</title>
+  <author>TEXT: Jana Nagajová; HUDBA: Peter P. Bilhorn</author>
+  <hymn_number>355</hymn_number>
+  <presentation>V1 V2 V3</presentation>
+  <theme>ZBOROVÝ ŽIVOT / Oddelenie pracovníkov k službe; </theme>
+  <lyrics>[V1]
  Náš Pán,
  čo ľuďom s láskou slúžil,
  chce láske naučiť aj nás.
@@ -38,7 +38,7 @@
  a sám nás pod ochranu vzal,
  veď vie, že nesplníme sami
  ten príkaz lásky, čo nám dal.</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

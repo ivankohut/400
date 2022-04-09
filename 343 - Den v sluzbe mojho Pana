@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Deň v službe môjho Pána</title>
-    <author>TEXT: Anna B. Warner, prel. Mária Royová; HUDBA: Robert Lowry</author>
-    <hymn_number>343</hymn_number>
-    <presentation>V1 C V2 C V3 C V4 C</presentation>
-    <theme>ZBOROVÝ ŽIVOT / Oddelenie pracovníkov k službe; </theme>
-    <lyrics>[V1]
+  <title>Deň v službe môjho Pána</title>
+  <author>TEXT: Anna B. Warner, prel. Mária Royová; HUDBA: Robert Lowry</author>
+  <hymn_number>343</hymn_number>
+  <presentation>V1 C V2 C V3 C V4 C</presentation>
+  <theme>ZBOROVÝ ŽIVOT / Oddelenie pracovníkov k službe; </theme>
+  <lyrics>[V1]
  Deň v službe môjho Pána
  smieť prežiť, to je slasť!||
  Hluk sveta stíchne,
@@ -38,7 +38,7 @@
  i nepokojom
  tu radosť nehasne.
  A Vodca náš ťa iste požehná.</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

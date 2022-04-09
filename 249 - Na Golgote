@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Na Golgote</title>
-    <author>TEXT: William R. Newell, prel. Vincent P. Stupka; HUDBA: Daniel B. Towner</author>
-    <hymn_number>249</hymn_number>
-    <presentation>V1 C V2 C V3 C V4 C</presentation>
-    <theme>ŽIVOT KRESŤANA / Skúšky, boje viery a víťazný život; </theme>
-    <lyrics>[V1]
+  <title>Na Golgote</title>
+  <author>TEXT: William R. Newell, prel. Vincent P. Stupka; HUDBA: Daniel B. Towner</author>
+  <hymn_number>249</hymn_number>
+  <presentation>V1 C V2 C V3 C V4 C</presentation>
+  <theme>ŽIVOT KRESŤANA / Skúšky, boje viery a víťazný život; </theme>
+  <lyrics>[V1]
  V márnosti som život utrácal,
  nedbajúc som Pána križoval.
  Nevediac, že pre mňa život dal
@@ -31,7 +31,7 @@
  ľudské srdce jasom naplníš,
  ktoré vierou k Tebe pozrie sa
  na Golgotu.</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

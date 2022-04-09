@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Boh zázrakov</title>
-    <author>TEXT: James Montgomery, prel. Jana Nagajová; HUDBA: Franklind L. Sheppard</author>
-    <hymn_number>28</hymn_number>
-    <presentation>V1 V2 V3</presentation>
-    <theme>TROJJEDINÝ BOH A NEBESKÝ OTEC / Boh - Stvoriteľ a Udržiavateľ sveta; </theme>
-    <lyrics>[V1]
+  <title>Boh zázrakov</title>
+  <author>TEXT: James Montgomery, prel. Jana Nagajová; HUDBA: Franklind L. Sheppard</author>
+  <hymn_number>28</hymn_number>
+  <presentation>V1 V2 V3</presentation>
+  <theme>TROJJEDINÝ BOH A NEBESKÝ OTEC / Boh - Stvoriteľ a Udržiavateľ sveta; </theme>
+  <lyrics>[V1]
  Kto stvoril tento svet,
  kto vpísal krásu doň
  a komu celým vesmírom
@@ -32,7 +32,7 @@
  a poviem s dôverou:
  „Buď mojím Pánom naveky,
  ó, Bože zázrakov!“</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

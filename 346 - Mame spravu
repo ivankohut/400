@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Máme správu</title>
-    <author>TEXT: Henry E. Nichol, podľa čes. prekl. J. Zmrhala prel. Jana Nagajová; HUDBA: Henry E. Nichol</author>
-    <hymn_number>346</hymn_number>
-    <presentation>V1 C V2 C V3 C</presentation>
-    <theme>ZBOROVÝ ŽIVOT / Oddelenie pracovníkov k službe; </theme>
-    <lyrics>[V1]
+  <title>Máme správu</title>
+  <author>TEXT: Henry E. Nichol, podľa čes. prekl. J. Zmrhala prel. Jana Nagajová; HUDBA: Henry E. Nichol</author>
+  <hymn_number>346</hymn_number>
+  <presentation>V1 C V2 C V3 C</presentation>
+  <theme>ZBOROVÝ ŽIVOT / Oddelenie pracovníkov k službe; </theme>
+  <lyrics>[V1]
  Máme príbeh, čo znie ako zázrak,
  z našich úst ho svet počuť má,
  sám Boh ľuďom poslal Syna
@@ -28,7 +28,7 @@
  Kráľ kráľov je večná láska,
  jej hĺbka je bezodná,
  jej hĺbka je bezodná.</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

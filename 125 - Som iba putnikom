@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Som iba pútnikom</title>
-    <author>TEXT: Elijah T. Cassel, voľne prel. Jana Nagajová; HUDBA: Flora H. Cassel</author>
-    <hymn_number>125</hymn_number>
-    <presentation>V1 C V2 C V3 C</presentation>
-    <theme>BOŽIE DIELO ZÁCHRANY ČLOVEKA / Pozvanie k Pánovi Ježišovi; </theme>
-    <lyrics>[V1]
+  <title>Som iba pútnikom</title>
+  <author>TEXT: Elijah T. Cassel, voľne prel. Jana Nagajová; HUDBA: Flora H. Cassel</author>
+  <hymn_number>125</hymn_number>
+  <presentation>V1 C V2 C V3 C</presentation>
+  <theme>BOŽIE DIELO ZÁCHRANY ČLOVEKA / Pozvanie k Pánovi Ježišovi; </theme>
+  <lyrics>[V1]
  Som iba pútnikom
  tu vprostred cudziny,
  ja vierou dívam sa
@@ -35,7 +35,7 @@
  A preto káže mi
  Pán Ježiš volať vás.
  Tak poďte k Bohu, kým je čas!</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

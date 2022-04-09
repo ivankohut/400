@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Ten, kto mladý spoznal Pána</title>
-    <author>TEXT: Alois Adlof, prel. Jana Nagajová; HUDBA: William B. Bradbury, upr. anon.</author>
-    <hymn_number>283</hymn_number>
-    <presentation>V1 V2 V3</presentation>
-    <theme>ŽIVOT KRESŤANA / Vyznávanie a svedecký život; </theme>
-    <lyrics>[V1]
+  <title>Ten, kto mladý spoznal Pána</title>
+  <author>TEXT: Alois Adlof, prel. Jana Nagajová; HUDBA: William B. Bradbury, upr. anon.</author>
+  <hymn_number>283</hymn_number>
+  <presentation>V1 V2 V3</presentation>
+  <theme>ŽIVOT KRESŤANA / Vyznávanie a svedecký život; </theme>
+  <lyrics>[V1]
  Ten, kto mladý spoznal Pána,
  kto Mu svoje srdce dal,
  koho spasením a láskou
@@ -32,7 +32,7 @@
  aký vzácny poklad má,
  kto mu dáva život večný:
  Ježiš, nádej jediná.</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

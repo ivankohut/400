@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Som, Pane, Tvoj!</title>
-    <author>TEXT: T. Holm-Glad, prel. Marie Rafajová, upr. Ján Hudec; HUDBA: T. Holm-Glad</author>
-    <hymn_number>202</hymn_number>
-    <presentation>V1 C V2 C V3 C V4 C</presentation>
-    <theme>ŽIVOT KRESŤANA / Vzťah lásky a dôvery k Pánovi; </theme>
-    <lyrics>[V1]
+  <title>Som, Pane, Tvoj!</title>
+  <author>TEXT: T. Holm-Glad, prel. Marie Rafajová, upr. Ján Hudec; HUDBA: T. Holm-Glad</author>
+  <hymn_number>202</hymn_number>
+  <presentation>V1 C V2 C V3 C V4 C</presentation>
+  <theme>ŽIVOT KRESŤANA / Vzťah lásky a dôvery k Pánovi; </theme>
+  <lyrics>[V1]
  Som, Pane, Tvoj!
  Čo môže viac byť nad to?
  Či kráľov lesk
@@ -50,7 +50,7 @@
  nová pieseň slávi,
  tam skončí v slasti
  strastná žitia púť.</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Ó, pripravuj sa, Boží ľud!</title>
-    <author>TEXT: anon., zo spevníka „A Hit Hangja“, prel. Pavel Kondač, upr.; HUDBA: anon., zo spevníka „Bratské piesne“, harm. Milan Uhrin</author>
-    <hymn_number>85</hymn_number>
-    <presentation>V1 C V2 C V3 C</presentation>
-    <theme>PÁN JEŽIŠ KRISTUS / Kráľovstvo Kristovo a druhý príchod; </theme>
-    <lyrics>[V1]
+  <title>Ó, pripravuj sa, Boží ľud!</title>
+  <author>TEXT: anon., zo spevníka „A Hit Hangja“, prel. Pavel Kondač, upr.; HUDBA: anon., zo spevníka „Bratské piesne“, harm. Milan Uhrin</author>
+  <hymn_number>85</hymn_number>
+  <presentation>V1 C V2 C V3 C</presentation>
+  <theme>PÁN JEŽIŠ KRISTUS / Kráľovstvo Kristovo a druhý príchod; </theme>
+  <lyrics>[V1]
  Ó, pripravuj sa, Boží ľud,
  je blízko Ženích, bdelý buď!
  Len čakaj ako nevesta,
@@ -27,7 +27,7 @@
  vždy na hlas Pánov pozor daj!
  Bdej, modli sa a pracuj len,
  kým príde Pánov deň!</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

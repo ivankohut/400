@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Nedeľný zvon</title>
-    <author>TEXT: anon., hebrejský nápev,  prel. Jana Nagajová; HUDBA: anon., hebrejský nápev, harm. Slávo Kráľ</author>
-    <hymn_number>316</hymn_number>
-    <presentation>C V1 C V2 C V3 C</presentation>
-    <theme>ZBOROVÝ ŽIVOT / Deň Pánov - nedeľa; </theme>
-    <lyrics>[C]
+  <title>Nedeľný zvon</title>
+  <author>TEXT: anon., hebrejský nápev,  prel. Jana Nagajová; HUDBA: anon., hebrejský nápev, harm. Slávo Kráľ</author>
+  <hymn_number>316</hymn_number>
+  <presentation>C V1 C V2 C V3 C</presentation>
+  <theme>ZBOROVÝ ŽIVOT / Deň Pánov - nedeľa; </theme>
+  <lyrics>[C]
  Nedeľný zneje zvon,
  už nás čaká Boží dom.
  S náhlivou radosťou,
@@ -25,7 +25,7 @@
  Tebe vďačí Boží ľud,
  že do nášho srdca vlievaš
  pokoja a sily prúd.</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

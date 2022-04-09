@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Doteraz nám pomáhal</title>
-    <author>TEXT: anon., zo spevníka „Bratské piesne“, podľa čes. prekl. J. Bašteckého prel. Ľudovít Fazekaš; HUDBA: anon., starý český nápev „Franusův kancionál“</author>
-    <hymn_number>303</hymn_number>
-    <presentation>V1 V2 V3 V4 V5</presentation>
-    <theme>ZBOROVÝ ŽIVOT / Zhromaždenia Božieho ľudu; </theme>
-    <lyrics>[V1]
+  <title>Doteraz nám pomáhal</title>
+  <author>TEXT: anon., zo spevníka „Bratské piesne“, podľa čes. prekl. J. Bašteckého prel. Ľudovít Fazekaš; HUDBA: anon., starý český nápev „Franusův kancionál“</author>
+  <hymn_number>303</hymn_number>
+  <presentation>V1 V2 V3 V4 V5</presentation>
+  <theme>ZBOROVÝ ŽIVOT / Zhromaždenia Božieho ľudu; </theme>
+  <lyrics>[V1]
  Doteraz nám pomáhal
  Pán Boh dobrotivý,
  preto k Nemu obráťme
@@ -50,7 +50,7 @@
  verne podopiera,
  privedie raz ku cieľu,
  ktorý zrela viera.</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

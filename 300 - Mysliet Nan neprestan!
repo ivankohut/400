@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Myslieť Naň neprestaň!</title>
-    <author>TEXT: anon., zo spevníka „Piesne sionské“, prel. Kristína Royová, upr.; HUDBA: Joseph D. Little</author>
-    <hymn_number>300</hymn_number>
-    <presentation>V1 V2 V3 V4</presentation>
-    <theme>ŽIVOT KRESŤANA / Napomínanie a povzbudenie; </theme>
-    <lyrics>[V1]
+  <title>Myslieť Naň neprestaň!</title>
+  <author>TEXT: anon., zo spevníka „Piesne sionské“, prel. Kristína Royová, upr.; HUDBA: Joseph D. Little</author>
+  <hymn_number>300</hymn_number>
+  <presentation>V1 V2 V3 V4</presentation>
+  <theme>ŽIVOT KRESŤANA / Napomínanie a povzbudenie; </theme>
+  <lyrics>[V1]
  Ježiš sám je tvojím Kráľom,
  myslieť Naň neprestaň!
  Vo dne, v noci, zavčas ráno
@@ -41,7 +41,7 @@
  z dlane Otca lásky diel,
  v nebi slávny žitia cieľ.
  Myslieť Naň neprestaň!</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

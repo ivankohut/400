@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Pane, prúdom požehnania</title>
-    <author>TEXT: Elizabeth Codner, prel. Marie Rafajová, upr.; HUDBA: anon., zo spevníka „Bratské piesne“, ruský nápev, upr.</author>
-    <hymn_number>396</hymn_number>
-    <presentation>V1 V2 V3 V4</presentation>
-    <theme>POŽEHNANIA; </theme>
-    <lyrics>[V1]
+  <title>Pane, prúdom požehnania</title>
+  <author>TEXT: Elizabeth Codner, prel. Marie Rafajová, upr.; HUDBA: anon., zo spevníka „Bratské piesne“, ruský nápev, upr.</author>
+  <hymn_number>396</hymn_number>
+  <presentation>V1 V2 V3 V4</presentation>
+  <theme>POŽEHNANIA; </theme>
+  <lyrics>[V1]
  Pane, prúdom požehnania
  vieš aj púšte zmeniť v raj.
  V množstve svojho zľutovania
@@ -33,7 +33,7 @@
  k službe si ma povolaj!||
  Povolaj, povolaj,
  i mňa k službe povolaj!</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

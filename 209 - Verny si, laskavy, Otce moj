@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Verný si, láskavý, Otče môj</title>
-    <author>TEXT: Thomas O. Chisholm, prel. Milan Šramo, upr.; HUDBA: William M. Runyan</author>
-    <hymn_number>209</hymn_number>
-    <presentation>V1 C V2 C V3 C</presentation>
-    <theme>ŽIVOT KRESŤANA / Vzťah lásky a dôvery k Pánovi; </theme>
-    <lyrics>[V1]
+  <title>Verný si, láskavý, Otče môj</title>
+  <author>TEXT: Thomas O. Chisholm, prel. Milan Šramo, upr.; HUDBA: William M. Runyan</author>
+  <hymn_number>209</hymn_number>
+  <presentation>V1 C V2 C V3 C</presentation>
+  <theme>ŽIVOT KRESŤANA / Vzťah lásky a dôvery k Pánovi; </theme>
+  <lyrics>[V1]
  Verný si, láskavý,
  Otče môj, Bože,
  Teba mi nijaký
@@ -41,7 +41,7 @@
  zmocňuješ milou,
  za všetko vzdávam Ti
  chválu a česť.</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

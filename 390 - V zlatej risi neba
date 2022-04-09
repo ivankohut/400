@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>V zlatej ríši neba</title>
-    <author>TEXT: Július Kremský; HUDBA: anon., spirituál, harm. Július Kremský</author>
-    <hymn_number>390</hymn_number>
-    <presentation>V1 C V2 C V3 C V4 C</presentation>
-    <theme>VEČNÝ ŽIVOT / Nebeská vlasť; </theme>
-    <lyrics>[V1]
+  <title>V zlatej ríši neba</title>
+  <author>TEXT: Július Kremský; HUDBA: anon., spirituál, harm. Július Kremský</author>
+  <hymn_number>390</hymn_number>
+  <presentation>V1 C V2 C V3 C V4 C</presentation>
+  <theme>VEČNÝ ŽIVOT / Nebeská vlasť; </theme>
+  <lyrics>[V1]
  Vzácne príbytky
  nám už chystá Pán
  v zlatej ríši neba.||
@@ -39,7 +39,7 @@
  spievať naveky
  piesne blažené
  v zlatej ríši neba.</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

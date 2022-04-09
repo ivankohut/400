@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Dal si mi sviecu</title>
-    <author>TEXT: Charles H. Gabriel, prel. Jana Nagajová; HUDBA: Charles H. Gabriel</author>
-    <hymn_number>102</hymn_number>
-    <presentation>V1 C V2 C V3 C</presentation>
-    <theme>BOŽIE SLOVO; </theme>
-    <lyrics>[V1]
+  <title>Dal si mi sviecu</title>
+  <author>TEXT: Charles H. Gabriel, prel. Jana Nagajová; HUDBA: Charles H. Gabriel</author>
+  <hymn_number>102</hymn_number>
+  <presentation>V1 C V2 C V3 C</presentation>
+  <theme>BOŽIE SLOVO; </theme>
+  <lyrics>[V1]
  Dal si mi sviecu na cestu tmou,
  svetlo, čo žiari mi z Tvojich slov.
  Radiť mi vie, keď bezradný som,
@@ -27,7 +27,7 @@
  aj v časoch zlých.
  K večnému cieľu nestratiť smer,
  počuť, že vravíš mi: „Môj si, ver!“</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

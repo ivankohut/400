@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Spasiteľu, kríž svoj beriem</title>
-    <author>TEXT: Henry F. Lyte, prel. Milan Šramo; HUDBA: Wolfgang Amadeus Mozart, harm. Hubert P. Main</author>
-    <hymn_number>240</hymn_number>
-    <presentation>V1 V2 V3 V4</presentation>
-    <theme>ŽIVOT KRESŤANA / Nasledovanie Pána Ježiša - Bohu odovzdaný život; </theme>
-    <lyrics>[V1]
+  <title>Spasiteľu, kríž svoj beriem</title>
+  <author>TEXT: Henry F. Lyte, prel. Milan Šramo; HUDBA: Wolfgang Amadeus Mozart, harm. Hubert P. Main</author>
+  <hymn_number>240</hymn_number>
+  <presentation>V1 V2 V3 V4</presentation>
+  <theme>ŽIVOT KRESŤANA / Nasledovanie Pána Ježiša - Bohu odovzdaný život; </theme>
+  <lyrics>[V1]
  Spasiteľu, kríž svoj beriem,
  za Tebou chcem putovať.
  Hoc ma budú ľudia haniť,
@@ -41,7 +41,7 @@
  moja cesta pozemská.
  Tvárou v tvár Ťa uzriem, Pane,
  srdce chválou zaplesá.</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

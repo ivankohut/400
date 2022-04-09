@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Viac zbožnosti, Pane</title>
-    <author>TEXT: Philip P. Bliss, podľa čes. prekl. N. Čapka prel. Karel Vaculík; HUDBA: Philip P. Bliss</author>
-    <hymn_number>151</hymn_number>
-    <presentation>V1 V2 V3 V4</presentation>
-    <theme>BOŽIE DIELO ZÁCHRANY ČLOVEKA / Odovzdanie sa a posvätenie; </theme>
-    <lyrics>[V1]
+  <title>Viac zbožnosti, Pane</title>
+  <author>TEXT: Philip P. Bliss, podľa čes. prekl. N. Čapka prel. Karel Vaculík; HUDBA: Philip P. Bliss</author>
+  <hymn_number>151</hymn_number>
+  <presentation>V1 V2 V3 V4</presentation>
+  <theme>BOŽIE DIELO ZÁCHRANY ČLOVEKA / Odovzdanie sa a posvätenie; </theme>
+  <lyrics>[V1]
  Čuj pokornú prosbu,
  môj bôľ a žiaľ znáš!
  Ty, milosti plný,
@@ -41,7 +41,7 @@
  svätosti skvost,
  nech každý to vidí,
  že som tu len hosť.</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

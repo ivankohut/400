@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Haleluja, chváľme Pána!</title>
-    <author>TEXT: Charles Wesley, prel. Ľudmila Šramová; HUDBA: Rowland H. Prichard, harm. Robert Harkness</author>
-    <hymn_number>52</hymn_number>
-    <presentation>V1 C V2 C</presentation>
-    <theme>PÁN JEŽIŠ KRISTUS / Narodenie - Vianoce; </theme>
-    <lyrics>[V1]
+  <title>Haleluja, chváľme Pána!</title>
+  <author>TEXT: Charles Wesley, prel. Ľudmila Šramová; HUDBA: Rowland H. Prichard, harm. Robert Harkness</author>
+  <hymn_number>52</hymn_number>
+  <presentation>V1 C V2 C</presentation>
+  <theme>PÁN JEŽIŠ KRISTUS / Narodenie - Vianoce; </theme>
+  <lyrics>[V1]
  Haleluja, chváľme Pána,
  vďaku, česť Mu vzdávajme!
  V malom meste Betleheme
@@ -20,7 +20,7 @@
  slávu neba opustil,
  aby svojou krvou drahou
  našu spásu vydobyl.</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Večerné keď zvony znejú</title>
-    <author>TEXT: anon., zo spevníka „Bratské piesne“, podľa čes. prekl. J. Stránskeho prel. Jana Nagajová; HUDBA: anon., zo spevníka „Bratské piesne“, ľud. nápev, harm. J. Andrew Stevenson</author>
-    <hymn_number>367</hymn_number>
-    <presentation>V1 C V2 C V3 C V4 C</presentation>
-    <theme>ŽIVOT V RODINE / Rodinná bohoslužba; </theme>
-    <lyrics>[V1]
+  <title>Večerné keď zvony znejú</title>
+  <author>TEXT: anon., zo spevníka „Bratské piesne“, podľa čes. prekl. J. Stránskeho prel. Jana Nagajová; HUDBA: anon., zo spevníka „Bratské piesne“, ľud. nápev, harm. J. Andrew Stevenson</author>
+  <hymn_number>367</hymn_number>
+  <presentation>V1 C V2 C V3 C V4 C</presentation>
+  <theme>ŽIVOT V RODINE / Rodinná bohoslužba; </theme>
+  <lyrics>[V1]
  Večerné keď zvony znejú,
  obráť k nebu pohľad svoj!
  Nezabudni, koľko dobra
@@ -30,7 +30,7 @@
  obráť k nebu pohľad svoj!
  Nový deň ti pripomína
  hviezda ranná, Ježiš tvoj!</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

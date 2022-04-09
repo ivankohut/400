@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Vierou sa pozerám</title>
-    <author>TEXT: Ray Palmer, prel. Augustín Štefanec, upr.; HUDBA: Lowell Mason</author>
-    <hymn_number>237</hymn_number>
-    <presentation>V1 V2 V3 V4</presentation>
-    <theme>ŽIVOT KRESŤANA / Nasledovanie Pána Ježiša - Bohu odovzdaný život; </theme>
-    <lyrics>[V1]
+  <title>Vierou sa pozerám</title>
+  <author>TEXT: Ray Palmer, prel. Augustín Štefanec, upr.; HUDBA: Lowell Mason</author>
+  <hymn_number>237</hymn_number>
+  <presentation>V1 V2 V3 V4</presentation>
+  <theme>ŽIVOT KRESŤANA / Nasledovanie Pána Ježiša - Bohu odovzdaný život; </theme>
+  <lyrics>[V1]
  Vierou sa pozerám
  tam hore, k výšinám,
  kríž Tvoj kde stál,||
@@ -37,7 +37,7 @@
  všemocný Spasiteľ,
  láskavý Tešiteľ.
  Čo viac mať chcem?</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

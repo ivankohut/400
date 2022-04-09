@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>S Tebou chcem kráčať</title>
-    <author>TEXT: Howard A. Walter, prel. Ondrej Fabrici, upr. Ján Hudec; HUDBA: Joseph Y. Peek</author>
-    <hymn_number>242</hymn_number>
-    <presentation>V1 V2 V3 V4 V5</presentation>
-    <theme>ŽIVOT KRESŤANA / Nasledovanie Pána Ježiša - Bohu odovzdaný život; </theme>
-    <lyrics>[V1]
+  <title>S Tebou chcem kráčať</title>
+  <author>TEXT: Howard A. Walter, prel. Ondrej Fabrici, upr. Ján Hudec; HUDBA: Joseph Y. Peek</author>
+  <hymn_number>242</hymn_number>
+  <presentation>V1 V2 V3 V4 V5</presentation>
+  <theme>ŽIVOT KRESŤANA / Nasledovanie Pána Ježiša - Bohu odovzdaný život; </theme>
+  <lyrics>[V1]
  S Tebou chcem kráčať
  verne k svojmu cieľu,
  hoc budú zmáčať
@@ -50,7 +50,7 @@
  pokoj v búrkach zlosti,
  /: hrad prepevný
  i skrýšu v Tebe mám, :/</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

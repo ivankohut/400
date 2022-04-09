@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Otče, chcem byť svätý, čistý</title>
-    <author>TEXT: anon., zo spevníka „Bratské piesne“, prel. Július Kremský; HUDBA: James McGranahan</author>
-    <hymn_number>156</hymn_number>
-    <presentation>V1 C V2 C V3 C V4 C</presentation>
-    <theme>BOŽIE DIELO ZÁCHRANY ČLOVEKA / Odovzdanie sa a posvätenie; </theme>
-    <lyrics>[V1]
+  <title>Otče, chcem byť svätý, čistý</title>
+  <author>TEXT: anon., zo spevníka „Bratské piesne“, prel. Július Kremský; HUDBA: James McGranahan</author>
+  <hymn_number>156</hymn_number>
+  <presentation>V1 C V2 C V3 C V4 C</presentation>
+  <theme>BOŽIE DIELO ZÁCHRANY ČLOVEKA / Odovzdanie sa a posvätenie; </theme>
+  <lyrics>[V1]
  Otče, chcem byť svätý, čistý,
  verím, že ma posvätíš,
  krvou môjho Spasiteľa
@@ -30,7 +30,7 @@
  prosí dieťa skrúšené:
  „Z milosti ma učiň svätým,
  daj mi plné spasenie!“</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

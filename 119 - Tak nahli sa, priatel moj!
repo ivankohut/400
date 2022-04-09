@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Tak náhli sa, priateľ môj!</title>
-    <author>TEXT: Heinrich G. Odinga, prel. Karel Vaculík, upr.; HUDBA: anon., zo spevníka „Reichs Lieder“</author>
-    <hymn_number>119</hymn_number>
-    <presentation>V1 C V2 C V3 C V4 C</presentation>
-    <theme>BOŽIE DIELO ZÁCHRANY ČLOVEKA / Pozvanie k Pánovi Ježišovi; </theme>
-    <lyrics>[V1]
+  <title>Tak náhli sa, priateľ môj!</title>
+  <author>TEXT: Heinrich G. Odinga, prel. Karel Vaculík, upr.; HUDBA: anon., zo spevníka „Reichs Lieder“</author>
+  <hymn_number>119</hymn_number>
+  <presentation>V1 C V2 C V3 C V4 C</presentation>
+  <theme>BOŽIE DIELO ZÁCHRANY ČLOVEKA / Pozvanie k Pánovi Ježišovi; </theme>
+  <lyrics>[V1]
  Ó, priateľ môj,
  ponáhľaj pod kríž,
  tvoj Spasiteľ volá ťa dnes!
@@ -34,7 +34,7 @@
  je v nebesiach schystaná nám.
  Nie nadarmo prišli sme pod kríž,
  nám korunu pripravil Pán.</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

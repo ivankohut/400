@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Tak sa raz už rozhodnite!</title>
-    <author>TEXT: Mária Royová, upr. Ivan Valenta; HUDBA: Mária Royová, upravil a 3. a 4. riadok napísal Ivan Valenta</author>
-    <hymn_number>130</hymn_number>
-    <presentation>V1 V2 V3</presentation>
-    <theme>BOŽIE DIELO ZÁCHRANY ČLOVEKA / Pozvanie k Pánovi Ježišovi; </theme>
-    <lyrics>[V1]
+  <title>Tak sa raz už rozhodnite!</title>
+  <author>TEXT: Mária Royová, upr. Ivan Valenta; HUDBA: Mária Royová, upravil a 3. a 4. riadok napísal Ivan Valenta</author>
+  <hymn_number>130</hymn_number>
+  <presentation>V1 V2 V3</presentation>
+  <theme>BOŽIE DIELO ZÁCHRANY ČLOVEKA / Pozvanie k Pánovi Ježišovi; </theme>
+  <lyrics>[V1]
  Tak sa raz už rozhodnite,
  komu život venovať!
  Nemožné je Kristu slúžiť
@@ -32,7 +32,7 @@
  slávu nebies chce ti dať.
  Rozhodni sa, neodkladaj,
  lebo budeš ľutovať!</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Čas radosti</title>
-    <author>TEXT: anon., zo spevníka „Cantus catholici“, upr.; HUDBA: anon., ľudový nápev</author>
-    <hymn_number>49</hymn_number>
-    <presentation>V1 V2 V3</presentation>
-    <theme>PÁN JEŽIŠ KRISTUS / Narodenie - Vianoce; </theme>
-    <lyrics>[V1]
+  <title>Čas radosti</title>
+  <author>TEXT: anon., zo spevníka „Cantus catholici“, upr.; HUDBA: anon., ľudový nápev</author>
+  <hymn_number>49</hymn_number>
+  <presentation>V1 V2 V3</presentation>
+  <theme>PÁN JEŽIŠ KRISTUS / Narodenie - Vianoce; </theme>
+  <lyrics>[V1]
  Čas radosti, veselosti
  nastal požehnaný,
  veď Boh večný, nekonečný,
@@ -38,7 +38,7 @@
  dôjsť i nám,
  daj z milosti do radosti
  dôjsť i nám!</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

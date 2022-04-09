@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Za teba na kríži</title>
-    <author>TEXT: Ernst H. Gebhardt, prel. Mária Royová; HUDBA: Ernst H. Gebhardt</author>
-    <hymn_number>296</hymn_number>
-    <presentation>V1 V2 V3 V4</presentation>
-    <theme>ŽIVOT KRESŤANA / Napomínanie a povzbudenie; </theme>
-    <lyrics>[V1]
+  <title>Za teba na kríži</title>
+  <author>TEXT: Ernst H. Gebhardt, prel. Mária Royová; HUDBA: Ernst H. Gebhardt</author>
+  <hymn_number>296</hymn_number>
+  <presentation>V1 V2 V3 V4</presentation>
+  <theme>ŽIVOT KRESŤANA / Napomínanie a povzbudenie; </theme>
+  <lyrics>[V1]
  Za teba na kríži
  z lásky som zomieral,
  vylial som svoju krv,
@@ -33,7 +33,7 @@
  večný svoj poklad máš.||
  V moju sa službu daj
  a všetko vo Mne maj!</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

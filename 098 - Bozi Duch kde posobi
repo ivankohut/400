@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Boží Duch kde pôsobí</title>
-    <author>TEXT: Norbert Čapek, prel. Jana Nagajová; HUDBA: anon., zo spevníka „Bratské piesne“, harm. Milan Uhrin</author>
-    <hymn_number>98</hymn_number>
-    <presentation>V1 V2 V3 V4</presentation>
-    <theme>DUCH SVÄTÝ; </theme>
-    <lyrics>[V1]
+  <title>Boží Duch kde pôsobí</title>
+  <author>TEXT: Norbert Čapek, prel. Jana Nagajová; HUDBA: anon., zo spevníka „Bratské piesne“, harm. Milan Uhrin</author>
+  <hymn_number>98</hymn_number>
+  <presentation>V1 V2 V3 V4</presentation>
+  <theme>DUCH SVÄTÝ; </theme>
+  <lyrics>[V1]
  Boží Duch kde pôsobí,
  srdce tiahne k Pánovi.
  Prebudí v ňom žiadosť čistú
@@ -33,7 +33,7 @@
  žije život premenený.||
  Boží Duch kde zavládne,
  srdce pokoj ovládne.</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

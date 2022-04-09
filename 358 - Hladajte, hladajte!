@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Hľadajte, hľadajte!</title>
-    <author>TEXT: Alexcenah Thomas, podľa čes. prekl. N. Čapka prel. Jana Nagajová; HUDBA: William A. Ogden, harm. Jaromír Urbanec</author>
-    <hymn_number>358</hymn_number>
-    <presentation>V1 C V2 C V3 C</presentation>
-    <theme>ZBOROVÝ ŽIVOT / Oddelenie pracovníkov k službe; </theme>
-    <lyrics>[V1]
+  <title>Hľadajte, hľadajte!</title>
+  <author>TEXT: Alexcenah Thomas, podľa čes. prekl. N. Čapka prel. Jana Nagajová; HUDBA: William A. Ogden, harm. Jaromír Urbanec</author>
+  <hymn_number>358</hymn_number>
+  <presentation>V1 C V2 C V3 C</presentation>
+  <theme>ZBOROVÝ ŽIVOT / Oddelenie pracovníkov k službe; </theme>
+  <lyrics>[V1]
  Pastiera nášho smutný hlas
  púšťou sa nesie zas a zas.
  Blúdia tam ovce v nešťastí,
@@ -25,7 +25,7 @@
  práce je veľa, plynie čas.
  Nie, nik sa nemá kochať sám
  v spáse, čo zdarma dal mu Pán.</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

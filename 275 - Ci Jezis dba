@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Či Ježiš dbá?</title>
-    <author>TEXT: Frank E. Graeff, prel. Ján P. Piroch; HUDBA: Joseph L. Hall</author>
-    <hymn_number>275</hymn_number>
-    <presentation>V1 C V2 C V3 C</presentation>
-    <theme>ŽIVOT KRESŤANA / Vyznávanie a svedecký život; </theme>
-    <lyrics>[V1]
+  <title>Či Ježiš dbá?</title>
+  <author>TEXT: Frank E. Graeff, prel. Ján P. Piroch; HUDBA: Joseph L. Hall</author>
+  <hymn_number>275</hymn_number>
+  <presentation>V1 C V2 C V3 C</presentation>
+  <theme>ŽIVOT KRESŤANA / Vyznávanie a svedecký život; </theme>
+  <lyrics>[V1]
  Či Ježiš dbá, keď ma zviera bôľ
  a keď zronený, biedny som?
  Či Pán z výsosti nesie starosti
@@ -27,7 +27,7 @@
  navždy s tým, kto ma opustil?
  A keď zosmutniem, či mi rozumie?
  Či On bolesť neokúsil?</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

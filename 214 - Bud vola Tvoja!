@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Buď vôľa Tvoja!</title>
-    <author>TEXT: Adelaide A. Pollard, prel. Daniel Slabey, upr. Jana Nagajová; HUDBA: George C. Stebbins</author>
-    <hymn_number>214</hymn_number>
-    <presentation>V1 V2 V3 V4</presentation>
-    <theme>ŽIVOT KRESŤANA / Vzťah lásky a dôvery k Pánovi; </theme>
-    <lyrics>[V1]
+  <title>Buď vôľa Tvoja!</title>
+  <author>TEXT: Adelaide A. Pollard, prel. Daniel Slabey, upr. Jana Nagajová; HUDBA: George C. Stebbins</author>
+  <hymn_number>214</hymn_number>
+  <presentation>V1 V2 V3 V4</presentation>
+  <theme>ŽIVOT KRESŤANA / Vzťah lásky a dôvery k Pánovi; </theme>
+  <lyrics>[V1]
  Buď vôľa Tvoja, ó, Pane môj,
  Ty si ma stvoril
  a ja som Tvoj!
@@ -29,7 +29,7 @@
  Svätý Duch Tvoj!
  Pretože navždy Tvojím byť chcem,
  uč ma, nech Tebe poddať sa viem!</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

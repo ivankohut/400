@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Sláva Tebe, dobrý Bože náš</title>
-    <author>TEXT: Karol Synovec; HUDBA: János Juhász</author>
-    <hymn_number>47</hymn_number>
-    <presentation>V1 C V2 C V3 C</presentation>
-    <theme>PÁN JEŽIŠ KRISTUS / Narodenie - Vianoce; </theme>
-    <lyrics>[V1]
+  <title>Sláva Tebe, dobrý Bože náš</title>
+  <author>TEXT: Karol Synovec; HUDBA: János Juhász</author>
+  <hymn_number>47</hymn_number>
+  <presentation>V1 C V2 C V3 C</presentation>
+  <theme>PÁN JEŽIŠ KRISTUS / Narodenie - Vianoce; </theme>
+  <lyrics>[V1]
  Sláva Tebe, dobrý Bože náš,
  že si svojho Syna dal,
  aby každý, kto Mu uverí,
@@ -25,7 +25,7 @@
  v srdciach postavme Mu trón!
  Jemu samému sa klaňajme,
  nech je vyvýšený On!</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

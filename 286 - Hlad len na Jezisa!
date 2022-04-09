@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Hľaď len na Ježiša!</title>
-    <author>TEXT: Theodor Kübler, prel. Mária Royová, upr. Ondrej Betko ml.; HUDBA: Philip P. Bliss</author>
-    <hymn_number>286</hymn_number>
-    <presentation>V1 V2 V3 V4</presentation>
-    <theme>ŽIVOT KRESŤANA / Napomínanie a povzbudenie; </theme>
-    <lyrics>[V1]
+  <title>Hľaď len na Ježiša!</title>
+  <author>TEXT: Theodor Kübler, prel. Mária Royová, upr. Ondrej Betko ml.; HUDBA: Philip P. Bliss</author>
+  <hymn_number>286</hymn_number>
+  <presentation>V1 V2 V3 V4</presentation>
+  <theme>ŽIVOT KRESŤANA / Napomínanie a povzbudenie; </theme>
+  <lyrics>[V1]
  Hľaď len na Ježiša,
  spása je len v Ňom,
  naplňuje srdce
@@ -41,7 +41,7 @@
  „Všetko schystal som.“
  Večne budeš živý
  s Pánom Ježišom.</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

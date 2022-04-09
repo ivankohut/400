@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Krv Kristova</title>
-    <author>TEXT: Nikolaus L. Zinzendorf, prel. Juraj Potúček, upr.; HUDBA: Carl P. Emanuel Bach, harm. Edward Miller</author>
-    <hymn_number>337</hymn_number>
-    <presentation>V1 V2 V3 V4 V5</presentation>
-    <theme>ZBOROVÝ ŽIVOT / Večera Pánova; </theme>
-    <lyrics>[V1]
+  <title>Krv Kristova</title>
+  <author>TEXT: Nikolaus L. Zinzendorf, prel. Juraj Potúček, upr.; HUDBA: Carl P. Emanuel Bach, harm. Edward Miller</author>
+  <hymn_number>337</hymn_number>
+  <presentation>V1 V2 V3 V4 V5</presentation>
+  <theme>ZBOROVÝ ŽIVOT / Večera Pánova; </theme>
+  <lyrics>[V1]
  Krv Kristova je spásy zdroj,
  je mojím rúchom svadobným.
  To vo viere si oblečiem,
@@ -30,7 +30,7 @@
  Ty v nebi s Otcom prebývaš.
  Ľud Tvoj Ťa oslavuje dnes,
  buď Tebe sláva, Pane náš!</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

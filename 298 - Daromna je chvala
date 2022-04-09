@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Daromná je chvála</title>
-    <author>TEXT: Jana Nagajová; HUDBA: Slávo Kráľ</author>
-    <hymn_number>298</hymn_number>
-    <presentation>V1 V2 V3</presentation>
-    <theme>ŽIVOT KRESŤANA / Napomínanie a povzbudenie; </theme>
-    <lyrics>[V1]
+  <title>Daromná je chvála</title>
+  <author>TEXT: Jana Nagajová; HUDBA: Slávo Kráľ</author>
+  <hymn_number>298</hymn_number>
+  <presentation>V1 V2 V3</presentation>
+  <theme>ŽIVOT KRESŤANA / Napomínanie a povzbudenie; </theme>
+  <lyrics>[V1]
  Daromná je chvála,
  ktorou Boha vzývam,
  márne všetky slová,
@@ -29,7 +29,7 @@
  bez bázne a úžitku
  tak do večnosti kráčať,
  nedovoľ mi, Pane!</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

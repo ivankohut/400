@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Ó, vezmi ruku moju!</title>
-    <author>TEXT: Julie Hausmann, prel. Kristína Royová, upr. Jana Nagajová; HUDBA: Friedrich Silcher</author>
-    <hymn_number>199</hymn_number>
-    <presentation>V1 V2 V3</presentation>
-    <theme>ŽIVOT KRESŤANA / Vzťah lásky a dôvery k Pánovi; </theme>
-    <lyrics>[V1]
+  <title>Ó, vezmi ruku moju!</title>
+  <author>TEXT: Julie Hausmann, prel. Kristína Royová, upr. Jana Nagajová; HUDBA: Friedrich Silcher</author>
+  <hymn_number>199</hymn_number>
+  <presentation>V1 V2 V3</presentation>
+  <theme>ŽIVOT KRESŤANA / Vzťah lásky a dôvery k Pánovi; </theme>
+  <lyrics>[V1]
  Ó, vezmi ruku moju
  a veď ma sám,
  vzdor ťažkostiam a boju
@@ -32,7 +32,7 @@
  tak veď ma sám,
  vždy ďalej k bránam neba,
  kde cieľ svoj mám!</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

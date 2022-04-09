@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Smieť žiť pre Krista</title>
-    <author>TEXT: Mária Royová, upr.; HUDBA: Mária Royová</author>
-    <hymn_number>206</hymn_number>
-    <presentation>V1 V2 V3</presentation>
-    <theme>ŽIVOT KRESŤANA / Vzťah lásky a dôvery k Pánovi; </theme>
-    <lyrics>[V1]
+  <title>Smieť žiť pre Krista</title>
+  <author>TEXT: Mária Royová, upr.; HUDBA: Mária Royová</author>
+  <hymn_number>206</hymn_number>
+  <presentation>V1 V2 V3</presentation>
+  <theme>ŽIVOT KRESŤANA / Vzťah lásky a dôvery k Pánovi; </theme>
+  <lyrics>[V1]
  Smieť žiť pre Krista,
  pre Neho mrieť.
  Ó, to je blaho,
@@ -29,7 +29,7 @@
  Jemu vždy slúžiť,
  zostať Mu verný.
  Takúto milosť Boh dáva len.</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

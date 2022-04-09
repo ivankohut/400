@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Zostaň verný!</title>
-    <author>TEXT: Mary E. Maxwell, prel. Michal Sadloň, upr. Jana Nagajová; HUDBA: Ada R. Gibbs</author>
-    <hymn_number>260</hymn_number>
-    <presentation>V1 C V2 C V3 C V4 C V5 C</presentation>
-    <theme>ŽIVOT KRESŤANA / Skúšky, boje viery a víťazný život; </theme>
-    <lyrics>[V1]
+  <title>Zostaň verný!</title>
+  <author>TEXT: Mary E. Maxwell, prel. Michal Sadloň, upr. Jana Nagajová; HUDBA: Ada R. Gibbs</author>
+  <hymn_number>260</hymn_number>
+  <presentation>V1 C V2 C V3 C V4 C V5 C</presentation>
+  <theme>ŽIVOT KRESŤANA / Skúšky, boje viery a víťazný život; </theme>
+  <lyrics>[V1]
  Zostaň verný v ohni skúšok,
  volaj k Bohu v úzkosti!
  Istú pomoc On ti núka,
@@ -35,7 +35,7 @@
  to je diel tvoj na zemi,
  a keď Pán sa zjaví v sláve,
  On ťa vencom odmení!</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

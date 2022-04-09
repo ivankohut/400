@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Premeň mi srdce!</title>
-    <author>TEXT: Jana Nagajová; HUDBA: Slávo Kráľ</author>
-    <hymn_number>149</hymn_number>
-    <presentation>V1 V2 V3</presentation>
-    <theme>BOŽIE DIELO ZÁCHRANY ČLOVEKA / Odovzdanie sa a posvätenie; </theme>
-    <lyrics>[V1]
+  <title>Premeň mi srdce!</title>
+  <author>TEXT: Jana Nagajová; HUDBA: Slávo Kráľ</author>
+  <hymn_number>149</hymn_number>
+  <presentation>V1 V2 V3</presentation>
+  <theme>BOŽIE DIELO ZÁCHRANY ČLOVEKA / Odovzdanie sa a posvätenie; </theme>
+  <lyrics>[V1]
  Premieňaš kvapky
  na farby dúhy,
  premieňaš paru
@@ -32,7 +32,7 @@
  s dôverou stálou
  žasnúť a vyznať,
  že máš ma rád, :/</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

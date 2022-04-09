@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>To cieľ je môj</title>
-    <author>TEXT: Emma L. Ashford, podľa čes. prekl. B. Mrázka prel. Jana Nagajová; HUDBA: Emma L. Ashford</author>
-    <hymn_number>339</hymn_number>
-    <presentation>V1 V2 V3</presentation>
-    <theme>ZBOROVÝ ŽIVOT / Oddelenie pracovníkov k službe; </theme>
-    <lyrics>[V1]
+  <title>To cieľ je môj</title>
+  <author>TEXT: Emma L. Ashford, podľa čes. prekl. B. Mrázka prel. Jana Nagajová; HUDBA: Emma L. Ashford</author>
+  <hymn_number>339</hymn_number>
+  <presentation>V1 V2 V3</presentation>
+  <theme>ZBOROVÝ ŽIVOT / Oddelenie pracovníkov k službe; </theme>
+  <lyrics>[V1]
  Deň po dni lepší,
  krajší život žiť,
  môj Pane,
@@ -35,7 +35,7 @@
  a vďačne pokľaknúť,
  vziať veniec z Tvojich rúk,
  to cieľ je môj.</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

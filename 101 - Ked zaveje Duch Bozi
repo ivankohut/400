@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Keď zaveje Duch Boží</title>
-    <author>TEXT: Gustav F. L. Knack, podľa čes. prekl. N. Čapka prel. Milan Šramo; HUDBA: Johann Michael Haydn</author>
-    <hymn_number>101</hymn_number>
-    <presentation>V1 V2 V3</presentation>
-    <theme>DUCH SVÄTÝ; </theme>
-    <lyrics>[V1]
+  <title>Keď zaveje Duch Boží</title>
+  <author>TEXT: Gustav F. L. Knack, podľa čes. prekl. N. Čapka prel. Milan Šramo; HUDBA: Johann Michael Haydn</author>
+  <hymn_number>101</hymn_number>
+  <presentation>V1 V2 V3</presentation>
+  <theme>DUCH SVÄTÝ; </theme>
+  <lyrics>[V1]
  Keď zaveje Duch Boží
  od trónu milosti
  a láskou všetkých spojí,
@@ -32,7 +32,7 @@
  mier stály, Otče náš!
  Ó, prijmi vďaku, chválu,
  že tak rád ľudí máš!</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

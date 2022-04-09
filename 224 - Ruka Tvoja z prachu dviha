@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Ruka Tvoja z prachu dvíha</title>
-    <author>TEXT: Jana Nagajová; HUDBA: Ira David Sankey</author>
-    <hymn_number>224</hymn_number>
-    <presentation>V1 C V2 C V3 C</presentation>
-    <theme>ŽIVOT KRESŤANA / Modlitba; </theme>
-    <lyrics>[V1]
+  <title>Ruka Tvoja z prachu dvíha</title>
+  <author>TEXT: Jana Nagajová; HUDBA: Ira David Sankey</author>
+  <hymn_number>224</hymn_number>
+  <presentation>V1 C V2 C V3 C</presentation>
+  <theme>ŽIVOT KRESŤANA / Modlitba; </theme>
+  <lyrics>[V1]
  Ruka Tvoja z prachu dvíha,
  prosím vrúcne: zdvihni ma!
  V Tvojej láske nekonečnej
@@ -25,7 +25,7 @@
  prosím vrúcne: naplň ma!
  V Tvojom žriedle živej vody
  duša moja nádej má.</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

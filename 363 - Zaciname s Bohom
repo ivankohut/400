@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Začíname s Bohom</title>
-    <author>TEXT: Frances Ridley Havergal, prel. Milan Šramo; HUDBA: Franz Josef Haydn</author>
-    <hymn_number>363</hymn_number>
-    <presentation>V1 C V2 C V3 C V4 C</presentation>
-    <theme>ZBOROVÝ ŽIVOT / Starý a nový rok; </theme>
-    <lyrics>[V1]
+  <title>Začíname s Bohom</title>
+  <author>TEXT: Frances Ridley Havergal, prel. Milan Šramo; HUDBA: Franz Josef Haydn</author>
+  <hymn_number>363</hymn_number>
+  <presentation>V1 C V2 C V3 C V4 C</presentation>
+  <theme>ZBOROVÝ ŽIVOT / Starý a nový rok; </theme>
+  <lyrics>[V1]
  Začíname s Bohom
  tento nový rok,
  On nám bude žehnať
@@ -46,7 +46,7 @@
  netreba sa báť!
  Boh nám v novom roku
  bude pomáhať.</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

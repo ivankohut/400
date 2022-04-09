@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Istotu vzácnu v srdci už mám</title>
-    <author>TEXT: Frances J. Crosby, prel. Ondrej Betko st., upr.; HUDBA: Phoebe P. Knapp</author>
-    <hymn_number>181</hymn_number>
-    <presentation>V1 C V2 C V3 C</presentation>
-    <theme>BOŽIE DIELO ZÁCHRANY ČLOVEKA / Istota spasenia; </theme>
-    <lyrics>[V1]
+  <title>Istotu vzácnu v srdci už mám</title>
+  <author>TEXT: Frances J. Crosby, prel. Ondrej Betko st., upr.; HUDBA: Phoebe P. Knapp</author>
+  <hymn_number>181</hymn_number>
+  <presentation>V1 C V2 C V3 C</presentation>
+  <theme>BOŽIE DIELO ZÁCHRANY ČLOVEKA / Istota spasenia; </theme>
+  <lyrics>[V1]
  Istotu vzácnu v srdci už mám:
  Spasil ma Ježiš,
  môj Boh a môj Pán!
@@ -28,7 +28,7 @@
  v ňom stavia si chrám.
  V predivnej sláve zjaví sa v ňom,
  vo všetkom všetkým je mi tu On.</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

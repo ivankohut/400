@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Zviesť nedaj sa hriechu!</title>
-    <author>TEXT: Horatio R. Palmer, prel. Ján Hudec, upr. Jana Nagajová; HUDBA: Horatio R. Palmer, harm. Jaromír Urbanec</author>
-    <hymn_number>256</hymn_number>
-    <presentation>V1 C V2 C V3 C</presentation>
-    <theme>ŽIVOT KRESŤANA / Skúšky, boje viery a víťazný život; </theme>
-    <lyrics>[V1]
+  <title>Zviesť nedaj sa hriechu!</title>
+  <author>TEXT: Horatio R. Palmer, prel. Ján Hudec, upr. Jana Nagajová; HUDBA: Horatio R. Palmer, harm. Jaromír Urbanec</author>
+  <hymn_number>256</hymn_number>
+  <presentation>V1 C V2 C V3 C</presentation>
+  <theme>ŽIVOT KRESŤANA / Skúšky, boje viery a víťazný život; </theme>
+  <lyrics>[V1]
  Zviesť nedaj sa hriechu,
  hoc zvodný má hlas!
  Ten, kto nie je bdelý,
@@ -37,7 +37,7 @@
  z nej udieľa nám,
  na Ježiša hľaď len,
  vždy pomôže Pán!</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

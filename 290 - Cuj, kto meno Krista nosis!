@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Čuj, kto meno Krista nosíš!</title>
-    <author>TEXT: Ján Andrášik, upr.; HUDBA: Charles C. Converse</author>
-    <hymn_number>290</hymn_number>
-    <presentation>V1 V2 V3 V4</presentation>
-    <theme>ŽIVOT KRESŤANA / Napomínanie a povzbudenie; </theme>
-    <lyrics>[V1]
+  <title>Čuj, kto meno Krista nosíš!</title>
+  <author>TEXT: Ján Andrášik, upr.; HUDBA: Charles C. Converse</author>
+  <hymn_number>290</hymn_number>
+  <presentation>V1 V2 V3 V4</presentation>
+  <theme>ŽIVOT KRESŤANA / Napomínanie a povzbudenie; </theme>
+  <lyrics>[V1]
  Čuj, kto meno Krista nosíš,
  kresťanom sa menuješ!
  Skúmaj seba: komu slúžiš,
@@ -41,7 +41,7 @@
  život nový dá len Pán.
  Tým v nás bude spečatené:
  meno kresťan patrí nám.</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

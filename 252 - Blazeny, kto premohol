@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Blažený, kto premohol</title>
-    <author>TEXT: anon., zo spevníka „Frohe Botschaft“, prel. Mária Royová; HUDBA: anon., zo spevníka „Frohe Botschaft“</author>
-    <hymn_number>252</hymn_number>
-    <presentation>V1 V2 V3</presentation>
-    <theme>ŽIVOT KRESŤANA / Skúšky, boje viery a víťazný život; </theme>
-    <lyrics>[V1]
+  <title>Blažený, kto premohol</title>
+  <author>TEXT: anon., zo spevníka „Frohe Botschaft“, prel. Mária Royová; HUDBA: anon., zo spevníka „Frohe Botschaft“</author>
+  <hymn_number>252</hymn_number>
+  <presentation>V1 V2 V3</presentation>
+  <theme>ŽIVOT KRESŤANA / Skúšky, boje viery a víťazný život; </theme>
+  <lyrics>[V1]
  Blažený, kto premohol
  satanove zvody
  a kto verne v šľapajach
@@ -32,7 +32,7 @@
  pôjde pred trón Boží,
  na kolenách pokorne
  poctu Jemu zloží.</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

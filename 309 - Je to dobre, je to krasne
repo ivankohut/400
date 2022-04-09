@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Je to dobré, je to krásne</title>
-    <author>TEXT: anon., zo spevníka „Bratské piesne“, voľne prel. Jana Nagajová; HUDBA: John R. Sweney</author>
-    <hymn_number>309</hymn_number>
-    <presentation>V1 C V2 C V3 C V4 C</presentation>
-    <theme>ZBOROVÝ ŽIVOT / Zhromaždenia Božieho ľudu; </theme>
-    <lyrics>[V1]
+  <title>Je to dobré, je to krásne</title>
+  <author>TEXT: anon., zo spevníka „Bratské piesne“, voľne prel. Jana Nagajová; HUDBA: John R. Sweney</author>
+  <hymn_number>309</hymn_number>
+  <presentation>V1 C V2 C V3 C V4 C</presentation>
+  <theme>ZBOROVÝ ŽIVOT / Zhromaždenia Božieho ľudu; </theme>
+  <lyrics>[V1]
  Je to dobré, je to krásne,
  s bratmi v Božej láske žiť!
  Tam, kde spája nás Duch Svätý,
@@ -30,7 +30,7 @@
  Ty si večnej lásky zdroj!
  Daj, nech ľudia môžu vidieť
  v našej tvári obraz Tvoj!</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

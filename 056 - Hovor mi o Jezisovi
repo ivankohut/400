@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Hovor mi o Ježišovi</title>
-    <author>TEXT: Frances J. Crosby, prel. Slávo Kráľ, Branislav Kráľ; HUDBA: John R. Sweney</author>
-    <hymn_number>56</hymn_number>
-    <presentation>V1 C V2 C V3 C</presentation>
-    <theme>PÁN JEŽIŠ KRISTUS / Narodenie - Vianoce; </theme>
-    <lyrics>[V1]
+  <title>Hovor mi o Ježišovi</title>
+  <author>TEXT: Frances J. Crosby, prel. Slávo Kráľ, Branislav Kráľ; HUDBA: John R. Sweney</author>
+  <hymn_number>56</hymn_number>
+  <presentation>V1 C V2 C V3 C</presentation>
+  <theme>PÁN JEŽIŠ KRISTUS / Narodenie - Vianoce; </theme>
+  <lyrics>[V1]
  Hovor mi o Ježišovi,
  do srdca vpíš mi tú zvesť!
  Spievaj ten najsladší príbeh
@@ -37,7 +37,7 @@
  čo prišla v dieťati k nám,
  o svetle žiariacom do tmy,
  o tom, že Kristus je náš Pán!</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

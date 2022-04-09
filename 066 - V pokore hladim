@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>V pokore hľadím</title>
-    <author>TEXT: Isaac Watts, prel. Slávo Kráľ; HUDBA: Lowell Mason</author>
-    <hymn_number>66</hymn_number>
-    <presentation>V1 V2 V3 V4</presentation>
-    <theme>PÁN JEŽIŠ KRISTUS / Utrpenie a smrť - Veľký piatok; </theme>
-    <lyrics>[V1]
+  <title>V pokore hľadím</title>
+  <author>TEXT: Isaac Watts, prel. Slávo Kráľ; HUDBA: Lowell Mason</author>
+  <hymn_number>66</hymn_number>
+  <presentation>V1 V2 V3 V4</presentation>
+  <theme>PÁN JEŽIŠ KRISTUS / Utrpenie a smrť - Veľký piatok; </theme>
+  <lyrics>[V1]
  Keď na Tvoj kríž sa pozerám,
  na ktorom sám si zomieral,
  všetko, čo som a to, čo mám,
@@ -25,7 +25,7 @@
  len za dar biedny pokladám.
  Za Tvoju lásku nesmiernu
  život môj celý rád Ti dám.</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

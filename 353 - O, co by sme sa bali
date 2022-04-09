@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Ó, čo by sme sa báli?</title>
-    <author>TEXT: George Duffield, prel. Juraj Potúček, upr.; HUDBA: George J. Webb</author>
-    <hymn_number>353</hymn_number>
-    <presentation>V1 V2 V3 V4</presentation>
-    <theme>ZBOROVÝ ŽIVOT / Oddelenie pracovníkov k službe; </theme>
-    <lyrics>[V1]
+  <title>Ó, čo by sme sa báli?</title>
+  <author>TEXT: George Duffield, prel. Juraj Potúček, upr.; HUDBA: George J. Webb</author>
+  <hymn_number>353</hymn_number>
+  <presentation>V1 V2 V3 V4</presentation>
+  <theme>ZBOROVÝ ŽIVOT / Oddelenie pracovníkov k službe; </theme>
+  <lyrics>[V1]
  Ó, čo by sme sa báli,
  keď Ježiš s nami je?
  On bremeno dňa ťažké
@@ -41,7 +41,7 @@
  dom má sa naplniť!
  Kto vierou k Nemu príde,
  ten večne bude žiť.</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

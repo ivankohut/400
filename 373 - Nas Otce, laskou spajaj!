@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Náš Otče, láskou spájaj!</title>
-    <author>TEXT: anon., zo spevníka „Bratské piesne“, prel. Karel Vaculík, upr. Jana Nagajová; HUDBA: Franz Josef Haydn</author>
-    <hymn_number>373</hymn_number>
-    <presentation>V1 V2 V3</presentation>
-    <theme>ŽIVOT V RODINE / Sobáš a svadba; </theme>
-    <lyrics>[V1]
+  <title>Náš Otče, láskou spájaj!</title>
+  <author>TEXT: anon., zo spevníka „Bratské piesne“, prel. Karel Vaculík, upr. Jana Nagajová; HUDBA: Franz Josef Haydn</author>
+  <hymn_number>373</hymn_number>
+  <presentation>V1 V2 V3</presentation>
+  <theme>ŽIVOT V RODINE / Sobáš a svadba; </theme>
+  <lyrics>[V1]
  Náš Otče, láskou spájaj
  a stráž aj tento pár,
  Ty sám im vernosť dávaj,
@@ -32,7 +32,7 @@
  k ich sľubu jednoty
  a veď ich ta, kde prameň
  je Tvojej dobroty!</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

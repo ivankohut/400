@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Kto spoznal dieťa?</title>
-    <author>TEXT: William C. Dix, prel. Jana Nagajová; HUDBA: anon., anglický nápev, harm. John Stainer</author>
-    <hymn_number>55</hymn_number>
-    <presentation>V1 C V2 C V3 C</presentation>
-    <theme>PÁN JEŽIŠ KRISTUS / Narodenie - Vianoce; </theme>
-    <lyrics>[V1]
+  <title>Kto spoznal dieťa?</title>
+  <author>TEXT: William C. Dix, prel. Jana Nagajová; HUDBA: anon., anglický nápev, harm. John Stainer</author>
+  <hymn_number>55</hymn_number>
+  <presentation>V1 C V2 C V3 C</presentation>
+  <theme>PÁN JEŽIŠ KRISTUS / Narodenie - Vianoce; </theme>
+  <lyrics>[V1]
  Kto zbadal húfy anjelov,
  čo s piesňou k zemi letia?
  Kto spoznal v lone Márie
@@ -25,7 +25,7 @@
  že v Ňom je spása naša?
  Kto môže vyznať s radosťou,
  že našiel Mesiáša?</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

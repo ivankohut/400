@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Žije môj Pán!</title>
-    <author>TEXT: Johann Ch. Hopfensack, prel. Ondrej Betko st.; HUDBA: Melchior Franck, upr. Slávo Kráľ</author>
-    <hymn_number>73</hymn_number>
-    <presentation>V1 V2 V3</presentation>
-    <theme>PÁN JEŽIŠ KRISTUS / Zmŕtvychvstanie - Veľká noc; </theme>
-    <lyrics>[V1]
+  <title>Žije môj Pán!</title>
+  <author>TEXT: Johann Ch. Hopfensack, prel. Ondrej Betko st.; HUDBA: Melchior Franck, upr. Slávo Kráľ</author>
+  <hymn_number>73</hymn_number>
+  <presentation>V1 V2 V3</presentation>
+  <theme>PÁN JEŽIŠ KRISTUS / Zmŕtvychvstanie - Veľká noc; </theme>
+  <lyrics>[V1]
  Žije môj Pán!
  Už pominula noc,
  deň slávny svitol nám.||
@@ -38,7 +38,7 @@
  vstal z mŕtvych v tretí deň!
  On zlomil smrti brány,
  aj mňa raz vzkriesi, viem!</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

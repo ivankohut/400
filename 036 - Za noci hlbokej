@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Za noci hlbokej</title>
-    <author>TEXT: František Kučera, prel. Milan Šramo; HUDBA: František Kučera, upr.</author>
-    <hymn_number>36</hymn_number>
-    <presentation>V1 C V2 C</presentation>
-    <theme>PÁN JEŽIŠ KRISTUS / Narodenie - Vianoce; </theme>
-    <lyrics>[V1]
+  <title>Za noci hlbokej</title>
+  <author>TEXT: František Kučera, prel. Milan Šramo; HUDBA: František Kučera, upr.</author>
+  <hymn_number>36</hymn_number>
+  <presentation>V1 C V2 C</presentation>
+  <theme>PÁN JEŽIŠ KRISTUS / Narodenie - Vianoce; </theme>
+  <lyrics>[V1]
  Za noci hlbokej,
  keď spal kraj celý,
  za mestom na horách
@@ -32,7 +32,7 @@
  stíš sveta boje,
  uveď nás, stratených,
  v kráľovstvo svoje!</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

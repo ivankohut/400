@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Pán Ježiš bude kraľovať</title>
-    <author>TEXT: Issac Watts, prel. Milan Šramo, upr.; HUDBA: John Hatton</author>
-    <hymn_number>80</hymn_number>
-    <presentation>V1 V2 V3 V4 V5 V6</presentation>
-    <theme>PÁN JEŽIŠ KRISTUS / Kráľovstvo Kristovo a druhý príchod; </theme>
-    <lyrics>[V1]
+  <title>Pán Ježiš bude kraľovať</title>
+  <author>TEXT: Issac Watts, prel. Milan Šramo, upr.; HUDBA: John Hatton</author>
+  <hymn_number>80</hymn_number>
+  <presentation>V1 V2 V3 V4 V5 V6</presentation>
+  <theme>PÁN JEŽIŠ KRISTUS / Kráľovstvo Kristovo a druhý príchod; </theme>
+  <lyrics>[V1]
  Pán Ježiš bude kraľovať,
  od mora k moru panovať.
  Všade, kde svieti slnka lúč,
@@ -37,7 +37,7 @@
  Kráľovi svojmu na oltár.
  Anjeli s piesňou zídu zas,
  zem zvolá „Amen“ mnoho ráz.</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

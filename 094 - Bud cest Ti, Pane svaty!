@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Buď česť Ti, Pane svätý!</title>
-    <author>TEXT: Samuel J. Stone, prel. Karel Kolman; HUDBA: Samuel S. Wesley</author>
-    <hymn_number>94</hymn_number>
-    <presentation>V1 V2 V3</presentation>
-    <theme>PÁN JEŽIŠ KRISTUS / Oslava Spasiteľa; </theme>
-    <lyrics>[V1]
+  <title>Buď česť Ti, Pane svätý!</title>
+  <author>TEXT: Samuel J. Stone, prel. Karel Kolman; HUDBA: Samuel S. Wesley</author>
+  <hymn_number>94</hymn_number>
+  <presentation>V1 V2 V3</presentation>
+  <theme>PÁN JEŽIŠ KRISTUS / Oslava Spasiteľa; </theme>
+  <lyrics>[V1]
  Buď česť Ti, Pane svätý,
  že za nás tiež si mrel
  a z lásky za hriech kliaty
@@ -32,7 +32,7 @@
  nám slávu svoju dáš,
  buď za to chvála Tebe,
  ó, večný Bože náš!</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

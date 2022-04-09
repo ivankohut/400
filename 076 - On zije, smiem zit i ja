@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>On žije, smiem žiť i ja</title>
-    <author>TEXT: Rich Cook, prel. J. Nagajová; HUDBA: Rich Cook</author>
-    <hymn_number>76</hymn_number>
-    <presentation>V1 C V2 C</presentation>
-    <theme>PÁN JEŽIŠ KRISTUS / Zmŕtvychvstanie - Veľká noc; </theme>
-    <lyrics>[V1]
+  <title>On žije, smiem žiť i ja</title>
+  <author>TEXT: Rich Cook, prel. J. Nagajová; HUDBA: Rich Cook</author>
+  <hymn_number>76</hymn_number>
+  <presentation>V1 C V2 C</presentation>
+  <theme>PÁN JEŽIŠ KRISTUS / Zmŕtvychvstanie - Veľká noc; </theme>
+  <lyrics>[V1]
  Ja viem, ja viem,
  môj Záchranca žije,
  ten slávny Víťaz,
@@ -29,7 +29,7 @@
  som z milosti získal
  a piesňou stále
  ďakujem zaň.</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

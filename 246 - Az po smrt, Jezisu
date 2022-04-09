@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Až po smrť, Ježišu</title>
-    <author>TEXT: R. Sailers, prel. Mária Royová; HUDBA: Frédéric Ambresin</author>
-    <hymn_number>246</hymn_number>
-    <presentation>V1 V2 V3</presentation>
-    <theme>ŽIVOT KRESŤANA / Nasledovanie Pána Ježiša - Bohu odovzdaný život; </theme>
-    <lyrics>[V1]
+  <title>Až po smrť, Ježišu</title>
+  <author>TEXT: R. Sailers, prel. Mária Royová; HUDBA: Frédéric Ambresin</author>
+  <hymn_number>246</hymn_number>
+  <presentation>V1 V2 V3</presentation>
+  <theme>ŽIVOT KRESŤANA / Nasledovanie Pána Ježiša - Bohu odovzdaný život; </theme>
+  <lyrics>[V1]
  Až po smrť, Ježišu,
  chceme byť Tvoji,
  až po smrť v pokore
@@ -32,7 +32,7 @@
  v posmechu, hane.
  Tú milosť, Ježišu,
  všetkým daj nám!</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

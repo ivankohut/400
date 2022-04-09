@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Vydaj sa úprimne Pánovi!</title>
-    <author>TEXT: anon., zo spevníka „Bratské piesne“, prel. Július Kremský, upr. Pavel Kondač; HUDBA: anon., zo spevníka „Bratské piesne“, harm. Slávo Kráľ</author>
-    <hymn_number>114</hymn_number>
-    <presentation>V1 C V2 C V3 C</presentation>
-    <theme>BOŽIE DIELO ZÁCHRANY ČLOVEKA / Pozvanie k Pánovi Ježišovi; </theme>
-    <lyrics>[V1]
+  <title>Vydaj sa úprimne Pánovi!</title>
+  <author>TEXT: anon., zo spevníka „Bratské piesne“, prel. Július Kremský, upr. Pavel Kondač; HUDBA: anon., zo spevníka „Bratské piesne“, harm. Slávo Kráľ</author>
+  <hymn_number>114</hymn_number>
+  <presentation>V1 C V2 C V3 C</presentation>
+  <theme>BOŽIE DIELO ZÁCHRANY ČLOVEKA / Pozvanie k Pánovi Ježišovi; </theme>
+  <lyrics>[V1]
  Vydaj sa úprimne Pánovi!
  Veľkú moc má, spásu ti dá.
  Svätý Duch srdce ti naplní,
@@ -25,7 +25,7 @@
  Radosti prúd rozjasní púť.
  Hriechu už otročiť nemusíš,
  Ježiš keď zbaví ťa pút.</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

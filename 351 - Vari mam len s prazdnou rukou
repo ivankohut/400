@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Vari mám len s prázdnou rukou?</title>
-    <author>TEXT: Charles C. Luther, podľa čes. prekl. J. Rundusa prel. Jana Nagajová; HUDBA: George C. Stebbins, harm. Daniel Mathauser</author>
-    <hymn_number>351</hymn_number>
-    <presentation>V1 C V2 C V3 C V4 C</presentation>
-    <theme>ZBOROVÝ ŽIVOT / Oddelenie pracovníkov k službe; </theme>
-    <lyrics>[V1]
+  <title>Vari mám len s prázdnou rukou?</title>
+  <author>TEXT: Charles C. Luther, podľa čes. prekl. J. Rundusa prel. Jana Nagajová; HUDBA: George C. Stebbins, harm. Daniel Mathauser</author>
+  <hymn_number>351</hymn_number>
+  <presentation>V1 C V2 C V3 C V4 C</presentation>
+  <theme>ZBOROVÝ ŽIVOT / Oddelenie pracovníkov k službe; </theme>
+  <lyrics>[V1]
  Vari mám len s prázdnou rukou
  k trónu Božej slávy prísť?
  Nedať ani deň Mu služby,
@@ -31,7 +31,7 @@
  zanechajme pohodlie,
  nech je čím viac tých,
  čo nájdu v Ježišovi spasenie!</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

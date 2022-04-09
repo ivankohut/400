@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Viacej ako dobrý priateľ</title>
-    <author>TEXT: Frances J. Crosby, prel. Marie Rafajová; HUDBA: Silas J. Vail</author>
-    <hymn_number>227</hymn_number>
-    <presentation>V1 C V2 C V3 C</presentation>
-    <theme>ŽIVOT KRESŤANA / Nasledovanie Pána Ježiša - Bohu odovzdaný život; </theme>
-    <lyrics>[V1]
+  <title>Viacej ako dobrý priateľ</title>
+  <author>TEXT: Frances J. Crosby, prel. Marie Rafajová; HUDBA: Silas J. Vail</author>
+  <hymn_number>227</hymn_number>
+  <presentation>V1 C V2 C V3 C</presentation>
+  <theme>ŽIVOT KRESŤANA / Nasledovanie Pána Ježiša - Bohu odovzdaný život; </theme>
+  <lyrics>[V1]
  Viacej ako dobrý priateľ,
  viacej ako život sám
  si mi, Spasiteľu drahý,
@@ -25,7 +25,7 @@
  búrkou života ma nes
  do tých príbytkov, čo chystáš,
  kde už vierou bývam dnes!</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

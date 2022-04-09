@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Spasiteľu, Pane drahý</title>
-    <author>TEXT: Frances J. Crosby, podľa čes. prekl. J. Bašteckého prel. Mária Royová; HUDBA: William H. Doane</author>
-    <hymn_number>397</hymn_number>
-    <presentation>V1 C V2 C V3 C V4 C</presentation>
-    <theme>POŽEHNANIA; </theme>
-    <lyrics>[V1]
+  <title>Spasiteľu, Pane drahý</title>
+  <author>TEXT: Frances J. Crosby, podľa čes. prekl. J. Bašteckého prel. Mária Royová; HUDBA: William H. Doane</author>
+  <hymn_number>397</hymn_number>
+  <presentation>V1 C V2 C V3 C V4 C</presentation>
+  <theme>POŽEHNANIA; </theme>
+  <lyrics>[V1]
  Spasiteľu, Pane drahý,
  čuj náš vrúcny hlas!
  Ty si požehnania prameň,
@@ -30,7 +30,7 @@
  koho na nebi?
  Nad život si duši drahší,
  Teba velebí.</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

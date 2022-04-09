@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Novoročná</title>
-    <author>TEXT: Nikolaus L. Zinzendorf, voľne prel. Jana Nagajová; HUDBA: Adam Drese, upr.</author>
-    <hymn_number>364</hymn_number>
-    <presentation>V1 V2 V3 V4</presentation>
-    <theme>ZBOROVÝ ŽIVOT / Starý a nový rok; </theme>
-    <lyrics>[V1]
+  <title>Novoročná</title>
+  <author>TEXT: Nikolaus L. Zinzendorf, voľne prel. Jana Nagajová; HUDBA: Adam Drese, upr.</author>
+  <hymn_number>364</hymn_number>
+  <presentation>V1 V2 V3 V4</presentation>
+  <theme>ZBOROVÝ ŽIVOT / Starý a nový rok; </theme>
+  <lyrics>[V1]
  Plynie času tok,
  nastal nový rok.||
  Doviedla nás k nemu znova
@@ -33,7 +33,7 @@
  každý deň sme bližšie k cieľu,
  tam, kde čaká nás
  večnej slávy jas!</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

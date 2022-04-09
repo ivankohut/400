@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Len v Tvojom zajatí</title>
-    <author>TEXT: George Matheson, prel. Marie Rafajová; HUDBA: George W. Martin, upr.</author>
-    <hymn_number>196</hymn_number>
-    <presentation>V1 V2 V3 V4</presentation>
-    <theme>ŽIVOT KRESŤANA / Vzťah lásky a dôvery k Pánovi; </theme>
-    <lyrics>[V1]
+  <title>Len v Tvojom zajatí</title>
+  <author>TEXT: George Matheson, prel. Marie Rafajová; HUDBA: George W. Martin, upr.</author>
+  <hymn_number>196</hymn_number>
+  <presentation>V1 V2 V3 V4</presentation>
+  <theme>ŽIVOT KRESŤANA / Vzťah lásky a dôvery k Pánovi; </theme>
+  <lyrics>[V1]
  Len v Tvojom zajatí,
  môj Pane, voľný som.
  Keď prinútiš ma poddať sa,
@@ -41,7 +41,7 @@
  ni búrka zúrivá,
  keď v Tebe nájde život svoj
  a v Tebe spočíva.</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

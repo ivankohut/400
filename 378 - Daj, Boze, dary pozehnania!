@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Daj, Bože, dary požehnania!</title>
-    <author>TEXT: anon., zo spevníka „Bratské piesne“, podľa čes. prekl. K. Vaculíka prel. Jana Nagajová; HUDBA: W. Kniepkamp</author>
-    <hymn_number>378</hymn_number>
-    <presentation>V1 V2 V3</presentation>
-    <theme>ŽIVOT V RODINE / Sobáš a svadba; </theme>
-    <lyrics>[V1]
+  <title>Daj, Bože, dary požehnania!</title>
+  <author>TEXT: anon., zo spevníka „Bratské piesne“, podľa čes. prekl. K. Vaculíka prel. Jana Nagajová; HUDBA: W. Kniepkamp</author>
+  <hymn_number>378</hymn_number>
+  <presentation>V1 V2 V3</presentation>
+  <theme>ŽIVOT V RODINE / Sobáš a svadba; </theme>
+  <lyrics>[V1]
  Daj, Bože, dary požehnania
  aj tejto novej rodine
  a láska Tvoja nech sa skláňa
@@ -26,7 +26,7 @@
  nech sú sťa chrám, kde býva Boh!||
  Duch Tvoj, čo srdcia spájať vie,
  nech navždy na nich spočinie!</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

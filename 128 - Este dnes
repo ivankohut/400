@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Ešte dnes</title>
-    <author>TEXT: El Nathan, voľne prel. Jana Nagajová; HUDBA: Charles C. Case, upr. Slávo Kráľ</author>
-    <hymn_number>128</hymn_number>
-    <presentation>V1 C V2 C V3 C V4 C</presentation>
-    <theme>BOŽIE DIELO ZÁCHRANY ČLOVEKA / Pozvanie k Pánovi Ježišovi; </theme>
-    <lyrics>[V1]
+  <title>Ešte dnes</title>
+  <author>TEXT: El Nathan, voľne prel. Jana Nagajová; HUDBA: Charles C. Case, upr. Slávo Kráľ</author>
+  <hymn_number>128</hymn_number>
+  <presentation>V1 C V2 C V3 C V4 C</presentation>
+  <theme>BOŽIE DIELO ZÁCHRANY ČLOVEKA / Pozvanie k Pánovi Ježišovi; </theme>
+  <lyrics>[V1]
  V túto chvíľu počuť hlas:
  „Vráť sa k Bohu, kým je čas!“
  Ešte stále výzva znie,
@@ -30,7 +30,7 @@
  Boh tvoj život zmeniť vie!
  On je láska, nad ňu niet,
  preto rozhodni sa hneď!</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

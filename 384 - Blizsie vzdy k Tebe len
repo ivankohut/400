@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Bližšie vždy k Tebe len</title>
-    <author>TEXT: Sarah F. Adams, prel. Ondrej Betko st.; HUDBA: Lowell Mason</author>
-    <hymn_number>384</hymn_number>
-    <presentation>V1 V2 V3 V4 V5</presentation>
-    <theme>VEČNÝ ŽIVOT / Smrť, vzkriesenie a súd; </theme>
-    <lyrics>[V1]
+  <title>Bližšie vždy k Tebe len</title>
+  <author>TEXT: Sarah F. Adams, prel. Ondrej Betko st.; HUDBA: Lowell Mason</author>
+  <hymn_number>384</hymn_number>
+  <presentation>V1 V2 V3 V4 V5</presentation>
+  <theme>VEČNÝ ŽIVOT / Smrť, vzkriesenie a súd; </theme>
+  <lyrics>[V1]
  Bližšie vždy k Tebe len,
  ó, Bože môj,
  hoc by ma tlačil kríž,
@@ -50,7 +50,7 @@
  k sebe ma pozdvihni,
  bližšie vždy k Tebe len,
  ó, Bože môj!</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

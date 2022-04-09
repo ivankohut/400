@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Pán Ježiš je mi všetkým</title>
-    <author>TEXT: Katherine Hankey, prel. Viera Turčanová; HUDBA: William G. Fischer</author>
-    <hymn_number>280</hymn_number>
-    <presentation>V1 C V2 C V3 C</presentation>
-    <theme>ŽIVOT KRESŤANA / Vyznávanie a svedecký život; </theme>
-    <lyrics>[V1]
+  <title>Pán Ježiš je mi všetkým</title>
+  <author>TEXT: Katherine Hankey, prel. Viera Turčanová; HUDBA: William G. Fischer</author>
+  <hymn_number>280</hymn_number>
+  <presentation>V1 C V2 C V3 C</presentation>
+  <theme>ŽIVOT KRESŤANA / Vyznávanie a svedecký život; </theme>
+  <lyrics>[V1]
  Pán Ježiš je mi všetkým,
  je Pastier môj a Kráľ,
  tak biedny som bol predtým,
@@ -37,7 +37,7 @@
  mám lásku Kristovu,
  čo viac mi ešte treba
  na ceste k domovu?</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

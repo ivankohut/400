@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Ó, zošli Ducha!</title>
-    <author>TEXT: anon., zo spevníka „Kresťanský spevník“, prel. Ján Rybárik, upr.; HUDBA: Wolfgang Amadeus Mozart</author>
-    <hymn_number>97</hymn_number>
-    <presentation>V1 V2 V3 V4 V5 V6</presentation>
-    <theme>DUCH SVÄTÝ; </theme>
-    <lyrics>[V1]
+  <title>Ó, zošli Ducha!</title>
+  <author>TEXT: anon., zo spevníka „Kresťanský spevník“, prel. Ján Rybárik, upr.; HUDBA: Wolfgang Amadeus Mozart</author>
+  <hymn_number>97</hymn_number>
+  <presentation>V1 V2 V3 V4 V5 V6</presentation>
+  <theme>DUCH SVÄTÝ; </theme>
+  <lyrics>[V1]
  Ó, Duchom Svätým naplň nás,
  Ty, veľký Bože, sám,
  nech vidí aj dnes ľudstvo zas
@@ -36,7 +36,7 @@
  veď cestou k nebesiam
  a verných zachovaj si sám
  nás do smrti až brán!</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

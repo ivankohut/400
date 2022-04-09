@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Ty nás, mocný Hospodine, veď!</title>
-    <author>TEXT: William Williams, podľa čes. prekl. N. Čapka prel. Jana Nagajová; HUDBA: William L. Viner</author>
-    <hymn_number>312</hymn_number>
-    <presentation>V1 V2 V3</presentation>
-    <theme>ZBOROVÝ ŽIVOT / Zhromaždenia Božieho ľudu; </theme>
-    <lyrics>[V1]
+  <title>Ty nás, mocný Hospodine, veď!</title>
+  <author>TEXT: William Williams, podľa čes. prekl. N. Čapka prel. Jana Nagajová; HUDBA: William L. Viner</author>
+  <hymn_number>312</hymn_number>
+  <presentation>V1 V2 V3</presentation>
+  <theme>ZBOROVÝ ŽIVOT / Zhromaždenia Božieho ľudu; </theme>
+  <lyrics>[V1]
  Ty nás, mocný Hospodine,
  vyprahnutou púšťou veď!
  Zmocňuj slabých, unavených,
@@ -26,7 +26,7 @@
  Tvoja veľká sláva skvie!||
  Dovoľ, aby naše kroky
  došli k brehom nádeje!</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

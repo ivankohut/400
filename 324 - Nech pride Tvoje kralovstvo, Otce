@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Nech príde Tvoje kráľovstvo, Otče</title>
-    <author>TEXT: Juraj Potúček; HUDBA: Ján Rosa</author>
-    <hymn_number>324</hymn_number>
-    <presentation>V1 V2 V3 V4 V5</presentation>
-    <theme>ZBOROVÝ ŽIVOT / Modlitebné stretnutia; </theme>
-    <lyrics>[V1]
+  <title>Nech príde Tvoje kráľovstvo, Otče</title>
+  <author>TEXT: Juraj Potúček; HUDBA: Ján Rosa</author>
+  <hymn_number>324</hymn_number>
+  <presentation>V1 V2 V3 V4 V5</presentation>
+  <theme>ZBOROVÝ ŽIVOT / Modlitebné stretnutia; </theme>
+  <lyrics>[V1]
  Nech príde Tvoje kráľovstvo,
  náš Otče presvätý,
  by všetky sveta národy,
@@ -35,7 +35,7 @@
  Raz Tvoja ruka všemocná,
  raz Tvoja ruka všemocná
  doň verných vovedie.</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

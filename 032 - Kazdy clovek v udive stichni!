@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Každý človek v údive stíchni!</title>
-    <author>TEXT: Gerard Moultrie, prel. Jana Nagajová; HUDBA: anon., francúzska koleda, harm. R. V. Williams, upr. Slávo Kráľ</author>
-    <hymn_number>32</hymn_number>
-    <presentation>V1 V2 V3</presentation>
-    <theme>PÁN JEŽIŠ KRISTUS / Očakávanie narodenia - Advent; </theme>
-    <lyrics>[V1]
+  <title>Každý človek v údive stíchni!</title>
+  <author>TEXT: Gerard Moultrie, prel. Jana Nagajová; HUDBA: anon., francúzska koleda, harm. R. V. Williams, upr. Slávo Kráľ</author>
+  <hymn_number>32</hymn_number>
+  <presentation>V1 V2 V3</presentation>
+  <theme>PÁN JEŽIŠ KRISTUS / Očakávanie narodenia - Advent; </theme>
+  <lyrics>[V1]
  Každý človek v údive stíchni
  nad tým, aký zázrak sa stal!
  Ten, čo dlaňou sformoval vesmír,
@@ -29,7 +29,7 @@
  Svitá nový deň,
  už svitá nový deň,
  temné moci zla zaženie.</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

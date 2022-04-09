@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Brat môj, len veriť neprestaň!</title>
-    <author>TEXT: Mária Royová, upr.; HUDBA: Mária Royová, upr.</author>
-    <hymn_number>289</hymn_number>
-    <presentation>V1 V2 V3</presentation>
-    <theme>ŽIVOT KRESŤANA / Napomínanie a povzbudenie; </theme>
-    <lyrics>[V1]
+  <title>Brat môj, len veriť neprestaň!</title>
+  <author>TEXT: Mária Royová, upr.; HUDBA: Mária Royová, upr.</author>
+  <hymn_number>289</hymn_number>
+  <presentation>V1 V2 V3</presentation>
+  <theme>ŽIVOT KRESŤANA / Napomínanie a povzbudenie; </theme>
+  <lyrics>[V1]
  Brat môj, len veriť neprestaň!
  Prv, než sa nazdáš, príde Pán.||
  Ako blesk svitne Jeho čas,
@@ -26,7 +26,7 @@
  pre všetky deti úprimné.
  Otvorí v sláve neba stan.
  Brat môj, len dúfať neprestaň!</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

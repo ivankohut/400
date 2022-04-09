@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Pane, ráč Ty sám!</title>
-    <author>TEXT: Nikolaus L. Zinzendorf, prel. Mária Royová; HUDBA: Adam Drese, upr.</author>
-    <hymn_number>385</hymn_number>
-    <presentation>V1 V2 V3 V4</presentation>
-    <theme>VEČNÝ ŽIVOT / Večná blaženosť; </theme>
-    <lyrics>[V1]
+  <title>Pane, ráč Ty sám!</title>
+  <author>TEXT: Nikolaus L. Zinzendorf, prel. Mária Royová; HUDBA: Adam Drese, upr.</author>
+  <hymn_number>385</hymn_number>
+  <presentation>V1 V2 V3 V4</presentation>
+  <theme>VEČNÝ ŽIVOT / Večná blaženosť; </theme>
+  <lyrics>[V1]
  Pane, ráč Ty sám
  cestu raziť nám!||
  My len s Tebou kráčať chceme,
@@ -33,7 +33,7 @@
  Ty keď budeš kráčať s nami,
  skončí predsa tam,
  kde si Kráľom sám.</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

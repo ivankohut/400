@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Môjmu Pánovi zaspievam chválu</title>
-    <author>TEXT: anon., zo spevníka „Bratské piesne“, prel. Július Kremský; HUDBA: G. Nylander</author>
-    <hymn_number>95</hymn_number>
-    <presentation>V1 C V2 C V3 C V4 C</presentation>
-    <theme>PÁN JEŽIŠ KRISTUS / Oslava Spasiteľa; </theme>
-    <lyrics>[V1]
+  <title>Môjmu Pánovi zaspievam chválu</title>
+  <author>TEXT: anon., zo spevníka „Bratské piesne“, prel. Július Kremský; HUDBA: G. Nylander</author>
+  <hymn_number>95</hymn_number>
+  <presentation>V1 C V2 C V3 C V4 C</presentation>
+  <theme>PÁN JEŽIŠ KRISTUS / Oslava Spasiteľa; </theme>
+  <lyrics>[V1]
  Môjmu Pánovi
  zaspievam chválu,
  veď mi blaženstvo
@@ -48,7 +48,7 @@
  chcem pred trónom zastať,
  večne piesňou
  Ho vyvyšovať.</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

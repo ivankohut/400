@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Všemocný slávy Kráľ</title>
-    <author>TEXT: Charles Wesley, podľa čes. prekl. J. Stránskeho voľne prel. Jana Nagajová; HUDBA: Felice Giardini</author>
-    <hymn_number>304</hymn_number>
-    <presentation>V1 V2 V3 V4</presentation>
-    <theme>ZBOROVÝ ŽIVOT / Zhromaždenia Božieho ľudu; </theme>
-    <lyrics>[V1]
+  <title>Všemocný slávy Kráľ</title>
+  <author>TEXT: Charles Wesley, podľa čes. prekl. J. Stránskeho voľne prel. Jana Nagajová; HUDBA: Felice Giardini</author>
+  <hymn_number>304</hymn_number>
+  <presentation>V1 V2 V3 V4</presentation>
+  <theme>ZBOROVÝ ŽIVOT / Zhromaždenia Božieho ľudu; </theme>
+  <lyrics>[V1]
  Všemocný slávy Kráľ,
  hodný si piesní chvál.
  Kraľuj i nám!||
@@ -37,7 +37,7 @@
  tam, kde niet úzkosti!
  Do večnej radosti
  vstúpiť daj nám!</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

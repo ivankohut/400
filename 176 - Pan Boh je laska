@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Pán Boh je láska</title>
-    <author>TEXT: August Rische, prel. Mária Royová; HUDBA: anon.,  zo spevníka „Duchovné piesne“, nemecký nápev</author>
-    <hymn_number>176</hymn_number>
-    <presentation>V1 C V2 C V3 C V4 C V5 C V6 C</presentation>
-    <theme>BOŽIE DIELO ZÁCHRANY ČLOVEKA / Radosť a vďačnosť vykúpených; </theme>
-    <lyrics>[V1]
+  <title>Pán Boh je láska</title>
+  <author>TEXT: August Rische, prel. Mária Royová; HUDBA: anon.,  zo spevníka „Duchovné piesne“, nemecký nápev</author>
+  <hymn_number>176</hymn_number>
+  <presentation>V1 C V2 C V3 C V4 C V5 C V6 C</presentation>
+  <theme>BOŽIE DIELO ZÁCHRANY ČLOVEKA / Radosť a vďačnosť vykúpených; </theme>
+  <lyrics>[V1]
  Pán Boh je láska,
  vykúpil hriešnych,
  Pán Boh je láska,
@@ -40,7 +40,7 @@
  Tebe česť vzdávať,
  verne Ti slúžiť,
  večne byť Tvoj.</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

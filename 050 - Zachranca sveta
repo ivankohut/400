@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Záchranca sveta</title>
-    <author>TEXT: Jana Nagajová; HUDBA: anon., sliezsky nápev, harm. Richard S. Willis</author>
-    <hymn_number>50</hymn_number>
-    <presentation>V1 V2 V3</presentation>
-    <theme>PÁN JEŽIŠ KRISTUS / Narodenie - Vianoce; </theme>
-    <lyrics>[V1]
+  <title>Záchranca sveta</title>
+  <author>TEXT: Jana Nagajová; HUDBA: anon., sliezsky nápev, harm. Richard S. Willis</author>
+  <hymn_number>50</hymn_number>
+  <presentation>V1 V2 V3</presentation>
+  <theme>PÁN JEŽIŠ KRISTUS / Narodenie - Vianoce; </theme>
+  <lyrics>[V1]
  Záchranca sveta
  ako malé dieťa
  leží v jasliach na sene.||
@@ -26,7 +26,7 @@
  Láska Ho núti
  k neľahkej púti
  z jaslí na vrch Golgota.</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

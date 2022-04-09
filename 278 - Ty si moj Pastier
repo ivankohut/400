@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Ty si môj Pastier</title>
-    <author>TEXT: Slávo Kráľ; HUDBA: Slávo Kráľ</author>
-    <hymn_number>278</hymn_number>
-    <presentation>V1</presentation>
-    <theme>ŽIVOT KRESŤANA / Vyznávanie a svedecký život; </theme>
-    <lyrics>[V1]
+  <title>Ty si môj Pastier</title>
+  <author>TEXT: Slávo Kráľ; HUDBA: Slávo Kráľ</author>
+  <hymn_number>278</hymn_number>
+  <presentation>V1</presentation>
+  <theme>ŽIVOT KRESŤANA / Vyznávanie a svedecký život; </theme>
+  <lyrics>[V1]
  Ty si môj Pastier,
  v Tebe všetko mám, čo hľadám,
  novú nádej, ktorú v Teba vkladám,
@@ -25,7 +25,7 @@
  a so zlým darmo zápasil,
  no dnes viem,
  že si to najlepšie, čo mám.</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Pán Ježiš, dobrý Pastier môj</title>
-    <author>TEXT: Jana Nagajová; HUDBA: Mária Royová</author>
-    <hymn_number>388</hymn_number>
-    <presentation>V1 V2 V3 V4</presentation>
-    <theme>VEČNÝ ŽIVOT / Večná blaženosť; </theme>
-    <lyrics>[V1]
+  <title>Pán Ježiš, dobrý Pastier môj</title>
+  <author>TEXT: Jana Nagajová; HUDBA: Mária Royová</author>
+  <hymn_number>388</hymn_number>
+  <presentation>V1 V2 V3 V4</presentation>
+  <theme>VEČNÝ ŽIVOT / Večná blaženosť; </theme>
+  <lyrics>[V1]
  Pán Ježiš, dobrý Pastier môj,
  z lásky dal za mňa život svoj.
  Môžem si spievať s radosťou,
@@ -25,7 +25,7 @@
  o tom, čo čaká spasených
  v príbytkoch svetla, radosti,
  naveky v Jeho blízkosti.</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

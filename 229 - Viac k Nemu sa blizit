@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Viac k Nemu sa blížiť</title>
-    <author>TEXT: Eliza E. Hewitt, prel. Jana Nagajová; HUDBA: John R. Sweney, harm. Slávo Kráľ</author>
-    <hymn_number>229</hymn_number>
-    <presentation>V1 C V2 C V3 C V4 C</presentation>
-    <theme>ŽIVOT KRESŤANA / Nasledovanie Pána Ježiša - Bohu odovzdaný život; </theme>
-    <lyrics>[V1]
+  <title>Viac k Nemu sa blížiť</title>
+  <author>TEXT: Eliza E. Hewitt, prel. Jana Nagajová; HUDBA: John R. Sweney, harm. Slávo Kráľ</author>
+  <hymn_number>229</hymn_number>
+  <presentation>V1 C V2 C V3 C V4 C</presentation>
+  <theme>ŽIVOT KRESŤANA / Nasledovanie Pána Ježiša - Bohu odovzdaný život; </theme>
+  <lyrics>[V1]
  Pánovu lásku vnímať chcem
  očami viery deň čo deň,
  túžim Ho spoznať viac a viac,
@@ -30,7 +30,7 @@
  na všetky sľuby Jeho slov,
  s radostnou vierou rátať s tým,
  raz že Ho v sláve uvidím.</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

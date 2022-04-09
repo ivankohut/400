@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Dúfaj, duša moja!</title>
-    <author>TEXT: Johann F. Räder, prel. Jana Nagajová; HUDBA: Cesar Malan</author>
-    <hymn_number>201</hymn_number>
-    <presentation>V1 V2 V3</presentation>
-    <theme>ŽIVOT KRESŤANA / Vzťah lásky a dôvery k Pánovi; </theme>
-    <lyrics>[V1]
+  <title>Dúfaj, duša moja!</title>
+  <author>TEXT: Johann F. Räder, prel. Jana Nagajová; HUDBA: Cesar Malan</author>
+  <hymn_number>201</hymn_number>
+  <presentation>V1 V2 V3</presentation>
+  <theme>ŽIVOT KRESŤANA / Vzťah lásky a dôvery k Pánovi; </theme>
+  <lyrics>[V1]
  Dúfaj, duša moja,
  blízko je Pán!
  V Ňom je pomoc tvoja,
@@ -38,7 +38,7 @@
  lásku, radosť, mier.||
  On všetky sľuby naplniť vie.
  Dôveruj a vyznaj: Boh verný je!</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

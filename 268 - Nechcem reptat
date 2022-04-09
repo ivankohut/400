@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Nechcem reptať</title>
-    <author>TEXT: Ján Andrášik; HUDBA: John Wyeth, upr. Asahel Nettleton</author>
-    <hymn_number>268</hymn_number>
-    <presentation>V1 C V2 C V3 C V4 C</presentation>
-    <theme>ŽIVOT KRESŤANA / Vyznávanie a svedecký život; </theme>
-    <lyrics>[V1]
+  <title>Nechcem reptať</title>
+  <author>TEXT: Ján Andrášik; HUDBA: John Wyeth, upr. Asahel Nettleton</author>
+  <hymn_number>268</hymn_number>
+  <presentation>V1 C V2 C V3 C V4 C</presentation>
+  <theme>ŽIVOT KRESŤANA / Vyznávanie a svedecký život; </theme>
+  <lyrics>[V1]
  Nechcem reptať, ani žialiť,
  denne kríž keď musím niesť.
  Pán mi v ňom chce seba zjaviť,
@@ -30,7 +30,7 @@
  keď sa skončí časný boj.
  Cele v Jeho pomoc dúfam,
  On je môjho blaha zdroj.</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

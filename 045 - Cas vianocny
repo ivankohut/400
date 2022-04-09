@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Čas vianočný</title>
-    <author>TEXT: anglická koleda, prel. Jana Nagajová; HUDBA: anon., anglická koleda, harm. John Stainer</author>
-    <hymn_number>45</hymn_number>
-    <presentation>C1 V1 C2 C1 V2 C2 C1 V3 C2 C1 V4 C2</presentation>
-    <theme>PÁN JEŽIŠ KRISTUS / Narodenie - Vianoce; </theme>
-    <lyrics>
+  <title>Čas vianočný</title>
+  <author>TEXT: anglická koleda, prel. Jana Nagajová; HUDBA: anon., anglická koleda, harm. John Stainer</author>
+  <hymn_number>45</hymn_number>
+  <presentation>C1 V1 C2 C1 V2 C2 C1 V3 C2 C1 V4 C2</presentation>
+  <theme>PÁN JEŽIŠ KRISTUS / Narodenie - Vianoce; </theme>
+  <lyrics>
 [C1]
  Čas vianočný,
  čas predivný
@@ -33,7 +33,7 @@
  Boh zázrakov a lásky Pán
  hriechom zavretú bránu
  zas otvára nám.</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Jak para život rozplýva sa</title>
-    <author>TEXT: anon., zo spevníka „Bratské piesne“, prel. Ján P. Piroch, upr.; HUDBA: E. Düssler</author>
-    <hymn_number>383</hymn_number>
-    <presentation>V1 V2</presentation>
-    <theme>VEČNÝ ŽIVOT / Smrť, vzkriesenie a súd; </theme>
-    <lyrics>[V1]
+  <title>Jak para život rozplýva sa</title>
+  <author>TEXT: anon., zo spevníka „Bratské piesne“, prel. Ján P. Piroch, upr.; HUDBA: E. Düssler</author>
+  <hymn_number>383</hymn_number>
+  <presentation>V1 V2</presentation>
+  <theme>VEČNÝ ŽIVOT / Smrť, vzkriesenie a súd; </theme>
+  <lyrics>[V1]
  Jak para život rozplýva sa,
  priam vädne ako pekný kvet
  a z mora času mladosť, krása
@@ -23,7 +23,7 @@
  nič nemusí sa zlého báť
  a nikdy, nikdy neumiera,
  v Ňom večný život bude mať.</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

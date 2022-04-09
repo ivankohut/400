@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Ježiš je naveky!</title>
-    <author>TEXT: Gloria Gaither, William J. Gaither, prel. Slávo Kráľ; HUDBA: William J. Gaither</author>
-    <hymn_number>89</hymn_number>
-    <presentation>V1</presentation>
-    <theme>PÁN JEŽIŠ KRISTUS / Oslava Spasiteľa; </theme>
-    <lyrics>[V1]
+  <title>Ježiš je naveky!</title>
+  <author>TEXT: Gloria Gaither, William J. Gaither, prel. Slávo Kráľ; HUDBA: William J. Gaither</author>
+  <hymn_number>89</hymn_number>
+  <presentation>V1</presentation>
+  <theme>PÁN JEŽIŠ KRISTUS / Oslava Spasiteľa; </theme>
+  <lyrics>[V1]
  Ježiš, Ježiš, Ježiš!
  Je to najdrahšie meno z mien.
  Majster, Svätý, Ježiš!
@@ -14,7 +14,7 @@
  Zem i nebo znie chválami.
  Králi padnú a národy tiež,
  ale Ježiš je naveky!</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

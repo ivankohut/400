@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Úchvatná nádhera vysokých hôr</title>
-    <author>TEXT: Ján Andrášik, upr. Jana Nagajová; HUDBA: Charles C. Case, upr.</author>
-    <hymn_number>27</hymn_number>
-    <presentation>V1 C V2 C V3 C V4 C</presentation>
-    <theme>TROJJEDINÝ BOH A NEBESKÝ OTEC / Boh - Stvoriteľ a Udržiavateľ sveta; </theme>
-    <lyrics>[V1]
+  <title>Úchvatná nádhera vysokých hôr</title>
+  <author>TEXT: Ján Andrášik, upr. Jana Nagajová; HUDBA: Charles C. Case, upr.</author>
+  <hymn_number>27</hymn_number>
+  <presentation>V1 C V2 C V3 C V4 C</presentation>
+  <theme>TROJJEDINÝ BOH A NEBESKÝ OTEC / Boh - Stvoriteľ a Udržiavateľ sveta; </theme>
+  <lyrics>[V1]
  Úchvatná nádhera
  vysokých hôr,
  hviezdnatá obloha,
@@ -45,7 +45,7 @@
  s Ježišom dal,
  prijmi dnes
  úprimné obete chvál!</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

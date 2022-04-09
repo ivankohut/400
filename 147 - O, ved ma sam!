@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Ó, veď ma sám!</title>
-    <author>TEXT: Mária Royová, upr.; HUDBA: Carl P. Emanuel Bach, harm. Edward Miller</author>
-    <hymn_number>147</hymn_number>
-    <presentation>V1 V2 V3 V4</presentation>
-    <theme>BOŽIE DIELO ZÁCHRANY ČLOVEKA / Odovzdanie sa a posvätenie; </theme>
-    <lyrics>[V1]
+  <title>Ó, veď ma sám!</title>
+  <author>TEXT: Mária Royová, upr.; HUDBA: Carl P. Emanuel Bach, harm. Edward Miller</author>
+  <hymn_number>147</hymn_number>
+  <presentation>V1 V2 V3 V4</presentation>
+  <theme>BOŽIE DIELO ZÁCHRANY ČLOVEKA / Odovzdanie sa a posvätenie; </theme>
+  <lyrics>[V1]
  Ó, veď ma sám, ja nemám síl,
  bo svetla, pravdy vo mne niet!
  Hoc ku cti rád by som Ti žil,
@@ -26,7 +26,7 @@
  len z Tvojej krvi prúdi moc!
  Tou mocou moje srdce stíš
  a zažeň žiaľu, hriechu noc!</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

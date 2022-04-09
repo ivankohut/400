@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Bol nádherný, tak zvláštny čas</title>
-    <author>TEXT: Edmund H. Sears, podľa čes. prekl. J. Rundusa prel. Jana Nagajová; HUDBA: Richard S. Willis</author>
-    <hymn_number>51</hymn_number>
-    <presentation>V1 V2 V3 V4</presentation>
-    <theme>PÁN JEŽIŠ KRISTUS / Narodenie - Vianoce; </theme>
-    <lyrics>[V1]
+  <title>Bol nádherný, tak zvláštny čas</title>
+  <author>TEXT: Edmund H. Sears, podľa čes. prekl. J. Rundusa prel. Jana Nagajová; HUDBA: Richard S. Willis</author>
+  <hymn_number>51</hymn_number>
+  <presentation>V1 V2 V3 V4</presentation>
+  <theme>PÁN JEŽIŠ KRISTUS / Narodenie - Vianoce; </theme>
+  <lyrics>[V1]
  Bol nádherný, tak zvláštny čas
  a vánok tíško vial,
  keď anjel s chórom nebeským
@@ -41,7 +41,7 @@
  spev chvály radostnej.
  Aj náš hlas vďačne zajasá,
  že smie sa pridať k nej.</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

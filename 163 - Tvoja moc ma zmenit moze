@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Tvoja moc ma zmeniť môže</title>
-    <author>TEXT: Allie F. Starbright, podľa čes. prekl. M. Rafajovej prel. Jana Nagajová; HUDBA: Ira David Sankey</author>
-    <hymn_number>163</hymn_number>
-    <presentation>V1 V2 V3</presentation>
-    <theme>BOŽIE DIELO ZÁCHRANY ČLOVEKA / Radosť a vďačnosť vykúpených; </theme>
-    <lyrics>[V1]
+  <title>Tvoja moc ma zmeniť môže</title>
+  <author>TEXT: Allie F. Starbright, podľa čes. prekl. M. Rafajovej prel. Jana Nagajová; HUDBA: Ira David Sankey</author>
+  <hymn_number>163</hymn_number>
+  <presentation>V1 V2 V3</presentation>
+  <theme>BOŽIE DIELO ZÁCHRANY ČLOVEKA / Radosť a vďačnosť vykúpených; </theme>
+  <lyrics>[V1]
  Počuj, v svojom zľutovaní,
  moje prosby, Pane môj!
  Zbav ma toho, čo mi bráni
@@ -32,7 +32,7 @@
  inde pomoc nehľadám,
  Ty si svetlo sveta, Pane,
  svetlo do tmy daj mi sám!</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

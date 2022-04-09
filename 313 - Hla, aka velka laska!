@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Hľa, aká veľká láska!</title>
-    <author>TEXT: Julie Hausmann, podľa čes. prekl. O. Šrámka prel. Jana Nagajová; HUDBA: Friedrich Silcher</author>
-    <hymn_number>313</hymn_number>
-    <presentation>V1 V2 V3 V4</presentation>
-    <theme>ZBOROVÝ ŽIVOT / Zhromaždenia Božieho ľudu; </theme>
-    <lyrics>[V1]
+  <title>Hľa, aká veľká láska!</title>
+  <author>TEXT: Julie Hausmann, podľa čes. prekl. O. Šrámka prel. Jana Nagajová; HUDBA: Friedrich Silcher</author>
+  <hymn_number>313</hymn_number>
+  <presentation>V1 V2 V3 V4</presentation>
+  <theme>ZBOROVÝ ŽIVOT / Zhromaždenia Božieho ľudu; </theme>
+  <lyrics>[V1]
  Hľa, akú veľkú lásku
  nám Otec dal,
  keď smrťou Syna svojho
@@ -41,7 +41,7 @@
  čo v nebi znie,
  kde v plnosti kvet lásky
  sa rozvinie.</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

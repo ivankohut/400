@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Čujte slávny neba ples!</title>
-    <author>TEXT: Ján Kana, upr. Milan Šramo; HUDBA: Felix Mendelssohn-Bartholdy</author>
-    <hymn_number>53</hymn_number>
-    <presentation>V1 V2 V3</presentation>
-    <theme>PÁN JEŽIŠ KRISTUS / Narodenie - Vianoce; </theme>
-    <lyrics>[V1]
+  <title>Čujte slávny neba ples!</title>
+  <author>TEXT: Ján Kana, upr. Milan Šramo; HUDBA: Felix Mendelssohn-Bartholdy</author>
+  <hymn_number>53</hymn_number>
+  <presentation>V1 V2 V3</presentation>
+  <theme>PÁN JEŽIŠ KRISTUS / Narodenie - Vianoce; </theme>
+  <lyrics>[V1]
  Čujte slávny neba ples:
  „Kristus narodil sa dnes!
  Sláva Bohu na nebi,
@@ -38,7 +38,7 @@
  svet si získať bez boja.
  Prišiel Knieža pokoja,
  svet si získať bez boja.</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

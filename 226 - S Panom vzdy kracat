@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>S Pánom vždy kráčať</title>
-    <author>TEXT: Charles Frederick Weigle, podľa čes. prekl. V. Králíčka prel. Jana Nagajová; HUDBA: Charles Frederick Weigle, harm. Milan Uhrin</author>
-    <hymn_number>226</hymn_number>
-    <presentation>V1 C V2 C V3 C</presentation>
-    <theme>ŽIVOT KRESŤANA / Nasledovanie Pána Ježiša - Bohu odovzdaný život; </theme>
-    <lyrics>[V1]
+  <title>S Pánom vždy kráčať</title>
+  <author>TEXT: Charles Frederick Weigle, podľa čes. prekl. V. Králíčka prel. Jana Nagajová; HUDBA: Charles Frederick Weigle, harm. Milan Uhrin</author>
+  <hymn_number>226</hymn_number>
+  <presentation>V1 C V2 C V3 C</presentation>
+  <theme>ŽIVOT KRESŤANA / Nasledovanie Pána Ježiša - Bohu odovzdaný život; </theme>
+  <lyrics>[V1]
  S Pánom vždy kráčať,
  to je slasť,
  objaviť vierou
@@ -37,7 +37,7 @@
  v sláve uvidím,
  budem raz bývať
  stále s Ním!</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

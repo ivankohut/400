@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Dnes výzva letí</title>
-    <author>TEXT: W. Hellermann, prel. Karel Vaculík, upr. Jana Nagajová; HUDBA: E. Weltin</author>
-    <hymn_number>348</hymn_number>
-    <presentation>V1 C V2 C V3 C V4 C</presentation>
-    <theme>ZBOROVÝ ŽIVOT / Oddelenie pracovníkov k službe; </theme>
-    <lyrics>[V1]
+  <title>Dnes výzva letí</title>
+  <author>TEXT: W. Hellermann, prel. Karel Vaculík, upr. Jana Nagajová; HUDBA: E. Weltin</author>
+  <hymn_number>348</hymn_number>
+  <presentation>V1 C V2 C V3 C V4 C</presentation>
+  <theme>ZBOROVÝ ŽIVOT / Oddelenie pracovníkov k službe; </theme>
+  <lyrics>[V1]
  Dnes výzva celým svetom letí,
  nás k dielu volá Kristus Kráľ.
  Nuž poďme, bratia, Božie deti!
@@ -33,7 +33,7 @@
  sťa dobrý, užitočný strom!
  Veď kráľov Kráľ nás volá synmi,
  nech každý spozná, kto je On!</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

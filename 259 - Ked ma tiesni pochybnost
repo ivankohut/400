@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Keď ma tiesni pochybnosť</title>
-    <author>TEXT: Ada R. Habershon, prel. Mária Royová; HUDBA: Robert Harkness</author>
-    <hymn_number>259</hymn_number>
-    <presentation>V1 C V2 C V3 C</presentation>
-    <theme>ŽIVOT KRESŤANA / Skúšky, boje viery a víťazný život; </theme>
-    <lyrics>[V1]
+  <title>Keď ma tiesni pochybnosť</title>
+  <author>TEXT: Ada R. Habershon, prel. Mária Royová; HUDBA: Robert Harkness</author>
+  <hymn_number>259</hymn_number>
+  <presentation>V1 C V2 C V3 C</presentation>
+  <theme>ŽIVOT KRESŤANA / Skúšky, boje viery a víťazný život; </theme>
+  <lyrics>[V1]
  Keď ma tiesni pochybnosť,
  Ježiš svetlo dá.
  A keď sily nemám dosť,
@@ -25,7 +25,7 @@
  Ježiš podoprie.
  Moje srdce studené
  láskou zohriať vie.</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

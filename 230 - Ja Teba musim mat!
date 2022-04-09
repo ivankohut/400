@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Ja Teba musím mať!</title>
-    <author>TEXT: Annie S. Hawks, prel. Jana Nagajová; HUDBA: Robert Lowry, upr.</author>
-    <hymn_number>230</hymn_number>
-    <presentation>V1 C V2 C V3 C V4 C</presentation>
-    <theme>ŽIVOT KRESŤANA / Nasledovanie Pána Ježiša - Bohu odovzdaný život; </theme>
-    <lyrics>[V1]
+  <title>Ja Teba musím mať!</title>
+  <author>TEXT: Annie S. Hawks, prel. Jana Nagajová; HUDBA: Robert Lowry, upr.</author>
+  <hymn_number>230</hymn_number>
+  <presentation>V1 C V2 C V3 C V4 C</presentation>
+  <theme>ŽIVOT KRESŤANA / Nasledovanie Pána Ježiša - Bohu odovzdaný život; </theme>
+  <lyrics>[V1]
  Ja Teba musím mať,
  ó, Pane môj!
  Len Ty mi môžeš dať
@@ -30,7 +30,7 @@
  svit nádeje,
  že svieca Tvojich slov
  ma povedie.</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

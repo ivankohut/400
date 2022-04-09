@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Blúdil som vo svete</title>
-    <author>TEXT: Frances J. Crosby, podľa čes. prekl. N. Čapka prel. Jana Nagajová; HUDBA: William H. Doane</author>
-    <hymn_number>162</hymn_number>
-    <presentation>V1 V2 V3</presentation>
-    <theme>BOŽIE DIELO ZÁCHRANY ČLOVEKA / Radosť a vďačnosť vykúpených; </theme>
-    <lyrics>[V1]
+  <title>Blúdil som vo svete</title>
+  <author>TEXT: Frances J. Crosby, podľa čes. prekl. N. Čapka prel. Jana Nagajová; HUDBA: William H. Doane</author>
+  <hymn_number>162</hymn_number>
+  <presentation>V1 V2 V3</presentation>
+  <theme>BOŽIE DIELO ZÁCHRANY ČLOVEKA / Radosť a vďačnosť vykúpených; </theme>
+  <lyrics>[V1]
  Blúdil som vo svete,
  blúdil som vo tme,
  o večnej záhube
@@ -44,7 +44,7 @@
  Ježiš je Kráľom,
  láskou a pokojom
  vládne mi sám.</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Výzva k práci</title>
-    <author>TEXT: William C. Poole, podľa čes. prekl. J. Procházku prel. Jana Nagajová; HUDBA: George C. Stebbins, upr.</author>
-    <hymn_number>350</hymn_number>
-    <presentation>V1 C V2 C V3 C</presentation>
-    <theme>ZBOROVÝ ŽIVOT / Oddelenie pracovníkov k službe; </theme>
-    <lyrics>[V1]
+  <title>Výzva k práci</title>
+  <author>TEXT: William C. Poole, podľa čes. prekl. J. Procházku prel. Jana Nagajová; HUDBA: George C. Stebbins, upr.</author>
+  <hymn_number>350</hymn_number>
+  <presentation>V1 C V2 C V3 C</presentation>
+  <theme>ZBOROVÝ ŽIVOT / Oddelenie pracovníkov k službe; </theme>
+  <lyrics>[V1]
  K vernej práci nás
  volá Pánov hlas,
  ešte dnes je treba vstať!
@@ -28,7 +28,7 @@
  dáva z lásky, z milosti
  voľnosť väzneným, silu nesmelým,
  biednym poklad radosti.</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Kráčaj vždy so mnou!</title>
-    <author>TEXT: Vincent Peter Stupka, upr. Jana Nagajová; HUDBA: anon., zo spevníka „Bratské piesne“</author>
-    <hymn_number>234</hymn_number>
-    <presentation>V1 C V2 C V3 C</presentation>
-    <theme>ŽIVOT KRESŤANA / Nasledovanie Pána Ježiša - Bohu odovzdaný život; </theme>
-    <lyrics>[V1]
+  <title>Kráčaj vždy so mnou!</title>
+  <author>TEXT: Vincent Peter Stupka, upr. Jana Nagajová; HUDBA: anon., zo spevníka „Bratské piesne“</author>
+  <hymn_number>234</hymn_number>
+  <presentation>V1 C V2 C V3 C</presentation>
+  <theme>ŽIVOT KRESŤANA / Nasledovanie Pána Ježiša - Bohu odovzdaný život; </theme>
+  <lyrics>[V1]
  Kráčaj vždy so mnou
  sveta údolím,
  s Tebou si správnu
@@ -40,7 +40,7 @@
  do večnosti brán,
  pretože v Tebe
  svojho Vodcu mám.</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

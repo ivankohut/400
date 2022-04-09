@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Prúdy živé plynú</title>
-    <author>TEXT: Norbert Čapek, prel. Slávo Kráľ; HUDBA: William J. Kirkpatrick</author>
-    <hymn_number>235</hymn_number>
-    <presentation>V1 C V2 C V3 C</presentation>
-    <theme>ŽIVOT KRESŤANA / Nasledovanie Pána Ježiša - Bohu odovzdaný život; </theme>
-    <lyrics>[V1]
+  <title>Prúdy živé plynú</title>
+  <author>TEXT: Norbert Čapek, prel. Slávo Kráľ; HUDBA: William J. Kirkpatrick</author>
+  <hymn_number>235</hymn_number>
+  <presentation>V1 C V2 C V3 C</presentation>
+  <theme>ŽIVOT KRESŤANA / Nasledovanie Pána Ježiša - Bohu odovzdaný život; </theme>
+  <lyrics>[V1]
  Prúdy živé plynú
  z trónu milosti,
  celou zemou šíria
@@ -37,7 +37,7 @@
  pravda prostunká,
  veď môj cieľ je život,
  život, čo nezaniká.</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

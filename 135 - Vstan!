@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Vstaň!</title>
-    <author>TEXT: Anna L. Coghill, prel. Kristína Royová, upr.; HUDBA: Lowell Mason, harm. Daniel Mathauser</author>
-    <hymn_number>135</hymn_number>
-    <presentation>V1 V2 V3</presentation>
-    <theme>BOŽIE DIELO ZÁCHRANY ČLOVEKA / Prebudenie, pokánie; </theme>
-    <lyrics>[V1]
+  <title>Vstaň!</title>
+  <author>TEXT: Anna L. Coghill, prel. Kristína Royová, upr.; HUDBA: Lowell Mason, harm. Daniel Mathauser</author>
+  <hymn_number>135</hymn_number>
+  <presentation>V1 V2 V3</presentation>
+  <theme>BOŽIE DIELO ZÁCHRANY ČLOVEKA / Prebudenie, pokánie; </theme>
+  <lyrics>[V1]
  Vstaň, lebo noc sa blíži,
  k práci choď za svitu!
  Vstaň, nech Ťa nedokáže
@@ -32,7 +32,7 @@
  posledný smrti sen!
  Vstaň, lebo noc sa blíži,
  skončí spásy deň!</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

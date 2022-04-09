@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Krstení vodou</title>
-    <author>TEXT: Slávo Kráľ; HUDBA: anon., gaelský nápev, harm. Slávo Kráľ</author>
-    <hymn_number>331</hymn_number>
-    <presentation>V1 V2 V3</presentation>
-    <theme>ŽIVOT KRESŤANA / Krst; </theme>
-    <lyrics>[V1]
+  <title>Krstení vodou</title>
+  <author>TEXT: Slávo Kráľ; HUDBA: anon., gaelský nápev, harm. Slávo Kráľ</author>
+  <hymn_number>331</hymn_number>
+  <presentation>V1 V2 V3</presentation>
+  <theme>ŽIVOT KRESŤANA / Krst; </theme>
+  <lyrics>[V1]
  Krstení vodou, vedení Duchom,
  obmytí krvou Kristovou,
  kráčajme vierou
@@ -23,7 +23,7 @@
  Božie sme deti,
  Kristus nám svieti,
  chváľme Ho za dar spasenia!</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

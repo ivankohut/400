@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Vstaňte k práci!</title>
-    <author>TEXT: Charles Wesley, prel. Mária Royová; HUDBA: Johann Zündel</author>
-    <hymn_number>137</hymn_number>
-    <presentation>V1 C V2 C V3 C</presentation>
-    <theme>BOŽIE DIELO ZÁCHRANY ČLOVEKA / Prebudenie, pokánie; </theme>
-    <lyrics>[V1]
+  <title>Vstaňte k práci!</title>
+  <author>TEXT: Charles Wesley, prel. Mária Royová; HUDBA: Johann Zündel</author>
+  <hymn_number>137</hymn_number>
+  <presentation>V1 C V2 C V3 C</presentation>
+  <theme>BOŽIE DIELO ZÁCHRANY ČLOVEKA / Prebudenie, pokánie; </theme>
+  <lyrics>[V1]
  „Vstaňte k práci, vstaňte k dielu!“
  Spasiteľov volá hlas.
  Bez zastatia napred k cieľu,
@@ -25,7 +25,7 @@
  Tak znie vážny Pánov hlas.
  „Do srdca dám lásku vrelú,
  k bojom vystrojím si vás.“</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

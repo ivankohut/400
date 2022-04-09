@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Pane, Ty si daroval nám deti</title>
-    <author>TEXT: Heusser M. Schweizer, podľa čes. prekl. R. Nováka prel. Jana Nagajová; HUDBA: anon., zo spevníka „Piesne cestou života“, harm. Milan Uhrin</author>
-    <hymn_number>379</hymn_number>
-    <presentation>V1 V2 V3 V4 V5</presentation>
-    <theme>ŽIVOT V RODINE / Prinášanie detí; </theme>
-    <lyrics>[V1]
+  <title>Pane, Ty si daroval nám deti</title>
+  <author>TEXT: Heusser M. Schweizer, podľa čes. prekl. R. Nováka prel. Jana Nagajová; HUDBA: anon., zo spevníka „Piesne cestou života“, harm. Milan Uhrin</author>
+  <hymn_number>379</hymn_number>
+  <presentation>V1 V2 V3 V4 V5</presentation>
+  <theme>ŽIVOT V RODINE / Prinášanie detí; </theme>
+  <lyrics>[V1]
  Pane, Ty si daroval nám deti,
  do rúk Tvojich túžime ich dať.
  Pomôž sám, nech ako nežné kvety,
@@ -32,7 +32,7 @@
  medzi mená v knihe života,
  cestou k cieľu, v moci vykúpenia,
  nech ich stráži Tvoja dobrota!</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

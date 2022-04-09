@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Božia svätá láska</title>
-    <author>TEXT: Ernst M. Ardnt, prel. Jana Nagajová; HUDBA: Friedrich W. Sering, upr. Slávo Kráľ</author>
-    <hymn_number>215</hymn_number>
-    <presentation>V1 V2 V3</presentation>
-    <theme>ŽIVOT KRESŤANA / Modlitba; </theme>
-    <lyrics>[V1]
+  <title>Božia svätá láska</title>
+  <author>TEXT: Ernst M. Ardnt, prel. Jana Nagajová; HUDBA: Friedrich W. Sering, upr. Slávo Kráľ</author>
+  <hymn_number>215</hymn_number>
+  <presentation>V1 V2 V3</presentation>
+  <theme>ŽIVOT KRESŤANA / Modlitba; </theme>
+  <lyrics>[V1]
  Božia svätá láska,
  čistá, bezodná,
  ako živý prameň,
@@ -32,7 +32,7 @@
  dokážeš len Ty.
  /: Zostaň so mnou, Pane,
  dnes i naveky! :/</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

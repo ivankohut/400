@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Znie lásky Božej hlas</title>
-    <author>TEXT: Elvina M. Hall, prel. Vladimír Kohút; HUDBA: John T. Grape</author>
-    <hymn_number>159</hymn_number>
-    <presentation>V1 C V2 C V3 C V4 C</presentation>
-    <theme>BOŽIE DIELO ZÁCHRANY ČLOVEKA / Radosť a vďačnosť vykúpených; </theme>
-    <lyrics>[V1]
+  <title>Znie lásky Božej hlas</title>
+  <author>TEXT: Elvina M. Hall, prel. Vladimír Kohút; HUDBA: John T. Grape</author>
+  <hymn_number>159</hymn_number>
+  <presentation>V1 C V2 C V3 C V4 C</presentation>
+  <theme>BOŽIE DIELO ZÁCHRANY ČLOVEKA / Radosť a vďačnosť vykúpených; </theme>
+  <lyrics>[V1]
  Znie lásky Božej hlas:
  „Poď, dieťa, ku Mne, poď!
  Z pút hriechu, kým je čas,
@@ -30,7 +30,7 @@
  si vziať ľud verný svoj,
  za všetko rád Ti vzdám
  česť, chválu, Pane môj.</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

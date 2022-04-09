@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Príď do srdca môjho!</title>
-    <author>TEXT: Harry D. Clarke, prel. Július Kremský, Ondrej Betko st.; HUDBA: Harry D. Clarke</author>
-    <hymn_number>134</hymn_number>
-    <presentation>V1 C V2 C</presentation>
-    <theme>BOŽIE DIELO ZÁCHRANY ČLOVEKA / Prebudenie, pokánie; </theme>
-    <lyrics>[V1]
+  <title>Príď do srdca môjho!</title>
+  <author>TEXT: Harry D. Clarke, prel. Július Kremský, Ondrej Betko st.; HUDBA: Harry D. Clarke</author>
+  <hymn_number>134</hymn_number>
+  <presentation>V1 C V2 C</presentation>
+  <theme>BOŽIE DIELO ZÁCHRANY ČLOVEKA / Prebudenie, pokánie; </theme>
+  <lyrics>[V1]
  Príď do srdca môjho, Kráľ lásky,
  som zomdlený, biedny, hľaď,
  a bremeno hriechov tak ťažkých
@@ -21,7 +21,7 @@
  a úplne život zmeň,
  nech bez strachu, ľútosti sláviť
  smiem príchodu Tvojho deň!</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Vari hľadať vodcov iných?</title>
-    <author>TEXT: anon., zo spevníka „Bratské piesne“, podľa čes. prekl. N. Čapka prel. Jana Nagajová; HUDBA: anon., zo spevníka „Bratské piesne“, ľud. nápev, harm. J. Andrew Stevenson</author>
-    <hymn_number>330</hymn_number>
-    <presentation>V1 C V2 C V3 C V4 C</presentation>
-    <theme>ZBOROVÝ ŽIVOT / Krst; </theme>
-    <lyrics>[V1]
+  <title>Vari hľadať vodcov iných?</title>
+  <author>TEXT: anon., zo spevníka „Bratské piesne“, podľa čes. prekl. N. Čapka prel. Jana Nagajová; HUDBA: anon., zo spevníka „Bratské piesne“, ľud. nápev, harm. J. Andrew Stevenson</author>
+  <hymn_number>330</hymn_number>
+  <presentation>V1 C V2 C V3 C V4 C</presentation>
+  <theme>ZBOROVÝ ŽIVOT / Krst; </theme>
+  <lyrics>[V1]
  Vari hľadať vodcov iných,
  vari zmeniť viery krok,
  keď ma vedie neomylný Ježiš,
@@ -30,7 +30,7 @@
  túžim dennodenne žiť.
  Dôjsť až ku dňu sľúbenému,
  prvú lásku nestratiť.</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

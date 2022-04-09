@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Ó, to svetlo v Betleheme</title>
-    <author>TEXT: Norbert Čapek, prel. Milan Šramo; HUDBA: anon., zo spevníka „Bratské piesne“, harm. Ivan Valenta</author>
-    <hymn_number>40</hymn_number>
-    <presentation>V1 C V2 C V3 C V4 C</presentation>
-    <theme>PÁN JEŽIŠ KRISTUS / Narodenie - Vianoce; </theme>
-    <lyrics>[V1]
+  <title>Ó, to svetlo v Betleheme</title>
+  <author>TEXT: Norbert Čapek, prel. Milan Šramo; HUDBA: anon., zo spevníka „Bratské piesne“, harm. Ivan Valenta</author>
+  <hymn_number>40</hymn_number>
+  <presentation>V1 C V2 C V3 C V4 C</presentation>
+  <theme>PÁN JEŽIŠ KRISTUS / Narodenie - Vianoce; </theme>
+  <lyrics>[V1]
  Ó, to svetlo v Betleheme
  svieti do srdca i mne.
  Ó, to svetlo v Betleheme
@@ -52,7 +52,7 @@
  Pán Boh sľuby nemení,
  v Kristu spása pramení,
  v Kristu spása pramení.</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

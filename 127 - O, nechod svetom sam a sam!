@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Ó, nechoď svetom sám a sám!</title>
-    <author>TEXT: anon., zo spevníka „Piesne sionské“, prel. Mária Royová, upr.; HUDBA: James McGranahan</author>
-    <hymn_number>127</hymn_number>
-    <presentation>V1 V2 V3 V4</presentation>
-    <theme>BOŽIE DIELO ZÁCHRANY ČLOVEKA / Pozvanie k Pánovi Ježišovi; </theme>
-    <lyrics>[V1]
+  <title>Ó, nechoď svetom sám a sám!</title>
+  <author>TEXT: anon., zo spevníka „Piesne sionské“, prel. Mária Royová, upr.; HUDBA: James McGranahan</author>
+  <hymn_number>127</hymn_number>
+  <presentation>V1 V2 V3 V4</presentation>
+  <theme>BOŽIE DIELO ZÁCHRANY ČLOVEKA / Pozvanie k Pánovi Ježišovi; </theme>
+  <lyrics>[V1]
  Ó, nechoď svetom sám a sám,
  poď s nami k nebies výšinám,
  poď s nami domov len!||
@@ -49,7 +49,7 @@
  poď zložiť hriechy pod kríž tam,
  poď len, poď len,
  On túžby tvoje splní sám!</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

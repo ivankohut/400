@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Cesta kríža</title>
-    <author>TEXT: Jana Nagajová; HUDBA: George C. Stebbins, harm. Daniel Mathauser</author>
-    <hymn_number>271</hymn_number>
-    <presentation>V1 C V2 C V3 C V4 C</presentation>
-    <theme>ŽIVOT KRESŤANA / Vyznávanie a svedecký život; </theme>
-    <lyrics>[V1]
+  <title>Cesta kríža</title>
+  <author>TEXT: Jana Nagajová; HUDBA: George C. Stebbins, harm. Daniel Mathauser</author>
+  <hymn_number>271</hymn_number>
+  <presentation>V1 C V2 C V3 C V4 C</presentation>
+  <theme>ŽIVOT KRESŤANA / Vyznávanie a svedecký život; </theme>
+  <lyrics>[V1]
  Ťarchu svojho kríža, Pane,
  nechcem znášať s reptaním.
  Z kríža plynie požehnanie,
@@ -30,7 +30,7 @@
  môj beh viery sleduje.
  Novej sily vliať mi treba,
  lebo cieľ už blízko je!</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

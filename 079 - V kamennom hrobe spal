@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>V kamennom hrobe spal</title>
-    <author>TEXT: Robert Lowry, podľa čes. prekl. K. Vaculíka, prel. Branislav Kráľ; HUDBA: Robert Lowry</author>
-    <hymn_number>79</hymn_number>
-    <presentation>V1 C V2 C V3 C</presentation>
-    <theme>PÁN JEŽIŠ KRISTUS / Zmŕtvychvstanie - Veľká noc; </theme>
-    <lyrics>[V1]
+  <title>V kamennom hrobe spal</title>
+  <author>TEXT: Robert Lowry, podľa čes. prekl. K. Vaculíka, prel. Branislav Kráľ; HUDBA: Robert Lowry</author>
+  <hymn_number>79</hymn_number>
+  <presentation>V1 C V2 C V3 C</presentation>
+  <theme>PÁN JEŽIŠ KRISTUS / Zmŕtvychvstanie - Veľká noc; </theme>
+  <lyrics>[V1]
  V kamennom hrobe spal,
  Ježiš, môj Zmierca.
  Slávne však z hrobu vstal,
@@ -31,7 +31,7 @@
  Ježiš, môj Zmierca.
  Satana porazil,
  Ježiš, môj Pán.</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

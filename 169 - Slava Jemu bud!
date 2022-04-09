@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Sláva Jemu buď!</title>
-    <author>TEXT: Elisha A. Hoffman, prel. Ján Hudec; HUDBA: John H. Stockton</author>
-    <hymn_number>169</hymn_number>
-    <presentation>V1 C V2 C V3 C V4 C</presentation>
-    <theme>BOŽIE DIELO ZÁCHRANY ČLOVEKA / Radosť a vďačnosť vykúpených; </theme>
-    <lyrics>[V1]
+  <title>Sláva Jemu buď!</title>
+  <author>TEXT: Elisha A. Hoffman, prel. Ján Hudec; HUDBA: John H. Stockton</author>
+  <hymn_number>169</hymn_number>
+  <presentation>V1 C V2 C V3 C V4 C</presentation>
+  <theme>BOŽIE DIELO ZÁCHRANY ČLOVEKA / Radosť a vďačnosť vykúpených; </theme>
+  <lyrics>[V1]
  Pod krížom,
  na ktorom Pán môj mrel,
  v hriechu a biede
@@ -33,7 +33,7 @@
  Ježiš ti na veky šťastie dá!
  Zaspieva duša si blažená:
  Sláva Jemu buď!</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Zástup svedkov Pána chváli</title>
-    <author>TEXT: Josef Baštecký, prel. Mária Royová, upr. Branislav Kráľ; HUDBA: Samuel Hofer</author>
-    <hymn_number>328</hymn_number>
-    <presentation>V1 V2 V3 V4 V5</presentation>
-    <theme>ZBOROVÝ ŽIVOT / Krst; </theme>
-    <lyrics>[V1]
+  <title>Zástup svedkov Pána chváli</title>
+  <author>TEXT: Josef Baštecký, prel. Mária Royová, upr. Branislav Kráľ; HUDBA: Samuel Hofer</author>
+  <hymn_number>328</hymn_number>
+  <presentation>V1 V2 V3 V4 V5</presentation>
+  <theme>ZBOROVÝ ŽIVOT / Krst; </theme>
+  <lyrics>[V1]
  Zástup svedkov Pána chváli
  v svätej nebies radosti.
  Víťaznú už palmu vzali
@@ -40,7 +40,7 @@
  spojiť s nimi žitia beh?||
  Rozhodni sa pridať k nim,
  k zástupom tým nebeským!</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

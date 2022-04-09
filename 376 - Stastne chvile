@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Šťastné chvíle</title>
-    <author>TEXT: Ira David Sankey, podľa čes. prekl. J. Bašteckého prel. Jana Nagajová; HUDBA: Ira David Sankey</author>
-    <hymn_number>376</hymn_number>
-    <presentation>V1 V2 V3</presentation>
-    <theme>ŽIVOT V RODINE / Sobáš a svadba; </theme>
-    <lyrics>[V1]
+  <title>Šťastné chvíle</title>
+  <author>TEXT: Ira David Sankey, podľa čes. prekl. J. Bašteckého prel. Jana Nagajová; HUDBA: Ira David Sankey</author>
+  <hymn_number>376</hymn_number>
+  <presentation>V1 V2 V3</presentation>
+  <theme>ŽIVOT V RODINE / Sobáš a svadba; </theme>
+  <lyrics>[V1]
  Šťastné chvíle, sľuby sväté,
  keď sám Pán Boh posvätí,
  srdcia vrúcnou láskou späté
@@ -32,7 +32,7 @@
  horí vrúcnym plameňom,
  aby k svadbe nebies Kráľa
  aj vás dvoch si pozval On!</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

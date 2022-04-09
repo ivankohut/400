@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Večerná pieseň</title>
-    <author>TEXT: Karl J. P. Spitta, voľne prel. Jana Nagajová; HUDBA: Ernst H. Gebhardt</author>
-    <hymn_number>369</hymn_number>
-    <presentation>V1 V2 V3 V4</presentation>
-    <theme>ŽIVOT V RODINE / Rodinná bohoslužba; </theme>
-    <lyrics>[V1]
+  <title>Večerná pieseň</title>
+  <author>TEXT: Karl J. P. Spitta, voľne prel. Jana Nagajová; HUDBA: Ernst H. Gebhardt</author>
+  <hymn_number>369</hymn_number>
+  <presentation>V1 V2 V3 V4</presentation>
+  <theme>ŽIVOT V RODINE / Rodinná bohoslužba; </theme>
+  <lyrics>[V1]
  Už súmrak svetlo dňa zháša
  a lúkami kráča tma,||
  už tíchnu vtáčiky v hniezdach,
@@ -33,7 +33,7 @@
  Je k modlitbe vrúcnej čas,
  je k modlitbe vrúcnej čas,
  je k modlitbe vrúcnej čas.</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

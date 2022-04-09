@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Ešte triumf nenastal</title>
-    <author>TEXT: anon., zo spevníka „Cithara sanctorum“, prel. Ján Machajdík; HUDBA: anon., zo spevnika „Frohe Botschaft“</author>
-    <hymn_number>264</hymn_number>
-    <presentation>V1 V2 V3</presentation>
-    <theme>ŽIVOT KRESŤANA / Skúšky, boje viery a víťazný život; </theme>
-    <lyrics>[V1]
+  <title>Ešte triumf nenastal</title>
+  <author>TEXT: anon., zo spevníka „Cithara sanctorum“, prel. Ján Machajdík; HUDBA: anon., zo spevnika „Frohe Botschaft“</author>
+  <hymn_number>264</hymn_number>
+  <presentation>V1 V2 V3</presentation>
+  <theme>ŽIVOT KRESŤANA / Skúšky, boje viery a víťazný život; </theme>
+  <lyrics>[V1]
  Ešte triumf nenastal
  verných na Sione,
  nezhromaždil ešte Kráľ
@@ -32,7 +32,7 @@
  zjaví veľkosť siatby,
  v Božom poli plný klas,
  v stodolách ples mlatby.</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

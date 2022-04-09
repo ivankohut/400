@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Blažená je rodina</title>
-    <author>TEXT: Marie Rafajová, upr. Ivan Valenta; HUDBA: Ivan Valenta</author>
-    <hymn_number>365</hymn_number>
-    <presentation>V1 V2 V3</presentation>
-    <theme>ŽIVOT V RODINE / Spoločenstvo rodiny; </theme>
-    <lyrics>[V1]
+  <title>Blažená je rodina</title>
+  <author>TEXT: Marie Rafajová, upr. Ivan Valenta; HUDBA: Ivan Valenta</author>
+  <hymn_number>365</hymn_number>
+  <presentation>V1 V2 V3</presentation>
+  <theme>ŽIVOT V RODINE / Spoločenstvo rodiny; </theme>
+  <lyrics>[V1]
  Blažená je rodina,
  s ktorou býva láska.
  Šťastná každá hodina
@@ -32,7 +32,7 @@
  plno spevu bude tam,
  zvučať bude k nebesiam:
  „Láska, Boh je láska!“</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

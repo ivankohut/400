@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Má, Pán Ježiš, má ma rád</title>
-    <author>TEXT: Anna B. Warner, prel. Kristína Royová, upr.; HUDBA: anon., zo spevníka „Bratské piesne“, španielsky nápev</author>
-    <hymn_number>208</hymn_number>
-    <presentation>V1 V2 V3</presentation>
-    <theme>ŽIVOT KRESŤANA / Vzťah lásky a dôvery k Pánovi; </theme>
-    <lyrics>[V1]
+  <title>Má, Pán Ježiš, má ma rád</title>
+  <author>TEXT: Anna B. Warner, prel. Kristína Royová, upr.; HUDBA: anon., zo spevníka „Bratské piesne“, španielsky nápev</author>
+  <hymn_number>208</hymn_number>
+  <presentation>V1 V2 V3</presentation>
+  <theme>ŽIVOT KRESŤANA / Vzťah lásky a dôvery k Pánovi; </theme>
+  <lyrics>[V1]
  Má, Pán Ježiš, má ma rád,
  v písme svätom dal to znať.
  Priateľom On detí je,
@@ -26,7 +26,7 @@
  do neba sa dostanem.||
  Má, Pán Ježiš, má ma rád,
  v písme svätom dal to znať.</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

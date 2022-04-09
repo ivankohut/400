@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Spievam pieseň vďačnej chvály</title>
-    <author>TEXT: Francis H. Rowley, prel. Karel Vaculík; HUDBA: Peter P. Bilhorn</author>
-    <hymn_number>158</hymn_number>
-    <presentation>V1 C V2 C V3 C V4 C</presentation>
-    <theme>BOŽIE DIELO ZÁCHRANY ČLOVEKA / Radosť a vďačnosť vykúpených; </theme>
-    <lyrics>[V1]
+  <title>Spievam pieseň vďačnej chvály</title>
+  <author>TEXT: Francis H. Rowley, prel. Karel Vaculík; HUDBA: Peter P. Bilhorn</author>
+  <hymn_number>158</hymn_number>
+  <presentation>V1 C V2 C V3 C V4 C</presentation>
+  <theme>BOŽIE DIELO ZÁCHRANY ČLOVEKA / Radosť a vďačnosť vykúpených; </theme>
+  <lyrics>[V1]
  Spievam pieseň vďačnej chvály,
  Kristus za mňa život dal!
  Prišiel z nebies večnej slávy,
@@ -30,7 +30,7 @@
  dokiaľ zúri žitia boj,
  potom prijme v svoje stany,
  kde je krásny domov môj.</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

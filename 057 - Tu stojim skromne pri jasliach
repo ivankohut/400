@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Tu stojím skromne pri jasliach</title>
-    <author>TEXT: Paul Gerhardt, prel. Ondrej Betko ml.; HUDBA: Johann Sebastian Bach</author>
-    <hymn_number>57</hymn_number>
-    <presentation>V1 C V2 C V3 C V4 C</presentation>
-    <theme>PÁN JEŽIŠ KRISTUS / Narodenie - Vianoce; </theme>
-    <lyrics>[V1]
+  <title>Tu stojím skromne pri jasliach</title>
+  <author>TEXT: Paul Gerhardt, prel. Ondrej Betko ml.; HUDBA: Johann Sebastian Bach</author>
+  <hymn_number>57</hymn_number>
+  <presentation>V1 C V2 C V3 C V4 C</presentation>
+  <theme>PÁN JEŽIŠ KRISTUS / Narodenie - Vianoce; </theme>
+  <lyrics>[V1]
  Tu stojím skromne
  pri jasliach,
  kde zrodil si sa,
@@ -34,7 +34,7 @@
  ži v mojom srdci, Pane,
  nech ono ako čistý chrám
  sa príbytkom Ti stane!</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

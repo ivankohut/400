@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Kristus Pán vstal z hrobu dnes</title>
-    <author>TEXT: Charles Wesley, prel. Marie Rafajová, upr. Branislav Kráľ; HUDBA: anon., zo spevníka „Lyra Davidica“</author>
-    <hymn_number>78</hymn_number>
-    <presentation>V1 V2 V3 V4 V5</presentation>
-    <theme>PÁN JEŽIŠ KRISTUS / Zmŕtvychvstanie - Veľká noc; </theme>
-    <lyrics>[V1]
+  <title>Kristus Pán vstal z hrobu dnes</title>
+  <author>TEXT: Charles Wesley, prel. Marie Rafajová, upr. Branislav Kráľ; HUDBA: anon., zo spevníka „Lyra Davidica“</author>
+  <hymn_number>78</hymn_number>
+  <presentation>V1 V2 V3 V4 V5</presentation>
+  <theme>PÁN JEŽIŠ KRISTUS / Zmŕtvychvstanie - Veľká noc; </theme>
+  <lyrics>[V1]
  Kristus Pán vstal z hrobu dnes,
  haleluja,
  všade veľká radosť, ples,
@@ -50,7 +50,7 @@
  haleluja,
  v sláve žiť s Ním na veky,
  haleluja!</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

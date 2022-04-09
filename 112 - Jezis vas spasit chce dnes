@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Ježiš vás spasiť chce dnes</title>
-    <author>TEXT: Ernst H. Gebhardt, prel. Mária Royová; HUDBA: Ernst H. Gebhardt</author>
-    <hymn_number>112</hymn_number>
-    <presentation>V1 C V2 C V3 C V4 C V5 C</presentation>
-    <theme>BOŽIE DIELO ZÁCHRANY ČLOVEKA / Pozvanie k Pánovi Ježišovi; </theme>
-    <lyrics>[V1]
+  <title>Ježiš vás spasiť chce dnes</title>
+  <author>TEXT: Ernst H. Gebhardt, prel. Mária Royová; HUDBA: Ernst H. Gebhardt</author>
+  <hymn_number>112</hymn_number>
+  <presentation>V1 C V2 C V3 C V4 C V5 C</presentation>
+  <theme>BOŽIE DIELO ZÁCHRANY ČLOVEKA / Pozvanie k Pánovi Ježišovi; </theme>
+  <lyrics>[V1]
  Počujte správu,
  čo patrí aj vám:
  Ježiš vás spasiť chce dnes!||
@@ -45,7 +45,7 @@
  Teraz je spásy
  a milosti čas,
  Ježiš vás spasiť chce dnes!</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

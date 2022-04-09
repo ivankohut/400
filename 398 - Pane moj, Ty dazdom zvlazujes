@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Pane môj, Ty dažďom zvlažuješ</title>
-    <author>TEXT: Elizabeth Codner, podľa čes. prekl. J. Hochmana prel. Jana Nagajová; HUDBA: William B. Bradbury</author>
-    <hymn_number>398</hymn_number>
-    <presentation>V1 V2 V3 V4 V5</presentation>
-    <theme>POŽEHNANIA; </theme>
-    <lyrics>[V1]
+  <title>Pane môj, Ty dažďom zvlažuješ</title>
+  <author>TEXT: Elizabeth Codner, podľa čes. prekl. J. Hochmana prel. Jana Nagajová; HUDBA: William B. Bradbury</author>
+  <hymn_number>398</hymn_number>
+  <presentation>V1 V2 V3 V4 V5</presentation>
+  <theme>POŽEHNANIA; </theme>
+  <lyrics>[V1]
  Pane môj, Ty dažďom z neba
  s láskou púšte zvlažuješ.
  Preto vrúcne žiadam Teba,
@@ -40,7 +40,7 @@
  požehnávaj, chráň i mňa!||
  Chráň i mňa, chráň i mňa,
  požehnávaj, chráň i mňa!</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

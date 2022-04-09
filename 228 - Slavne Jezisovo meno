@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Slávne Ježišovo meno</title>
-    <author>TEXT: Lydia Baxter, prel. Jana Nagajová; HUDBA: William H. Doane</author>
-    <hymn_number>228</hymn_number>
-    <presentation>V1 C V2 C V3 C V4 C</presentation>
-    <theme>ŽIVOT KRESŤANA / Nasledovanie Pána Ježiša - Bohu odovzdaný život; </theme>
-    <lyrics>[V1]
+  <title>Slávne Ježišovo meno</title>
+  <author>TEXT: Lydia Baxter, prel. Jana Nagajová; HUDBA: William H. Doane</author>
+  <hymn_number>228</hymn_number>
+  <presentation>V1 C V2 C V3 C V4 C</presentation>
+  <theme>ŽIVOT KRESŤANA / Nasledovanie Pána Ježiša - Bohu odovzdaný život; </theme>
+  <lyrics>[V1]
  Slávne Ježišovo meno
  lieči duše zronené,
  aby mohli žiť a spievať
@@ -30,7 +30,7 @@
  túžim ctiť a zvestovať,
  aby vyznali to mnohí:
  Tvoj som, Pane, mám Ťa rád!</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Jedinú prosbu</title>
-    <author>TEXT: Eben E. Rexford, podľa čes. prekl. J. Procházku prel. Karol Synovec; HUDBA: Victor H. Benke</author>
-    <hymn_number>220</hymn_number>
-    <presentation>V1 C V2 C V3 C</presentation>
-    <theme>ŽIVOT KRESŤANA / Modlitba; </theme>
-    <lyrics>[V1]
+  <title>Jedinú prosbu</title>
+  <author>TEXT: Eben E. Rexford, podľa čes. prekl. J. Procházku prel. Karol Synovec; HUDBA: Victor H. Benke</author>
+  <hymn_number>220</hymn_number>
+  <presentation>V1 C V2 C V3 C</presentation>
+  <theme>ŽIVOT KRESŤANA / Modlitba; </theme>
+  <lyrics>[V1]
  Jedinú prosbu k Tebe mám,
  že mi ju splníš, Otče, znám.
  Každého dňa, ó, Bože môj,
@@ -26,7 +26,7 @@
  S Tebou chcem žiť
  a s Tebou mrieť,
  s Tebou raz v nebi večne dlieť.</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

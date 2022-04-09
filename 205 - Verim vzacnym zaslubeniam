@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Verím vzácnym zasľúbeniam</title>
-    <author>TEXT: Russell K. Carter, podľa čes. prekl. K. Bohatca prel. Jana Nagajová; HUDBA: Russell K. Carter, upr.</author>
-    <hymn_number>205</hymn_number>
-    <presentation>V1 C V2 C V3 C</presentation>
-    <theme>ŽIVOT KRESŤANA / Vzťah lásky a dôvery k Pánovi; </theme>
-    <lyrics>[V1]
+  <title>Verím vzácnym zasľúbeniam</title>
+  <author>TEXT: Russell K. Carter, podľa čes. prekl. K. Bohatca prel. Jana Nagajová; HUDBA: Russell K. Carter, upr.</author>
+  <hymn_number>205</hymn_number>
+  <presentation>V1 C V2 C V3 C</presentation>
+  <theme>ŽIVOT KRESŤANA / Vzťah lásky a dôvery k Pánovi; </theme>
+  <lyrics>[V1]
  Verím vzácnym zasľúbeniam
  Kristovým,
  verím Jeho verným slovám
@@ -36,7 +36,7 @@
  V Ňom je všetko,
  inde pomoc nehľadám.
  Verím sľubom, ktoré dáva Pán.</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

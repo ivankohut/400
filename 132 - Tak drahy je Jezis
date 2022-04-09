@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Tak drahý je Ježiš</title>
-    <author>TEXT: Charles H. Gabriel, prel. Vincent Peter Stupka; HUDBA: Charles H. Gabriel</author>
-    <hymn_number>132</hymn_number>
-    <presentation>V1 C V2 C V3 C</presentation>
-    <theme>BOŽIE DIELO ZÁCHRANY ČLOVEKA / Prebudenie, pokánie; </theme>
-    <lyrics>[V1]
+  <title>Tak drahý je Ježiš</title>
+  <author>TEXT: Charles H. Gabriel, prel. Vincent Peter Stupka; HUDBA: Charles H. Gabriel</author>
+  <hymn_number>132</hymn_number>
+  <presentation>V1 C V2 C V3 C</presentation>
+  <theme>BOŽIE DIELO ZÁCHRANY ČLOVEKA / Prebudenie, pokánie; </theme>
+  <lyrics>[V1]
  Tak drahý je Ježiš môj,
  Majster a Kráľ,
  že celý deň spievať chcem
@@ -35,7 +35,7 @@
  A preto Ho velebím
  a vyznávam,
  veď zo srdca tak rád Ho mám.</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

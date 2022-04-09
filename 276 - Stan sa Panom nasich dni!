@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Staň sa Pánom našich dní!</title>
-    <author>TEXT: Jana Nagajová; HUDBA: Slávo Kráľ</author>
-    <hymn_number>276</hymn_number>
-    <presentation>V1 C V2 C V3 C</presentation>
-    <theme>ŽIVOT KRESŤANA / Vyznávanie a svedecký život; </theme>
-    <lyrics>[V1]
+  <title>Staň sa Pánom našich dní!</title>
+  <author>TEXT: Jana Nagajová; HUDBA: Slávo Kráľ</author>
+  <hymn_number>276</hymn_number>
+  <presentation>V1 C V2 C V3 C</presentation>
+  <theme>ŽIVOT KRESŤANA / Vyznávanie a svedecký život; </theme>
+  <lyrics>[V1]
  Len Ty svetlo máš,
  svieť aj nám, svieť aj nám,
  len Ty svetlo máš,
@@ -42,7 +42,7 @@
  Ty sám nás zacloníš,
  Ty si štít a hrad,
  ukry nás, ukry nás!</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

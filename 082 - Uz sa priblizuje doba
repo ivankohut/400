@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Už sa približuje doba</title>
-    <author>TEXT: Ludvik B. Kašpar, prel. Jana Nagajová; HUDBA: William B. Bradbury, harm. Slávo Kráľ</author>
-    <hymn_number>82</hymn_number>
-    <presentation>V1 C V2 C V3 C</presentation>
-    <theme>PÁN JEŽIŠ KRISTUS / Kráľovstvo Kristovo a druhý príchod; </theme>
-    <lyrics>[V1]
+  <title>Už sa približuje doba</title>
+  <author>TEXT: Ludvik B. Kašpar, prel. Jana Nagajová; HUDBA: William B. Bradbury, harm. Slávo Kráľ</author>
+  <hymn_number>82</hymn_number>
+  <presentation>V1 C V2 C V3 C</presentation>
+  <theme>PÁN JEŽIŠ KRISTUS / Kráľovstvo Kristovo a druhý príchod; </theme>
+  <lyrics>[V1]
  Už sa približuje doba,
  dávno zasľúbil ju Pán,
  že sa bude správa dobrá
@@ -37,7 +37,7 @@
  náhle uzrie slnka svit,
  z moci zlého vytrhnutý
  bude s Bohom večne žiť!</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

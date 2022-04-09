@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Ježiš verný je</title>
-    <author>TEXT: Arthur A. Luther, prel. Ján P. Piroch; HUDBA: Arthur A. Luther</author>
-    <hymn_number>273</hymn_number>
-    <presentation>V1 C V2 C V3 C</presentation>
-    <theme>ŽIVOT KRESŤANA / Vyznávanie a svedecký život; </theme>
-    <lyrics>[V1]
+  <title>Ježiš verný je</title>
+  <author>TEXT: Arthur A. Luther, prel. Ján P. Piroch; HUDBA: Arthur A. Luther</author>
+  <hymn_number>273</hymn_number>
+  <presentation>V1 C V2 C V3 C</presentation>
+  <theme>ŽIVOT KRESŤANA / Vyznávanie a svedecký život; </theme>
+  <lyrics>[V1]
  Sklamú naše nádeje,
  priateľ oklame,
  avšak jeden Priateľ je,
@@ -25,7 +25,7 @@
  hriech ma oklame,
  Ježiš v svojej dobrote
  verný zostane.</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

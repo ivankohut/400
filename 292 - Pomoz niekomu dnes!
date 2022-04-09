@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Pomôž niekomu dnes!</title>
-    <author>TEXT: Carrie E. Breck, prel. Jozef Ivaška ml.; HUDBA: Charles H. Gabriel</author>
-    <hymn_number>292</hymn_number>
-    <presentation>V1 C V2 C V3 C V4 C</presentation>
-    <theme>ŽIVOT KRESŤANA / Napomínanie a povzbudenie; </theme>
-    <lyrics>[V1]
+  <title>Pomôž niekomu dnes!</title>
+  <author>TEXT: Carrie E. Breck, prel. Jozef Ivaška ml.; HUDBA: Charles H. Gabriel</author>
+  <hymn_number>292</hymn_number>
+  <presentation>V1 C V2 C V3 C V4 C</presentation>
+  <theme>ŽIVOT KRESŤANA / Napomínanie a povzbudenie; </theme>
+  <lyrics>[V1]
  Pozri sa okolo smútok kde je,
  pomôž niekomu dnes!
  Modlitba útechu
@@ -34,7 +34,7 @@
  pomôž niekomu dnes!
  Domov sa vrátiť chce zablúdilý,
  pomôž niekomu dnes!</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

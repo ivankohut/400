@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Míňajú sa minúty</title>
-    <author>TEXT: Jana Nagajová; HUDBA: Slávo Kráľ</author>
-    <hymn_number>362</hymn_number>
-    <presentation>C V1 C V2 C V3 C V4 C V5</presentation>
-    <theme>ZBOROVÝ ŽIVOT / Starý a nový rok; </theme>
-    <lyrics>[C]
+  <title>Míňajú sa minúty</title>
+  <author>TEXT: Jana Nagajová; HUDBA: Slávo Kráľ</author>
+  <hymn_number>362</hymn_number>
+  <presentation>C V1 C V2 C V3 C V4 C V5</presentation>
+  <theme>ZBOROVÝ ŽIVOT / Starý a nový rok; </theme>
+  <lyrics>[C]
  Míňajú sa minúty,
  s nimi aj rok celý.
  Chváliť piesňou Teba, Pane,
@@ -35,7 +35,7 @@
  vrúcnej vďaky hodný?
  Smieme s Tebou, ako vlani,
  ďalej ísť deň po dni!</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

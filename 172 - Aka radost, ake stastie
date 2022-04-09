@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Aká radosť, aké šťastie</title>
-    <author>TEXT: Eliza J. A. Reitz, prel. Mária Royová; HUDBA: Ernst H. Gebhardt</author>
-    <hymn_number>172</hymn_number>
-    <presentation>V1 C V2 C V3 C V4 C</presentation>
-    <theme>BOŽIE DIELO ZÁCHRANY ČLOVEKA / Radosť a vďačnosť vykúpených; </theme>
-    <lyrics>[V1]
+  <title>Aká radosť, aké šťastie</title>
+  <author>TEXT: Eliza J. A. Reitz, prel. Mária Royová; HUDBA: Ernst H. Gebhardt</author>
+  <hymn_number>172</hymn_number>
+  <presentation>V1 C V2 C V3 C V4 C</presentation>
+  <theme>BOŽIE DIELO ZÁCHRANY ČLOVEKA / Radosť a vďačnosť vykúpených; </theme>
+  <lyrics>[V1]
  Nech nám srdcia plní radosť,
  z duší planie vďaky cit.
  Otec v nebi zve nás deťmi,
@@ -30,7 +30,7 @@
  žiari Jeho slávy jas.
  Nepovoľme tme a hriechu,
  s Pánom žime v každý čas!</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

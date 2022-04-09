@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Bohu to najlepšie dávaj!</title>
-    <author>TEXT: Haward B. Grose, podľa čes. prekl. J. Procházku prel. Jana Nagajová; HUDBA: Charlotte A. Barnard</author>
-    <hymn_number>154</hymn_number>
-    <presentation>V1 C V2 C V3 C</presentation>
-    <theme>BOŽIE DIELO ZÁCHRANY ČLOVEKA / Odovzdanie sa a posvätenie; </theme>
-    <lyrics>[V1]
+  <title>Bohu to najlepšie dávaj!</title>
+  <author>TEXT: Haward B. Grose, podľa čes. prekl. J. Procházku prel. Jana Nagajová; HUDBA: Charlotte A. Barnard</author>
+  <hymn_number>154</hymn_number>
+  <presentation>V1 C V2 C V3 C</presentation>
+  <theme>BOŽIE DIELO ZÁCHRANY ČLOVEKA / Odovzdanie sa a posvätenie; </theme>
+  <lyrics>[V1]
  Bohu to najlepšie dávaj,
  venuj Mu mladosti kvet!
  Daruj Mu, čo ti je vzácne,
@@ -37,7 +37,7 @@
  zachrániť, vykúpiť nás.
  Daruj Mu srdce i vôľu,
  daruj Mu všetok svoj čas!</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

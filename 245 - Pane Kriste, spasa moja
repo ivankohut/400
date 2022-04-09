@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Pane Kriste, spása moja</title>
-    <author>TEXT: Charles Wesley, prel. Mária Royová, upr.; HUDBA: Charles Wesley</author>
-    <hymn_number>245</hymn_number>
-    <presentation>V1 V2 V3 V4 V5</presentation>
-    <theme>ŽIVOT KRESŤANA / Nasledovanie Pána Ježiša - Bohu odovzdaný život; </theme>
-    <lyrics>[V1]
+  <title>Pane Kriste, spása moja</title>
+  <author>TEXT: Charles Wesley, prel. Mária Royová, upr.; HUDBA: Charles Wesley</author>
+  <hymn_number>245</hymn_number>
+  <presentation>V1 V2 V3 V4 V5</presentation>
+  <theme>ŽIVOT KRESŤANA / Nasledovanie Pána Ježiša - Bohu odovzdaný život; </theme>
+  <lyrics>[V1]
  Pane Kriste, spása moja,
  v náruč svätú priviň ma,
  vzdutých vôd keď prúdy hučia,
@@ -30,7 +30,7 @@
  Ó, ja chcem vždy Tvojím byť!
  V nebi chcem Ťa vidieť večne,
  tu i tam len s Tebou žiť!</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

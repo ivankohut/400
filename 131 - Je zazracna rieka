@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Je zázračná rieka</title>
-    <author>TEXT: Mária Royová, upr. Slávo Kráľ; HUDBA: anon., zo spevnika „Frohe Botschaft“</author>
-    <hymn_number>131</hymn_number>
-    <presentation>V1 C V2 C V3 C V4 C V5 C</presentation>
-    <theme>BOŽIE DIELO ZÁCHRANY ČLOVEKA / Pozvanie k Pánovi Ježišovi; </theme>
-    <lyrics>[V1]
+  <title>Je zázračná rieka</title>
+  <author>TEXT: Mária Royová, upr. Slávo Kráľ; HUDBA: anon., zo spevnika „Frohe Botschaft“</author>
+  <hymn_number>131</hymn_number>
+  <presentation>V1 C V2 C V3 C V4 C V5 C</presentation>
+  <theme>BOŽIE DIELO ZÁCHRANY ČLOVEKA / Pozvanie k Pánovi Ježišovi; </theme>
+  <lyrics>[V1]
  Je zázračná rieka,
  v nej nádherný prúd
  tak pokojne zvlažuje kraj.||
@@ -47,7 +47,7 @@
  V tom prameni hriechy zmy,
  iba tak smieš si
  v nebi raz odpočinúť.</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

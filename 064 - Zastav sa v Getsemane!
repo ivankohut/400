@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Zastav sa v Getsemane!</title>
-    <author>TEXT: Slávo Kráľ; HUDBA: Slávo Kráľ</author>
-    <hymn_number>64</hymn_number>
-    <presentation>V1 V2 V3</presentation>
-    <theme>PÁN JEŽIŠ KRISTUS / Zápas v Getsemane - Zelený štvrtok; </theme>
-    <lyrics>[V1]
+  <title>Zastav sa v Getsemane!</title>
+  <author>TEXT: Slávo Kráľ; HUDBA: Slávo Kráľ</author>
+  <hymn_number>64</hymn_number>
+  <presentation>V1 V2 V3</presentation>
+  <theme>PÁN JEŽIŠ KRISTUS / Zápas v Getsemane - Zelený štvrtok; </theme>
+  <lyrics>[V1]
  Chvíľku len zastav sa
  v Getsemane,
  kde Ježiš trpel nevinne!||
@@ -37,7 +37,7 @@
  S hriechom musel zápasiť,
  by s Ním sme mohli
  na veky žiť.</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

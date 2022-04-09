@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Pozemské boje až skončia sa raz</title>
-    <author>TEXT: Charles H. Gabriel, prel. Mária Royová; HUDBA: Charles H. Gabriel</author>
-    <hymn_number>382</hymn_number>
-    <presentation>V1 C V2 C V3 C</presentation>
-    <theme>VEČNÝ ŽIVOT / Smrť, vzkriesenie a súd; </theme>
-    <lyrics>[V1]
+  <title>Pozemské boje až skončia sa raz</title>
+  <author>TEXT: Charles H. Gabriel, prel. Mária Royová; HUDBA: Charles H. Gabriel</author>
+  <hymn_number>382</hymn_number>
+  <presentation>V1 C V2 C V3 C</presentation>
+  <theme>VEČNÝ ŽIVOT / Smrť, vzkriesenie a súd; </theme>
+  <lyrics>[V1]
  Pozemské boje až skončia sa raz,
  zaletím do ríše nebeských krás,
  Baránok, Kristus len bude mi tam
@@ -25,7 +25,7 @@
  bratov kde uvidím zo všetkých strán.
  Predrahý Ježiš mi bude i tam
  základom radosti, plesania sám.</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

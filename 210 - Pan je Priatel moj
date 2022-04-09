@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Pán je Priateľ môj</title>
-    <author>TEXT: Elisha A. Hoffman, prel. Ján Hudec a Ján Kučera, upr. Jana Nagajová; HUDBA: Anthony J. Showalter</author>
-    <hymn_number>210</hymn_number>
-    <presentation>V1 C V2 C V3 C</presentation>
-    <theme>ŽIVOT KRESŤANA / Vzťah lásky a dôvery k Pánovi; </theme>
-    <lyrics>[V1]
+  <title>Pán je Priateľ môj</title>
+  <author>TEXT: Elisha A. Hoffman, prel. Ján Hudec a Ján Kučera, upr. Jana Nagajová; HUDBA: Anthony J. Showalter</author>
+  <hymn_number>210</hymn_number>
+  <presentation>V1 C V2 C V3 C</presentation>
+  <theme>ŽIVOT KRESŤANA / Vzťah lásky a dôvery k Pánovi; </theme>
+  <lyrics>[V1]
  Pán je Priateľ môj,
  šťastia môjho zdroj,
  svoju skrýšu
@@ -38,7 +38,7 @@
  On mi svieti v tme,
  svoju skrýšu
  v Jeho dlaniach mám.</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

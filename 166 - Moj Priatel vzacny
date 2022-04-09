@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Môj Priateľ vzácny</title>
-    <author>TEXT: anon., zo spevníka „Bratské piesne“, prel. Július Kremský, upr.; HUDBA: anon., zo spevníka „Bratské piesne“</author>
-    <hymn_number>166</hymn_number>
-    <presentation>V1 C V2 C V3 C</presentation>
-    <theme>BOŽIE DIELO ZÁCHRANY ČLOVEKA / Radosť a vďačnosť vykúpených; </theme>
-    <lyrics>[V1]
+  <title>Môj Priateľ vzácny</title>
+  <author>TEXT: anon., zo spevníka „Bratské piesne“, prel. Július Kremský, upr.; HUDBA: anon., zo spevníka „Bratské piesne“</author>
+  <hymn_number>166</hymn_number>
+  <presentation>V1 C V2 C V3 C</presentation>
+  <theme>BOŽIE DIELO ZÁCHRANY ČLOVEKA / Radosť a vďačnosť vykúpených; </theme>
+  <lyrics>[V1]
  Môj Priateľ vzácny
  neľutoval seba
  a z veľkej lásky
@@ -41,7 +41,7 @@
  svedčí slovo Božie,
  že On je Pán
  a sveta Spasiteľ!</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

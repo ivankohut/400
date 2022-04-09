@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Tvoje meno znie najkrajšie</title>
-    <author>TEXT: Philip P. Bliss, prel. Jana Nagajová; HUDBA: Philip P. Bliss, harm. Slávo Kráľ</author>
-    <hymn_number>167</hymn_number>
-    <presentation>C V1 C V2 C V3 C V4</presentation>
-    <theme>BOŽIE DIELO ZÁCHRANY ČLOVEKA / Radosť a vďačnosť vykúpených; </theme>
-    <lyrics>[C]
+  <title>Tvoje meno znie najkrajšie</title>
+  <author>TEXT: Philip P. Bliss, prel. Jana Nagajová; HUDBA: Philip P. Bliss, harm. Slávo Kráľ</author>
+  <hymn_number>167</hymn_number>
+  <presentation>C V1 C V2 C V3 C V4</presentation>
+  <theme>BOŽIE DIELO ZÁCHRANY ČLOVEKA / Radosť a vďačnosť vykúpených; </theme>
+  <lyrics>[C]
  Tvoje meno znie najkrajšie
  zo všetkých vzácnych slov.
  Túžim chváliť ho piesňami,
@@ -42,7 +42,7 @@
  Tebe chcem žiť,
  poslušný byť,
  všetko len v Tebe mám!</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

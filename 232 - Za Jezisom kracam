@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Za Ježišom kráčam</title>
-    <author>TEXT: z ruštiny prel. Milan Šramo, upr.; HUDBA: anon., zo spevníka „Bratské piesne“</author>
-    <hymn_number>232</hymn_number>
-    <presentation>V1 V2 V3 V4 V5</presentation>
-    <theme>ŽIVOT KRESŤANA / Nasledovanie Pána Ježiša - Bohu odovzdaný život; </theme>
-    <lyrics>[V1]
+  <title>Za Ježišom kráčam</title>
+  <author>TEXT: z ruštiny prel. Milan Šramo, upr.; HUDBA: anon., zo spevníka „Bratské piesne“</author>
+  <hymn_number>232</hymn_number>
+  <presentation>V1 V2 V3 V4 V5</presentation>
+  <theme>ŽIVOT KRESŤANA / Nasledovanie Pána Ježiša - Bohu odovzdaný život; </theme>
+  <lyrics>[V1]
  Za Ježišom kráčam,
  On je mojím Kráľom,
  chcem Mu zostať verný,
@@ -50,7 +50,7 @@
  láska svätá, čistá,
  preto kráčam k cieľu
  stále v stopách Krista.</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Tak vzácne, slávne spasenie</title>
-    <author>TEXT: Mária Royová; HUDBA: John H. Stockton, upr.</author>
-    <hymn_number>129</hymn_number>
-    <presentation>V1 C V2 C V3 C V4 C</presentation>
-    <theme>BOŽIE DIELO ZÁCHRANY ČLOVEKA / Pozvanie k Pánovi Ježišovi; </theme>
-    <lyrics>[V1]
+  <title>Tak vzácne, slávne spasenie</title>
+  <author>TEXT: Mária Royová; HUDBA: John H. Stockton, upr.</author>
+  <hymn_number>129</hymn_number>
+  <presentation>V1 C V2 C V3 C V4 C</presentation>
+  <theme>BOŽIE DIELO ZÁCHRANY ČLOVEKA / Pozvanie k Pánovi Ježišovi; </theme>
+  <lyrics>[V1]
  Tak vzácne, slávne spasenie
  dnes ponúka Pán náš.
  Ó, srdce, prijmi zmierenie,
@@ -30,7 +30,7 @@
  i svojho Ducha dal,
  bys´ s Ním žil večne v sláve raz.
  Nuž, spievaj pieseň chvál!</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

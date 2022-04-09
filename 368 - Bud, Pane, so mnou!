@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Buď, Pane, so mnou!</title>
-    <author>TEXT: Henry F. Lyte, prel. Augustín Štefanec, upr. Jana Nagajová; HUDBA: William H. Monk</author>
-    <hymn_number>368</hymn_number>
-    <presentation>V1 V2 V3 V4</presentation>
-    <theme>ŽIVOT V RODINE / Rodinná bohoslužba; </theme>
-    <lyrics>[V1]
+  <title>Buď, Pane, so mnou!</title>
+  <author>TEXT: Henry F. Lyte, prel. Augustín Štefanec, upr. Jana Nagajová; HUDBA: William H. Monk</author>
+  <hymn_number>368</hymn_number>
+  <presentation>V1 V2 V3 V4</presentation>
+  <theme>ŽIVOT V RODINE / Rodinná bohoslužba; </theme>
+  <lyrics>[V1]
  Buď, Pane, so mnou,
  už sa chýli noc,
  temnota hustne,
@@ -41,7 +41,7 @@
  všetko zaniká,
  bez zmien si len Ty,
  láska odveká.</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

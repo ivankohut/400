@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Sprevádzaj nás, večný Kráľ!</title>
-    <author>TEXT: Kliment Bosák, prel. Viera  Turčanová; HUDBA: anon., starý český nápev „Franusův kancionál“</author>
-    <hymn_number>311</hymn_number>
-    <presentation>V1 V2</presentation>
-    <theme>ZBOROVÝ ŽIVOT / Zhromaždenia Božieho ľudu; </theme>
-    <lyrics>[V1]
+  <title>Sprevádzaj nás, večný Kráľ!</title>
+  <author>TEXT: Kliment Bosák, prel. Viera  Turčanová; HUDBA: anon., starý český nápev „Franusův kancionál“</author>
+  <hymn_number>311</hymn_number>
+  <presentation>V1 V2</presentation>
+  <theme>ZBOROVÝ ŽIVOT / Zhromaždenia Božieho ľudu; </theme>
+  <lyrics>[V1]
  Sprevádzaj nás, večný Kráľ,
  svojím požehnaním,
  aby každý verne stál
@@ -23,7 +23,7 @@
  spásnej pravdy prameň,
  z milosti raz dostali
  večný život! Amen.</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

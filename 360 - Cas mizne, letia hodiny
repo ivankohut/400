@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Čas mizne, letia hodiny</title>
-    <author>TEXT: Ernest Decker, prel. Ján Kubovský; HUDBA: Ernest Decker</author>
-    <hymn_number>360</hymn_number>
-    <presentation>V1 C V2 C V3 C</presentation>
-    <theme>ZBOROVÝ ŽIVOT / Starý a nový rok; </theme>
-    <lyrics>[V1]
+  <title>Čas mizne, letia hodiny</title>
+  <author>TEXT: Ernest Decker, prel. Ján Kubovský; HUDBA: Ernest Decker</author>
+  <hymn_number>360</hymn_number>
+  <presentation>V1 C V2 C V3 C</presentation>
+  <theme>ZBOROVÝ ŽIVOT / Starý a nový rok; </theme>
+  <lyrics>[V1]
  Čas mizne, letia hodiny,
  ktože ich zastaví?
  Tvoj život krátky, jediný
@@ -26,7 +26,7 @@
  On zomrel za teba.
  On všetky tvoje viny vzal,
  On cesta do neba.</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Krv, čo za mňa z kríža tiekla</title>
-    <author>TEXT: Robert Lowry, prel. Jana Nagajová; HUDBA: Robert Lowry</author>
-    <hymn_number>74</hymn_number>
-    <presentation>V1 C V2 C V3 C</presentation>
-    <theme>PÁN JEŽIŠ KRISTUS / Zmŕtvychvstanie - Veľká noc; </theme>
-    <lyrics>[V1]
+  <title>Krv, čo za mňa z kríža tiekla</title>
+  <author>TEXT: Robert Lowry, prel. Jana Nagajová; HUDBA: Robert Lowry</author>
+  <hymn_number>74</hymn_number>
+  <presentation>V1 C V2 C V3 C</presentation>
+  <theme>PÁN JEŽIŠ KRISTUS / Zmŕtvychvstanie - Veľká noc; </theme>
+  <lyrics>[V1]
  Čo vie obmyť každý hriech?
  Krv, čo za mňa z kríža tiekla!
  Čo ho zbieli ako sneh?
@@ -25,7 +25,7 @@
  krv, čo za mňa z kríža tiekla.
  Tu aj v nebi chváliť chcem
  krv, čo za mňa z kríža tiekla.</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

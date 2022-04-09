@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Ja dvíham oči k nebu</title>
-    <author>TEXT: Norbert Čapek, prel. Jana Nagajová; HUDBA: John H. Maunder</author>
-    <hymn_number>282</hymn_number>
-    <presentation>V1 V2 V3</presentation>
-    <theme>ŽIVOT KRESŤANA / Vyznávanie a svedecký život; </theme>
-    <lyrics>[V1]
+  <title>Ja dvíham oči k nebu</title>
+  <author>TEXT: Norbert Čapek, prel. Jana Nagajová; HUDBA: John H. Maunder</author>
+  <hymn_number>282</hymn_number>
+  <presentation>V1 V2 V3</presentation>
+  <theme>ŽIVOT KRESŤANA / Vyznávanie a svedecký život; </theme>
+  <lyrics>[V1]
  Ja dvíham oči k nebu, Pane,
  a s túžbou Teba žiadam len,
  mám biedne, veľmi slabé dlane,
@@ -32,7 +32,7 @@
  aj výšinou, aj údolím,
  si Ten, čo posilňuje v biede
  a korunuje spasením.</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

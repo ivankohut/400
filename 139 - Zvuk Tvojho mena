@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Zvuk Tvojho mena</title>
-    <author>TEXT: anon., zo spevníka „Piesne Duchovné“, prel. Ján Siracký; HUDBA: Wolfgang Amadeus Mozart</author>
-    <hymn_number>139</hymn_number>
-    <presentation>V1 V2 V3 V4 V5</presentation>
-    <theme>BOŽIE DIELO ZÁCHRANY ČLOVEKA / Prebudenie, pokánie; </theme>
-    <lyrics>[V1]
+  <title>Zvuk Tvojho mena</title>
+  <author>TEXT: anon., zo spevníka „Piesne Duchovné“, prel. Ján Siracký; HUDBA: Wolfgang Amadeus Mozart</author>
+  <hymn_number>139</hymn_number>
+  <presentation>V1 V2 V3 V4 V5</presentation>
+  <theme>BOŽIE DIELO ZÁCHRANY ČLOVEKA / Prebudenie, pokánie; </theme>
+  <lyrics>[V1]
  Zvuk Tvojho mena, Ježišu,
  mi slasťou plní hruď,
  veď v Tebe duša skrýšu má,
@@ -30,7 +30,7 @@
  a stály prameň síl.
  Z tej duše, Pane, chválim Ťa,
  žes´ aj mňa vykúpil!</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

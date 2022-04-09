@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Ak ťa trápi žiaľ, spievaj!</title>
-    <author>TEXT: anon., zo spevníka „Piesne Duchovné“, podľa čes. prekl. J. Procházku prel. Slávo Kráľ; HUDBA: Virgil P. Brock</author>
-    <hymn_number>288</hymn_number>
-    <presentation>V1</presentation>
-    <theme>ŽIVOT KRESŤANA / Napomínanie a povzbudenie; </theme>
-    <lyrics>[V1]
+  <title>Ak ťa trápi žiaľ, spievaj!</title>
+  <author>TEXT: anon., zo spevníka „Piesne Duchovné“, podľa čes. prekl. J. Procházku prel. Slávo Kráľ; HUDBA: Virgil P. Brock</author>
+  <hymn_number>288</hymn_number>
+  <presentation>V1</presentation>
+  <theme>ŽIVOT KRESŤANA / Napomínanie a povzbudenie; </theme>
+  <lyrics>[V1]
  Ak ťa trápi žiaľ,
  spievaj pieseň chvál!
  Spievaj pieseň radostne
@@ -22,7 +22,7 @@
  prines v modlitbách!
  Smieš sa Bohu odovzdať
  a vzácny pokoj mať.</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

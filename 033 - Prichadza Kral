@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Prichádza Kráľ</title>
-    <author>TEXT: Jana Nagajová; HUDBA: Ewald Danel</author>
-    <hymn_number>33</hymn_number>
-    <presentation>V1 V2</presentation>
-    <theme>PÁN JEŽIŠ KRISTUS / Očakávanie narodenia - Advent; </theme>
-    <lyrics>[V1]
+  <title>Prichádza Kráľ</title>
+  <author>TEXT: Jana Nagajová; HUDBA: Ewald Danel</author>
+  <hymn_number>33</hymn_number>
+  <presentation>V1 V2</presentation>
+  <theme>PÁN JEŽIŠ KRISTUS / Očakávanie narodenia - Advent; </theme>
+  <lyrics>[V1]
  Prichádza Kráľ
  z neba na svoju zem.
  Haleluja, haleluja,
@@ -23,7 +23,7 @@
  Bohom zasľúbený,
  haleluja, haleluja,
  nech je pochválený!</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

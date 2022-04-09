@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Čože som, Pane môj?</title>
-    <author>TEXT: Edwin Hatch, prel. Jana Nagajová; HUDBA: Robert Jackson</author>
-    <hymn_number>109</hymn_number>
-    <presentation>V1 V2 V3</presentation>
-    <theme>BOŽIE DIELO ZÁCHRANY ČLOVEKA / Bieda hriešnika; </theme>
-    <lyrics>[V1]
+  <title>Čože som, Pane môj?</title>
+  <author>TEXT: Edwin Hatch, prel. Jana Nagajová; HUDBA: Robert Jackson</author>
+  <hymn_number>109</hymn_number>
+  <presentation>V1 V2 V3</presentation>
+  <theme>BOŽIE DIELO ZÁCHRANY ČLOVEKA / Bieda hriešnika; </theme>
+  <lyrics>[V1]
  Čože som, Pane môj?
  Zrniečko prachu len.
  Že si ma všímaš, biedneho,
@@ -20,7 +20,7 @@
  nádoba hlinená,
  Tvoja moc v mojej slabosti
  sa slávne dokoná!</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

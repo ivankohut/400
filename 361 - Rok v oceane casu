@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Rok v oceáne času</title>
-    <author>TEXT: Julie Hausmann, podľa čes. prekl. J. Bašteckého voľne prel. Jana Nagajová; HUDBA: Friedrich Silcher</author>
-    <hymn_number>361</hymn_number>
-    <presentation>V1 V2 V3</presentation>
-    <theme>ZBOROVÝ ŽIVOT / Starý a nový rok; </theme>
-    <lyrics>[V1]
+  <title>Rok v oceáne času</title>
+  <author>TEXT: Julie Hausmann, podľa čes. prekl. J. Bašteckého voľne prel. Jana Nagajová; HUDBA: Friedrich Silcher</author>
+  <hymn_number>361</hymn_number>
+  <presentation>V1 V2 V3</presentation>
+  <theme>ZBOROVÝ ŽIVOT / Starý a nový rok; </theme>
+  <lyrics>[V1]
  Rok v oceáne času
  už mizne zas.
  Ó, prijmi vďaku našu
@@ -32,7 +32,7 @@
  si dával nám.
  Nech večne vzýva Teba
  náš chvály žalm.</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Sčítaj dary!</title>
-    <author>TEXT: Johnson Oatman, podľa čes. prekl. J. Hochmana prel. Vladimír Dvořák, Slávo Kráľ; HUDBA: Edwin O. Excell</author>
-    <hymn_number>294</hymn_number>
-    <presentation>V1 C V2 C V3 C</presentation>
-    <theme>ŽIVOT KRESŤANA / Napomínanie a povzbudenie; </theme>
-    <lyrics>[V1]
+  <title>Sčítaj dary!</title>
+  <author>TEXT: Johnson Oatman, podľa čes. prekl. J. Hochmana prel. Vladimír Dvořák, Slávo Kráľ; HUDBA: Edwin O. Excell</author>
+  <hymn_number>294</hymn_number>
+  <presentation>V1 C V2 C V3 C</presentation>
+  <theme>ŽIVOT KRESŤANA / Napomínanie a povzbudenie; </theme>
+  <lyrics>[V1]
  Vôkol teba zúri more zbúrené
  a ty plačeš,
  že je všetko stratené,||
@@ -36,7 +36,7 @@
  ktoré nemá svet,
  vtedy povieš,
  že sa nechceš vrátiť späť!</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

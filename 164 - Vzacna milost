@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Vzácna milosť</title>
-    <author>TEXT: Philipp F. Hiller, prel. Jana Nagajová; HUDBA: Christian Altdörfer</author>
-    <hymn_number>164</hymn_number>
-    <presentation>V1 V2 V3</presentation>
-    <theme>BOŽIE DIELO ZÁCHRANY ČLOVEKA / Radosť a vďačnosť vykúpených; </theme>
-    <lyrics>[V1]
+  <title>Vzácna milosť</title>
+  <author>TEXT: Philipp F. Hiller, prel. Jana Nagajová; HUDBA: Christian Altdörfer</author>
+  <hymn_number>164</hymn_number>
+  <presentation>V1 V2 V3</presentation>
+  <theme>BOŽIE DIELO ZÁCHRANY ČLOVEKA / Radosť a vďačnosť vykúpených; </theme>
+  <lyrics>[V1]
  Bola mi vzácna milosť daná,
  dal mi ju Boh, môj Zľutovník.
  Namiesto súdu láska samá,
@@ -29,7 +29,7 @@
  Korím sa, Pane, pred Tebou,
  chválim Ťa piesňou radostnou!
  Chválim Ťa piesňou radostnou!</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

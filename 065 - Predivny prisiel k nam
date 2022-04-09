@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Predivný prišiel k nám</title>
-    <author>TEXT: Alfred H. Ackley, podľa čes. prekl. J. Procházku prel. Vladimír Betina, upr.; HUDBA: Alfred H. Ackley</author>
-    <hymn_number>65</hymn_number>
-    <presentation>V1 C V2 C V3 C V4 C</presentation>
-    <theme>PÁN JEŽIŠ KRISTUS / Utrpenie a smrť - Veľký piatok; </theme>
-    <lyrics>[V1]
+  <title>Predivný prišiel k nám</title>
+  <author>TEXT: Alfred H. Ackley, podľa čes. prekl. J. Procházku prel. Vladimír Betina, upr.; HUDBA: Alfred H. Ackley</author>
+  <hymn_number>65</hymn_number>
+  <presentation>V1 C V2 C V3 C V4 C</presentation>
+  <theme>PÁN JEŽIŠ KRISTUS / Utrpenie a smrť - Veľký piatok; </theme>
+  <lyrics>[V1]
  Predivný prišiel k nám
  človeka Syn,
  za nás vzal na seba
@@ -50,7 +50,7 @@
  stretnem sa s Ním,
  s Kráľom a Víťazom
  osláveným.</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

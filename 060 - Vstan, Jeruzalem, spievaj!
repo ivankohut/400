@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Vstaň, Jeruzalem, spievaj!</title>
-    <author>TEXT: Jeanette Threlfall, prel. Ondrej Betko st.; HUDBA: anon., zo spevníka „Gesangbuch der Herzogl“</author>
-    <hymn_number>60</hymn_number>
-    <presentation>V1 V2 V3</presentation>
-    <theme>PÁN JEŽIŠ KRISTUS / Slávnostný vstup do Jeruzalema - Kvetná nedeľa; </theme>
-    <lyrics>[V1]
+  <title>Vstaň, Jeruzalem, spievaj!</title>
+  <author>TEXT: Jeanette Threlfall, prel. Ondrej Betko st.; HUDBA: anon., zo spevníka „Gesangbuch der Herzogl“</author>
+  <hymn_number>60</hymn_number>
+  <presentation>V1 V2 V3</presentation>
+  <theme>PÁN JEŽIŠ KRISTUS / Slávnostný vstup do Jeruzalema - Kvetná nedeľa; </theme>
+  <lyrics>[V1]
  Vstaň, Jeruzalem, spievaj!
  Hľa, prichádza Tvoj Kráľ!
  Poď, s radosťou Ho vítaj!
@@ -32,7 +32,7 @@
  sa pred Ježišom skloň!
  Nech zvučí naša chvála
  sťa hlaholiaci zvon!</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Blúdiš v cudzom kraji</title>
-    <author>TEXT: Horatius Bonar, prel. Margita Hogová, upr. Jana Nagajová; HUDBA: anon., zo spevníka „Bratské piesne“</author>
-    <hymn_number>126</hymn_number>
-    <presentation>V1 C V2 C V3 C V4 C V5 C</presentation>
-    <theme>BOŽIE DIELO ZÁCHRANY ČLOVEKA / Pozvanie k Pánovi Ježišovi; </theme>
-    <lyrics>[V1]
+  <title>Blúdiš v cudzom kraji</title>
+  <author>TEXT: Horatius Bonar, prel. Margita Hogová, upr. Jana Nagajová; HUDBA: anon., zo spevníka „Bratské piesne“</author>
+  <hymn_number>126</hymn_number>
+  <presentation>V1 C V2 C V3 C V4 C V5 C</presentation>
+  <theme>BOŽIE DIELO ZÁCHRANY ČLOVEKA / Pozvanie k Pánovi Ježišovi; </theme>
+  <lyrics>[V1]
  Blúdiš v cudzom kraji,
  spamätaj sa, stoj,
  počuj Otcov výkrik:
@@ -35,7 +35,7 @@
  v pýche odmietol,
  milujem ťa vrúcne,
  syn môj, syn môj!</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

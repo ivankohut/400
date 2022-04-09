@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Ja neviem</title>
-    <author>TEXT: El Nathan, prel. Jana Nagajová; HUDBA: James McGranahan</author>
-    <hymn_number>207</hymn_number>
-    <presentation>V1 C V2 C V3 C V4 C V5 C</presentation>
-    <theme>ŽIVOT KRESŤANA / Vzťah lásky a dôvery k Pánovi; </theme>
-    <lyrics>[V1]
+  <title>Ja neviem</title>
+  <author>TEXT: El Nathan, prel. Jana Nagajová; HUDBA: James McGranahan</author>
+  <hymn_number>207</hymn_number>
+  <presentation>V1 C V2 C V3 C V4 C V5 C</presentation>
+  <theme>ŽIVOT KRESŤANA / Vzťah lásky a dôvery k Pánovi; </theme>
+  <lyrics>[V1]
  Ja neviem, prečo Pán i mne
  tak vzácnu milosť dal
  a prečo z lásky k hriešnikom
@@ -36,7 +36,7 @@
  a vôbec netuším,
  či v oblakoch, či v údolí
  raz mám sa stretnúť s Ním.</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

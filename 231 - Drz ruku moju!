@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Drž ruku moju!</title>
-    <author>TEXT: Frances J. Crosby, podľa čes. prekl. F. Marka prel. Jana Nagajová; HUDBA: Hubert P. Main</author>
-    <hymn_number>231</hymn_number>
-    <presentation>V1 V2 V3 V4</presentation>
-    <theme>ŽIVOT KRESŤANA / Nasledovanie Pána Ježiša - Bohu odovzdaný život; </theme>
-    <lyrics>[V1]
+  <title>Drž ruku moju!</title>
+  <author>TEXT: Frances J. Crosby, podľa čes. prekl. F. Marka prel. Jana Nagajová; HUDBA: Hubert P. Main</author>
+  <hymn_number>231</hymn_number>
+  <presentation>V1 V2 V3 V4</presentation>
+  <theme>ŽIVOT KRESŤANA / Nasledovanie Pána Ježiša - Bohu odovzdaný život; </theme>
+  <lyrics>[V1]
  Drž ruku moju,
  len Ty veď ma stále,
  s Tebou chcem kráčať,
@@ -41,7 +41,7 @@
  Tvoju dlaň, môj Pane,
  tam budem hľadieť
  Tebe do očí.</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

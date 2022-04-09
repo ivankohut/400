@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Čujte, vzácna krásna pieseň!</title>
-    <author>TEXT: John Cawood, podľa čes. prekl. J. Stránskeho prel. Jana Nagajová; HUDBA: William B. Bradbury, upr.</author>
-    <hymn_number>38</hymn_number>
-    <presentation>V1 V2 V3</presentation>
-    <theme>PÁN JEŽIŠ KRISTUS / Narodenie - Vianoce; </theme>
-    <lyrics>[V1]
+  <title>Čujte, vzácna krásna pieseň!</title>
+  <author>TEXT: John Cawood, podľa čes. prekl. J. Stránskeho prel. Jana Nagajová; HUDBA: William B. Bradbury, upr.</author>
+  <hymn_number>38</hymn_number>
+  <presentation>V1 V2 V3</presentation>
+  <theme>PÁN JEŽIŠ KRISTUS / Narodenie - Vianoce; </theme>
+  <lyrics>[V1]
  Čujte, vzácna krásna pieseň
  rozlieha sa po nebi!
  Anjel s chórom z nebies ríše
@@ -32,7 +32,7 @@
  budú spievať nadšene:
  „Sláva Bohu na výsosti,
  sila, moc i spasenie!“</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

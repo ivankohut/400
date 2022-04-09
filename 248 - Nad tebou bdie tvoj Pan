@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Nad tebou bdie tvoj Pán</title>
-    <author>TEXT: Civilla D. Martin, podľa čes. prekl. J. Hochmana prel. Vladimír Betina, upr.; HUDBA: Walter S. Martin</author>
-    <hymn_number>248</hymn_number>
-    <presentation>V1 C V2 C V3 C V4 C</presentation>
-    <theme>ŽIVOT KRESŤANA / Skúšky, boje viery a víťazný život; </theme>
-    <lyrics>[V1]
+  <title>Nad tebou bdie tvoj Pán</title>
+  <author>TEXT: Civilla D. Martin, podľa čes. prekl. J. Hochmana prel. Vladimír Betina, upr.; HUDBA: Walter S. Martin</author>
+  <hymn_number>248</hymn_number>
+  <presentation>V1 C V2 C V3 C V4 C</presentation>
+  <theme>ŽIVOT KRESŤANA / Skúšky, boje viery a víťazný život; </theme>
+  <lyrics>[V1]
  Neboj sa, duša, neľakaj,
  nad tebou bdie tvoj Pán,
  na Neho vždy sa spoliehaj,
@@ -30,7 +30,7 @@
  prevedie ťa tvoj Pán
  tam, kde už navždy vládne deň,
  prevedie ťa tvoj Pán.</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

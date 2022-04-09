@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Zachovaj mi vieru!</title>
-    <author>TEXT: František Kozák, prel. Juraj Potúček, upr.; HUDBA: William B. Bradbury, upr. anon.</author>
-    <hymn_number>165</hymn_number>
-    <presentation>V1 V2 V3</presentation>
-    <theme>BOŽIE DIELO ZÁCHRANY ČLOVEKA / Radosť a vďačnosť vykúpených; </theme>
-    <lyrics>[V1]
+  <title>Zachovaj mi vieru!</title>
+  <author>TEXT: František Kozák, prel. Juraj Potúček, upr.; HUDBA: William B. Bradbury, upr. anon.</author>
+  <hymn_number>165</hymn_number>
+  <presentation>V1 V2 V3</presentation>
+  <theme>BOŽIE DIELO ZÁCHRANY ČLOVEKA / Radosť a vďačnosť vykúpených; </theme>
+  <lyrics>[V1]
  Vzácny dar svoj, živú vieru,
  Pane môj, mi zachovaj,
  doplň prosím, čo mi chýba,
@@ -32,7 +32,7 @@
  Pane môj, mi zachovaj,
  doplň, prosím, čo mi chýba,
  plnosť viery, lásky daj!</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

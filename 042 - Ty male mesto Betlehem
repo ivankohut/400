@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Ty malé mesto Betlehem</title>
-    <author>TEXT: Phillips Brooks, prel. Milan Šramo; HUDBA: Lewis H. Redner</author>
-    <hymn_number>42</hymn_number>
-    <presentation>V1 V2 V3 V4</presentation>
-    <theme>PÁN JEŽIŠ KRISTUS / Narodenie - Vianoce; </theme>
-    <lyrics>[V1]
+  <title>Ty malé mesto Betlehem</title>
+  <author>TEXT: Phillips Brooks, prel. Milan Šramo; HUDBA: Lewis H. Redner</author>
+  <hymn_number>42</hymn_number>
+  <presentation>V1 V2 V3 V4</presentation>
+  <theme>PÁN JEŽIŠ KRISTUS / Narodenie - Vianoce; </theme>
+  <lyrics>[V1]
  Ty malé mesto Betlehem
  si ticho spočívaš
  a nevieš ani netušíš,
@@ -41,7 +41,7 @@
  sa započne aj v nás,
  nech anjeli nám spievajú:
  „Vám prišiel Mesiáš.“</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

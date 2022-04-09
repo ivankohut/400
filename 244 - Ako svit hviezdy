@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Ako svit hviezdy</title>
-    <author>TEXT: Karol Synovec, upr.; HUDBA: Ira David Sankey</author>
-    <hymn_number>244</hymn_number>
-    <presentation>V1 C V2 C V3 C</presentation>
-    <theme>ŽIVOT KRESŤANA / Nasledovanie Pána Ježiša - Bohu odovzdaný život; </theme>
-    <lyrics>[V1]
+  <title>Ako svit hviezdy</title>
+  <author>TEXT: Karol Synovec, upr.; HUDBA: Ira David Sankey</author>
+  <hymn_number>244</hymn_number>
+  <presentation>V1 C V2 C V3 C</presentation>
+  <theme>ŽIVOT KRESŤANA / Nasledovanie Pána Ježiša - Bohu odovzdaný život; </theme>
+  <lyrics>[V1]
  Ako svit hviezdy,
  čo bledne a hasne
  v slnečných lúčoch,
@@ -41,7 +41,7 @@
  večného rána,
  všetko tam nájde,
  čo Kristovi dal.</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

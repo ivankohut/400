@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>V mojej duši žiari svetla lúč</title>
-    <author>TEXT: Eliza E. Hewitt, prel. Jana Nagajová; HUDBA: John R. Sweney</author>
-    <hymn_number>170</hymn_number>
-    <presentation>V1 C V2 C V3 C</presentation>
-    <theme>BOŽIE DIELO ZÁCHRANY ČLOVEKA / Radosť a vďačnosť vykúpených; </theme>
-    <lyrics>[V1]
+  <title>V mojej duši žiari svetla lúč</title>
+  <author>TEXT: Eliza E. Hewitt, prel. Jana Nagajová; HUDBA: John R. Sweney</author>
+  <hymn_number>170</hymn_number>
+  <presentation>V1 C V2 C V3 C</presentation>
+  <theme>BOŽIE DIELO ZÁCHRANY ČLOVEKA / Radosť a vďačnosť vykúpených; </theme>
+  <lyrics>[V1]
  V mojej duši žiari svetla lúč,
  v tmách jasný slnka svit.
  Mne spásou stal sa Ježiš sám,
@@ -25,7 +25,7 @@
  a nádej vládne zas.
  Mne Pánom stal sa Ježiš sám,
  je so mnou v každý čas!</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

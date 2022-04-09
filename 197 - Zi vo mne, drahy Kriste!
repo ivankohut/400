@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Ži vo mne, drahý Kriste!</title>
-    <author>TEXT: Frances Ridley Havergal, prel. Viera Turčanová, upr.; HUDBA: Samuel S. Wesley</author>
-    <hymn_number>197</hymn_number>
-    <presentation>V1 V2 V3 V4</presentation>
-    <theme>ŽIVOT KRESŤANA / Vzťah lásky a dôvery k Pánovi; </theme>
-    <lyrics>[V1]
+  <title>Ži vo mne, drahý Kriste!</title>
+  <author>TEXT: Frances Ridley Havergal, prel. Viera Turčanová, upr.; HUDBA: Samuel S. Wesley</author>
+  <hymn_number>197</hymn_number>
+  <presentation>V1 V2 V3 V4</presentation>
+  <theme>ŽIVOT KRESŤANA / Vzťah lásky a dôvery k Pánovi; </theme>
+  <lyrics>[V1]
  Ži vo mne, drahý Kriste
  a v mojom srdci svieť,
  sám Duchom svojím stále
@@ -41,7 +41,7 @@
  že spása v Tebe je,
  že všetkých ľudí ľúbiš,
  nech každý o tom vie.</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

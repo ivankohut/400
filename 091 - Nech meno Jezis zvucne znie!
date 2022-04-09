@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Nech meno Ježiš zvučne znie!</title>
-    <author>TEXT: Edward Perronet, prel. Ondrej Betko st., upr.; HUDBA: William Shrubsole</author>
-    <hymn_number>91</hymn_number>
-    <presentation>V1 C V2 C V3 C V4 C V5 C</presentation>
-    <theme>PÁN JEŽIŠ KRISTUS / Oslava Spasiteľa; </theme>
-    <lyrics>[V1]
+  <title>Nech meno Ježiš zvučne znie!</title>
+  <author>TEXT: Edward Perronet, prel. Ondrej Betko st., upr.; HUDBA: William Shrubsole</author>
+  <hymn_number>91</hymn_number>
+  <presentation>V1 C V2 C V3 C V4 C V5 C</presentation>
+  <theme>PÁN JEŽIŠ KRISTUS / Oslava Spasiteľa; </theme>
+  <lyrics>[V1]
  Nech meno Ježiš zvučne znie,
  zem, nebo, chváľ Ho, chváľ!
  Tvor každý hlásaj nadšene:
@@ -30,7 +30,7 @@
  Keď pred seba nás postaví,
  duch plný bude chvál.
  Spev nový zaznie jasavý:</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Ježiš je Spasiteľ!</title>
-    <author>TEXT: Priscilla J. Owens, prel. Ján Hudec, upr. Branislav Kráľ; HUDBA: William J. Kirkpatrick</author>
-    <hymn_number>270</hymn_number>
-    <presentation>V1 V2 V3 V4</presentation>
-    <theme>ŽIVOT KRESŤANA / Vyznávanie a svedecký život; </theme>
-    <lyrics>[V1]
+  <title>Ježiš je Spasiteľ!</title>
+  <author>TEXT: Priscilla J. Owens, prel. Ján Hudec, upr. Branislav Kráľ; HUDBA: William J. Kirkpatrick</author>
+  <hymn_number>270</hymn_number>
+  <presentation>V1 V2 V3 V4</presentation>
+  <theme>ŽIVOT KRESŤANA / Vyznávanie a svedecký život; </theme>
+  <lyrics>[V1]
  Z neba krásna prišla zvesť:
  Ježiš je Spasiteľ!
  Túto správu smelo nes:
@@ -41,7 +41,7 @@
  znie, že Kristus náš je cieľ.
  Zazvuč pieseň víťazná:
  Ježiš je Spasiteľ!</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

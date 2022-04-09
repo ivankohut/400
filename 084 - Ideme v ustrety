@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Ideme v ústrety</title>
-    <author>TEXT: Ján Andrášik, upr.; HUDBA: Ira David Sankey</author>
-    <hymn_number>84</hymn_number>
-    <presentation>V1 C V2 C V3 C V4 C</presentation>
-    <theme>PÁN JEŽIŠ KRISTUS / Kráľovstvo Kristovo a druhý príchod; </theme>
-    <lyrics>[V1]
+  <title>Ideme v ústrety</title>
+  <author>TEXT: Ján Andrášik, upr.; HUDBA: Ira David Sankey</author>
+  <hymn_number>84</hymn_number>
+  <presentation>V1 C V2 C V3 C V4 C</presentation>
+  <theme>PÁN JEŽIŠ KRISTUS / Kráľovstvo Kristovo a druhý príchod; </theme>
+  <lyrics>[V1]
  Ideme v ústrety
  významným zmenám.
  Vieme, že vráti sa
@@ -50,7 +50,7 @@
  v radosti večnej.
  On si ťa prenesie
  v nebeský stan.</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

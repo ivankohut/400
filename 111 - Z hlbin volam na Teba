@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Z hlbín volám na Teba</title>
-    <author>TEXT: Ondrej Betko st.; HUDBA: Vojtech Paulen</author>
-    <hymn_number>111</hymn_number>
-    <presentation>V1 V2 V3</presentation>
-    <theme>BOŽIE DIELO ZÁCHRANY ČLOVEKA / Bieda hriešnika; </theme>
-    <lyrics>[V1]
+  <title>Z hlbín volám na Teba</title>
+  <author>TEXT: Ondrej Betko st.; HUDBA: Vojtech Paulen</author>
+  <hymn_number>111</hymn_number>
+  <presentation>V1 V2 V3</presentation>
+  <theme>BOŽIE DIELO ZÁCHRANY ČLOVEKA / Bieda hriešnika; </theme>
+  <lyrics>[V1]
  Z hlbín volám na Teba,
  Pane, čuj môj hlas!
  Viem, len Tvoja veleba
@@ -32,7 +32,7 @@
  Tebe zverím život svoj,
  z hlbín Ty ma zdvihni k sebe,
  Bože môj!</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

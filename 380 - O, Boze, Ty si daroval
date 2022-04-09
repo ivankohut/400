@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Ó, Bože, Ty si daroval</title>
-    <author>TEXT: Joseph H. Gilmore, prel. Karol Synovec; HUDBA: William B. Bradbury</author>
-    <hymn_number>380</hymn_number>
-    <presentation>V1 V2 V3</presentation>
-    <theme>ŽIVOT V RODINE / Prinášanie detí; </theme>
-    <lyrics>[V1]
+  <title>Ó, Bože, Ty si daroval</title>
+  <author>TEXT: Joseph H. Gilmore, prel. Karol Synovec; HUDBA: William B. Bradbury</author>
+  <hymn_number>380</hymn_number>
+  <presentation>V1 V2 V3</presentation>
+  <theme>ŽIVOT V RODINE / Prinášanie detí; </theme>
+  <lyrics>[V1]
  Ó, Bože, Ty si daroval nám
  dieťa, vzácny žitia dar.
  My dnes ho k Tebe nesieme,
@@ -32,7 +32,7 @@
  Ty sám naň svoje ruky zlož
  a skrze toto dieťatko
  si svoju lásku, slávu množ!</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

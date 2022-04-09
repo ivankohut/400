@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Skry ma pod svoje krídla!</title>
-    <author>TEXT: Jana Nagajová; HUDBA: anon., starý anglický ľudový nápev zo spevníka „Piesne Duchovné“</author>
-    <hymn_number>284</hymn_number>
-    <presentation>V1 C V2 C V3 C</presentation>
-    <theme>ŽIVOT KRESŤANA / Vyznávanie a svedecký život; </theme>
-    <lyrics>[V1]
+  <title>Skry ma pod svoje krídla!</title>
+  <author>TEXT: Jana Nagajová; HUDBA: anon., starý anglický ľudový nápev zo spevníka „Piesne Duchovné“</author>
+  <hymn_number>284</hymn_number>
+  <presentation>V1 C V2 C V3 C</presentation>
+  <theme>ŽIVOT KRESŤANA / Vyznávanie a svedecký život; </theme>
+  <lyrics>[V1]
  Pán môj a Kráľ môj,
  vrúcnou láskou mám Ťa rád.
  Štít môj a skala,
@@ -37,7 +37,7 @@
  večnou láskou máš ma rád,
  čo si sľúbil, Pane,
  smiem si vierou vziať.</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

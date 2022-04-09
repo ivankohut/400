@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Zošli nám bohatý dážď!</title>
-    <author>TEXT: Daniel W. Whittle, prel. Jana Nagajová; HUDBA: James McGranahan</author>
-    <hymn_number>325</hymn_number>
-    <presentation>V1 C V2 C V3 C V4 C</presentation>
-    <theme>ZBOROVÝ ŽIVOT / Modlitebné stretnutia; </theme>
-    <lyrics>[V1]
+  <title>Zošli nám bohatý dážď!</title>
+  <author>TEXT: Daniel W. Whittle, prel. Jana Nagajová; HUDBA: James McGranahan</author>
+  <hymn_number>325</hymn_number>
+  <presentation>V1 C V2 C V3 C V4 C</presentation>
+  <theme>ZBOROVÝ ŽIVOT / Modlitebné stretnutia; </theme>
+  <lyrics>[V1]
  Spasiteľ vie, čo nám treba,
  duchovne ožiť a rásť!
  Sľúbil nám darovať z neba
@@ -30,7 +30,7 @@
  neplodný, vyschnutý lán,
  ožije pod mocou Ducha,
  ktorého dávaš i nám.</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

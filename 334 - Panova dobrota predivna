@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Pánova dobrota predivná</title>
-    <author>TEXT: Julia H. Johnston, prel. Milan Šramo; HUDBA: Daniel B. Towner, upr.</author>
-    <hymn_number>334</hymn_number>
-    <presentation>V1 C V2 C V3 C</presentation>
-    <theme>ZBOROVÝ ŽIVOT / Večera Pánova; </theme>
-    <lyrics>[V1]
+  <title>Pánova dobrota predivná</title>
+  <author>TEXT: Julia H. Johnston, prel. Milan Šramo; HUDBA: Daniel B. Towner, upr.</author>
+  <hymn_number>334</hymn_number>
+  <presentation>V1 C V2 C V3 C</presentation>
+  <theme>ZBOROVÝ ŽIVOT / Večera Pánova; </theme>
+  <lyrics>[V1]
  Pánova dobrota predivná
  prevýši naše viny a hriech.
  Kristova svätá krv nevinná
@@ -26,7 +26,7 @@
  prístup k nej má.
  Túžiš tiež Ježiša uvidieť?
  Poddaj sa milosti Božej hneď!</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

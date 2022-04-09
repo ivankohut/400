@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Duchu Boží, ku mne príď!</title>
-    <author>TEXT: Daniel Iverson, upr. Ondrej Betko st., upr.; HUDBA: Daniel Iverson, harm. W. G. Hathaway, upr. Slávo Kráľ</author>
-    <hymn_number>96</hymn_number>
-    <presentation>V1 V2 V3</presentation>
-    <theme>DUCH SVÄTÝ; </theme>
-    <lyrics>[V1]
+  <title>Duchu Boží, ku mne príď!</title>
+  <author>TEXT: Daniel Iverson, upr. Ondrej Betko st., upr.; HUDBA: Daniel Iverson, harm. W. G. Hathaway, upr. Slávo Kráľ</author>
+  <hymn_number>96</hymn_number>
+  <presentation>V1 V2 V3</presentation>
+  <theme>DUCH SVÄTÝ; </theme>
+  <lyrics>[V1]
  Duchu Boží, ku mne príď,
  zmeň ma v svätý chrám,
  ústa, srdce rozohni,
@@ -30,7 +30,7 @@
  v Tvojich rukách,
  Duchu Boží, ku mne príď,
  vládni vo mne sám!</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Daj prebudenie!</title>
-    <author>TEXT: William P. Mackay, prel. Miloš Kondač; HUDBA: John J. Husband, harm. Daniel Mathauser, upr.</author>
-    <hymn_number>141</hymn_number>
-    <presentation>V1 C V2 C V3 C V4 C</presentation>
-    <theme>BOŽIE DIELO ZÁCHRANY ČLOVEKA / Prebudenie, pokánie; </theme>
-    <lyrics>[V1]
+  <title>Daj prebudenie!</title>
+  <author>TEXT: William P. Mackay, prel. Miloš Kondač; HUDBA: John J. Husband, harm. Daniel Mathauser, upr.</author>
+  <hymn_number>141</hymn_number>
+  <presentation>V1 C V2 C V3 C V4 C</presentation>
+  <theme>BOŽIE DIELO ZÁCHRANY ČLOVEKA / Prebudenie, pokánie; </theme>
+  <lyrics>[V1]
  Nech chvála Ti znie,
  Bože, za Ježiša,
  ktorý zomrel
@@ -30,7 +30,7 @@
  nech je lásky dar v nás
  a nech plamene nebeské
  očistia nás!</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

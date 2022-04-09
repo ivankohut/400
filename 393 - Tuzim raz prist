@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Túžim raz prísť</title>
-    <author>TEXT: Ray Palmer, prel. Ľudovít Žarnovický, upr.; HUDBA: Lowell Mason</author>
-    <hymn_number>393</hymn_number>
-    <presentation>V1 V2 V3</presentation>
-    <theme>VEČNÝ ŽIVOT / Nebeská vlasť; </theme>
-    <lyrics>[V1]
+  <title>Túžim raz prísť</title>
+  <author>TEXT: Ray Palmer, prel. Ľudovít Žarnovický, upr.; HUDBA: Lowell Mason</author>
+  <hymn_number>393</hymn_number>
+  <presentation>V1 V2 V3</presentation>
+  <theme>VEČNÝ ŽIVOT / Nebeská vlasť; </theme>
+  <lyrics>[V1]
  Túžim raz prísť až tam,
  kde nie je hriech a klam,
  v nadhviezdny svet!||
@@ -29,7 +29,7 @@
  do cieľa dôjsť mi dáš,
  Kráľ kráľov, trón kde máš,
  kde slávy jas.</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Cez oheň, cez vodu</title>
-    <author>TEXT: Elizabeth P. Prentiss, prel. Ondrej Betko st.; HUDBA: William H. Doane</author>
-    <hymn_number>265</hymn_number>
-    <presentation>V1 V2 V3</presentation>
-    <theme>ŽIVOT KRESŤANA / Skúšky, boje viery a víťazný život; </theme>
-    <lyrics>[V1]
+  <title>Cez oheň, cez vodu</title>
+  <author>TEXT: Elizabeth P. Prentiss, prel. Ondrej Betko st.; HUDBA: William H. Doane</author>
+  <hymn_number>265</hymn_number>
+  <presentation>V1 V2 V3</presentation>
+  <theme>ŽIVOT KRESŤANA / Skúšky, boje viery a víťazný život; </theme>
+  <lyrics>[V1]
  Cez oheň, cez vodu
  kráčať ak mám,
  dobrého Sprievodcu,
@@ -31,7 +31,7 @@
  Tebe znie chvály hlas,
  Ježišu môj,
  chráň ma a spas!</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

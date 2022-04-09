@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Ježišova láska</title>
-    <author>TEXT: Lelia Morris, podľa čes. prekl. M. Rafajovej prel. Jana Nagajová; HUDBA: Lelia N. Morris, upr.</author>
-    <hymn_number>272</hymn_number>
-    <presentation>V1 C V2 C V3 C</presentation>
-    <theme>ŽIVOT KRESŤANA / Vyznávanie a svedecký život; </theme>
-    <lyrics>[V1]
+  <title>Ježišova láska</title>
+  <author>TEXT: Lelia Morris, podľa čes. prekl. M. Rafajovej prel. Jana Nagajová; HUDBA: Lelia N. Morris, upr.</author>
+  <hymn_number>272</hymn_number>
+  <presentation>V1 C V2 C V3 C</presentation>
+  <theme>ŽIVOT KRESŤANA / Vyznávanie a svedecký život; </theme>
+  <lyrics>[V1]
  Chcem spievať o tej láske,
  čo z hriechu zdvihla ma.
  Jej výšku zmerať neviem,
@@ -38,7 +38,7 @@
  a chváliť veľký dar,
  že v hĺbke Jeho lásky
  zrieť môžem Božiu tvár.</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Kráľ večnej lásky</title>
-    <author>TEXT: Dorothy B. Gurney, prel. Jana Nagajová; HUDBA: Joseph Barnby, harm. John Stainer</author>
-    <hymn_number>31</hymn_number>
-    <presentation>V1 V2 V3</presentation>
-    <theme>PÁN JEŽIŠ KRISTUS / Očakávanie narodenia - Advent; </theme>
-    <lyrics>[V1]
+  <title>Kráľ večnej lásky</title>
+  <author>TEXT: Dorothy B. Gurney, prel. Jana Nagajová; HUDBA: Joseph Barnby, harm. John Stainer</author>
+  <hymn_number>31</hymn_number>
+  <presentation>V1 V2 V3</presentation>
+  <theme>PÁN JEŽIŠ KRISTUS / Očakávanie narodenia - Advent; </theme>
+  <lyrics>[V1]
  Kráľ večnej lásky
  dokonalej, čistej,
  vstúp k nám, nech môže
@@ -32,7 +32,7 @@
  zjednotiť nás môžeš,
  viesť naše kroky
  k bránam večnosti.</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

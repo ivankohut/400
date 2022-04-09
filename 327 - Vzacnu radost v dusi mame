@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Vzácnu radosť v duši máme</title>
-    <author>TEXT: Joseph M. Scriven, podľa čes. prekl. J. Bašteckého prel. Slávo Kráľ; HUDBA: Charles C. Converse</author>
-    <hymn_number>327</hymn_number>
-    <presentation>V1 V2 V3</presentation>
-    <theme>ZBOROVÝ ŽIVOT / Modlitebné stretnutia; </theme>
-    <lyrics>[V1]
+  <title>Vzácnu radosť v duši máme</title>
+  <author>TEXT: Joseph M. Scriven, podľa čes. prekl. J. Bašteckého prel. Slávo Kráľ; HUDBA: Charles C. Converse</author>
+  <hymn_number>327</hymn_number>
+  <presentation>V1 V2 V3</presentation>
+  <theme>ZBOROVÝ ŽIVOT / Modlitebné stretnutia; </theme>
+  <lyrics>[V1]
  Vzácnu radosť v duši máme,
  Ježiš že je Priateľ náš,
  Jemu všetky svoje žiale
@@ -32,7 +32,7 @@
  v skúškach cestou životom,
  k Priateľovi najlepšiemu,
  spásu máme iba v Ňom!</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

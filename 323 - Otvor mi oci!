@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Otvor mi oči!</title>
-    <author>TEXT: Clara H. Scott, podľa čes. prekl. J. Procházku prel. Jana Nagajová; HUDBA: Clara H. Scott</author>
-    <hymn_number>323</hymn_number>
-    <presentation>V1 V2 V3</presentation>
-    <theme>ZBOROVÝ ŽIVOT / Modlitebné stretnutia; </theme>
-    <lyrics>[V1]
+  <title>Otvor mi oči!</title>
+  <author>TEXT: Clara H. Scott, podľa čes. prekl. J. Procházku prel. Jana Nagajová; HUDBA: Clara H. Scott</author>
+  <hymn_number>323</hymn_number>
+  <presentation>V1 V2 V3</presentation>
+  <theme>ZBOROVÝ ŽIVOT / Modlitebné stretnutia; </theme>
+  <lyrics>[V1]
  Otvor mi oči, veď ma zas,
  ukáž mi Tvojej pravdy jas!
  Predivným kľúčom odomkni sám
@@ -32,7 +32,7 @@
  na Tvoju výzbroj z výsosti,
  na prameň síl, čo dávaš Ty,
  ó, Pane môj!</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

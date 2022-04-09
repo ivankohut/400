@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Neboj sa!</title>
-    <author>TEXT: Eben E. Rexford, podľa čes. prekl. N. Čapka prel. Slávo Kráľ; HUDBA: William J. Kirkpatrick</author>
-    <hymn_number>182</hymn_number>
-    <presentation>V1 C V2 C V3 C</presentation>
-    <theme>BOŽIE DIELO ZÁCHRANY ČLOVEKA / Istota spasenia; </theme>
-    <lyrics>[V1]
+  <title>Neboj sa!</title>
+  <author>TEXT: Eben E. Rexford, podľa čes. prekl. N. Čapka prel. Slávo Kráľ; HUDBA: William J. Kirkpatrick</author>
+  <hymn_number>182</hymn_number>
+  <presentation>V1 C V2 C V3 C</presentation>
+  <theme>BOŽIE DIELO ZÁCHRANY ČLOVEKA / Istota spasenia; </theme>
+  <lyrics>[V1]
  „Neboj sa už nikdy!“
  tak znie Pánov hlas,
  na cestu mi žiari
@@ -37,7 +37,7 @@
  v háji prelieta,
  tiež mám v srdci radosť,
  On že ma nezanechá.</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

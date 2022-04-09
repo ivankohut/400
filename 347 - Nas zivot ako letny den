@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Náš život ako letný deň</title>
-    <author>TEXT: Anna B. Warner, prel. Kristína Royová; HUDBA: Robert Lowry, upr.</author>
-    <hymn_number>347</hymn_number>
-    <presentation>V1 C V2 C V3 C V4 C</presentation>
-    <theme>ZBOROVÝ ŽIVOT / Oddelenie pracovníkov k službe; </theme>
-    <lyrics>[V1]
+  <title>Náš život ako letný deň</title>
+  <author>TEXT: Anna B. Warner, prel. Kristína Royová; HUDBA: Robert Lowry, upr.</author>
+  <hymn_number>347</hymn_number>
+  <presentation>V1 C V2 C V3 C V4 C</presentation>
+  <theme>ZBOROVÝ ŽIVOT / Oddelenie pracovníkov k službe; </theme>
+  <lyrics>[V1]
  Náš život ako letný deň
  má tieň i slnka jas,
  no rýchlo mizne ako sen
@@ -30,7 +30,7 @@
  tu verne naplní.
  Raz uzrie večnej slávy jas,
  Boh sám ho odmení.</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

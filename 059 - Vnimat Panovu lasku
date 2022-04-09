@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Vnímať Pánovu lásku</title>
-    <author>TEXT: Helen H. Lemmel, prel. Jana Nagajová; HUDBA: Helen H. Lemmel</author>
-    <hymn_number>59</hymn_number>
-    <presentation>V1 V2</presentation>
-    <theme>PÁN JEŽIŠ KRISTUS / Život, učenie a príklad; </theme>
-    <lyrics>[V1]
+  <title>Vnímať Pánovu lásku</title>
+  <author>TEXT: Helen H. Lemmel, prel. Jana Nagajová; HUDBA: Helen H. Lemmel</author>
+  <hymn_number>59</hymn_number>
+  <presentation>V1 V2</presentation>
+  <theme>PÁN JEŽIŠ KRISTUS / Život, učenie a príklad; </theme>
+  <lyrics>[V1]
  Keď nepokoj dušu mi trápi
  a slnko mi zastiera tieň,
  viem odkiaľ mi prichádza pomoc,
@@ -29,7 +29,7 @@
  v pokání k Nemu niesť,
  inde lieku
  a Lekára niet!</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

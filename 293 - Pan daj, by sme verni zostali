@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Pán daj, by sme verní zostali</title>
-    <author>TEXT: Mária Royová, upr.; HUDBA: William G. Tomer</author>
-    <hymn_number>293</hymn_number>
-    <presentation>V1 C V2 C V3 C V4 C</presentation>
-    <theme>ŽIVOT KRESŤANA / Napomínanie a povzbudenie; </theme>
-    <lyrics>[V1]
+  <title>Pán daj, by sme verní zostali</title>
+  <author>TEXT: Mária Royová, upr.; HUDBA: William G. Tomer</author>
+  <hymn_number>293</hymn_number>
+  <presentation>V1 C V2 C V3 C V4 C</presentation>
+  <theme>ŽIVOT KRESŤANA / Napomínanie a povzbudenie; </theme>
+  <lyrics>[V1]
  Pán daj, by sme verní zostali,
  pred trónom raz Jeho zlatým,
  pred rytierstvom Božím, svätým
@@ -30,7 +30,7 @@
  Hľa, tam Otec mocný býva,
  s láskou na teba sa díva.
  Dá ti pomoc iste v pravý čas.</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

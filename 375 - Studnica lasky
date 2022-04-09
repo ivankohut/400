@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Studnica lásky</title>
-    <author>TEXT: Jana Nagajová; HUDBA: T. Holm-Glad</author>
-    <hymn_number>375</hymn_number>
-    <presentation>V1 V2 V3</presentation>
-    <theme>ŽIVOT V RODINE / Sobáš a svadba; </theme>
-    <lyrics>[V1]
+  <title>Studnica lásky</title>
+  <author>TEXT: Jana Nagajová; HUDBA: T. Holm-Glad</author>
+  <hymn_number>375</hymn_number>
+  <presentation>V1 V2 V3</presentation>
+  <theme>ŽIVOT V RODINE / Sobáš a svadba; </theme>
+  <lyrics>[V1]
  Studnica lásky
  čistej, dokonalej,
  z Teba len môže
@@ -56,7 +56,7 @@
  jednu bytosť môžeš,
  posvätiť, viesť
  až k bránam večnosti. :/</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

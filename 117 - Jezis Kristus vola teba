@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Ježiš Kristus volá teba</title>
-    <author>TEXT: Alois Adlof, prel. Juraj Potúček, upr. Jana Nagajová; HUDBA: George F. Root, upr.</author>
-    <hymn_number>117</hymn_number>
-    <presentation>V1 V2 V3 V4</presentation>
-    <theme>BOŽIE DIELO ZÁCHRANY ČLOVEKA / Pozvanie k Pánovi Ježišovi; </theme>
-    <lyrics>[V1]
+  <title>Ježiš Kristus volá teba</title>
+  <author>TEXT: Alois Adlof, prel. Juraj Potúček, upr. Jana Nagajová; HUDBA: George F. Root, upr.</author>
+  <hymn_number>117</hymn_number>
+  <presentation>V1 V2 V3 V4</presentation>
+  <theme>BOŽIE DIELO ZÁCHRANY ČLOVEKA / Pozvanie k Pánovi Ježišovi; </theme>
+  <lyrics>[V1]
  Počuj, ako Pán ťa volá,
  prečo odkladáš?
  Na srdce ti často klopal,
@@ -41,7 +41,7 @@
  vráť sa, kým je čas!
  Dnes ťa volá, dnes ťa prijme,
  počuj Pánov hlas!</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

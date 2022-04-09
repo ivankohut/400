@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Pieseň o jednote</title>
-    <author>TEXT: Karl F. G. Wetzel, podľa čes. prekl. A. G. Molnára prel. Jana Nagajová; HUDBA: anon., zo spevníka „Bratské piesne“, durynský nápev</author>
-    <hymn_number>310</hymn_number>
-    <presentation>V1 V2 V3 V4</presentation>
-    <theme>ZBOROVÝ ŽIVOT / Zhromaždenia Božieho ľudu; </theme>
-    <lyrics>[V1]
+  <title>Pieseň o jednote</title>
+  <author>TEXT: Karl F. G. Wetzel, podľa čes. prekl. A. G. Molnára prel. Jana Nagajová; HUDBA: anon., zo spevníka „Bratské piesne“, durynský nápev</author>
+  <hymn_number>310</hymn_number>
+  <presentation>V1 V2 V3 V4</presentation>
+  <theme>ZBOROVÝ ŽIVOT / Zhromaždenia Božieho ľudu; </theme>
+  <lyrics>[V1]
  Je krásnym naším cieľom
  byť svorní s druhom druh.
  /: Tam rastie Božie dielo,
@@ -25,7 +25,7 @@
  sa začne večný deň.
  /: Tam bude jedno stádo
  a jeden Pastier len. :/</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

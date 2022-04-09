@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Nežne a láskavo</title>
-    <author>TEXT: Will L. Thompson, prel. Július Kremský; HUDBA: Will L. Thompson</author>
-    <hymn_number>122</hymn_number>
-    <presentation>V1 C V2 C V3 C</presentation>
-    <theme>BOŽIE DIELO ZÁCHRANY ČLOVEKA / Pozvanie k Pánovi Ježišovi; </theme>
-    <lyrics>[V1]
+  <title>Nežne a láskavo</title>
+  <author>TEXT: Will L. Thompson, prel. Július Kremský; HUDBA: Will L. Thompson</author>
+  <hymn_number>122</hymn_number>
+  <presentation>V1 C V2 C V3 C</presentation>
+  <theme>BOŽIE DIELO ZÁCHRANY ČLOVEKA / Pozvanie k Pánovi Ježišovi; </theme>
+  <lyrics>[V1]
  Nežne a láskavo
  Ježiš ťa volá,
  pozýva teba i mňa.||
@@ -33,7 +33,7 @@
  Pri hrobe čoskoro
  doznejú kroky,
  skončí čas tebe i mne.</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

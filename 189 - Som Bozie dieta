@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Som Božie dieťa</title>
-    <author>TEXT: Jana Nagajová; HUDBA: Slávo Kráľ</author>
-    <hymn_number>189</hymn_number>
-    <presentation>C V1 C V2 C V3 C V4</presentation>
-    <theme>BOŽIE DIELO ZÁCHRANY ČLOVEKA / Istota spasenia; </theme>
-    <lyrics>[C]
+  <title>Som Božie dieťa</title>
+  <author>TEXT: Jana Nagajová; HUDBA: Slávo Kráľ</author>
+  <hymn_number>189</hymn_number>
+  <presentation>C V1 C V2 C V3 C V4</presentation>
+  <theme>BOŽIE DIELO ZÁCHRANY ČLOVEKA / Istota spasenia; </theme>
+  <lyrics>[C]
  Moc a právo detí Božích
  Ježiš z lásky tomu dá,
  kto Ho prijme, kto Mu verí,
@@ -30,7 +30,7 @@
  veď som Božím dedičom!
  Slávne miesto pre mňa chystá
  Ježiš v dome Otcovom.</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

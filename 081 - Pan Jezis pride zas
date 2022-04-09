@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Pán Ježiš príde zas</title>
-    <author>TEXT: Lelia N. Morris, podľa čes. prekl. J. Zmrhala prel. Jana Nagajová; HUDBA: Lelia N. Morris</author>
-    <hymn_number>81</hymn_number>
-    <presentation>V1 C V2 C V3 C</presentation>
-    <theme>PÁN JEŽIŠ KRISTUS / Kráľovstvo Kristovo a druhý príchod; </theme>
-    <lyrics>[V1]
+  <title>Pán Ježiš príde zas</title>
+  <author>TEXT: Lelia N. Morris, podľa čes. prekl. J. Zmrhala prel. Jana Nagajová; HUDBA: Lelia N. Morris</author>
+  <hymn_number>81</hymn_number>
+  <presentation>V1 C V2 C V3 C</presentation>
+  <theme>PÁN JEŽIŠ KRISTUS / Kráľovstvo Kristovo a druhý príchod; </theme>
+  <lyrics>[V1]
  Pán Ježiš príde zas
  na zem k nám.
  Čo ak sa vráti dnes?
@@ -43,7 +43,7 @@
  blíži sa chvíľa sľúbená,
  šťastný, kto bdie a vieru má.
  Čo ak sa vrátim dnes?“</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

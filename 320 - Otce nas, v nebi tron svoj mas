@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Otče náš, v nebi trón svoj máš</title>
-    <author>TEXT: anon., podľa čes. prekl. J. Bašteckého prel. Kristína Royová; HUDBA: William H. Monk</author>
-    <hymn_number>320</hymn_number>
-    <presentation>V1 V2 V3 V4</presentation>
-    <theme>ZBOROVÝ ŽIVOT / Modlitebné stretnutia; </theme>
-    <lyrics>[V1]
+  <title>Otče náš, v nebi trón svoj máš</title>
+  <author>TEXT: anon., podľa čes. prekl. J. Bašteckého prel. Kristína Royová; HUDBA: William H. Monk</author>
+  <hymn_number>320</hymn_number>
+  <presentation>V1 V2 V3 V4</presentation>
+  <theme>ZBOROVÝ ŽIVOT / Modlitebné stretnutia; </theme>
+  <lyrics>[V1]
  Otče náš, ktorý
  v nebi trón svoj máš,
  modlitby dietok
@@ -41,7 +41,7 @@
  nech tu uzrieme
  skôr, než stáť tvárou v tvár
  Ti budeme.</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

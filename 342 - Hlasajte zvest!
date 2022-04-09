@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Hlásajte zvesť!</title>
-    <author>TEXT: Mary A. Thomson, prel. Karol Synovec, upr. Jana Nagajová; HUDBA: James Walch</author>
-    <hymn_number>342</hymn_number>
-    <presentation>V1 C V2 C V3 C V4 C</presentation>
-    <theme>ZBOROVÝ ŽIVOT / Oddelenie pracovníkov k službe; </theme>
-    <lyrics>[V1]
+  <title>Hlásajte zvesť!</title>
+  <author>TEXT: Mary A. Thomson, prel. Karol Synovec, upr. Jana Nagajová; HUDBA: James Walch</author>
+  <hymn_number>342</hymn_number>
+  <presentation>V1 C V2 C V3 C V4 C</presentation>
+  <theme>ZBOROVÝ ŽIVOT / Oddelenie pracovníkov k službe; </theme>
+  <lyrics>[V1]
  Hlásajte zvesť,
  nech šírym svetom letí:
  Boh svetlo je
@@ -46,7 +46,7 @@
  k nám je rozostretá,
  záchranu v Kristu
  svetu hlásajte!</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

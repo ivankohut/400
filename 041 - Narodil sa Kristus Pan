@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Narodil sa Kristus Pán</title>
-    <author>TEXT: anon., zo spevníka „Cithara sanctorum“, prel. Ján Machajdík; HUDBA: anon., starý český nápev „Franusův kancionál“</author>
-    <hymn_number>41</hymn_number>
-    <presentation>V1 V2 V3 V4 V5</presentation>
-    <theme>PÁN JEŽIŠ KRISTUS / Narodenie - Vianoce; </theme>
-    <lyrics>[V1]
+  <title>Narodil sa Kristus Pán</title>
+  <author>TEXT: anon., zo spevníka „Cithara sanctorum“, prel. Ján Machajdík; HUDBA: anon., starý český nápev „Franusův kancionál“</author>
+  <hymn_number>41</hymn_number>
+  <presentation>V1 V2 V3 V4 V5</presentation>
+  <theme>PÁN JEŽIŠ KRISTUS / Narodenie - Vianoce; </theme>
+  <lyrics>[V1]
  Narodil sa Kristus Pán,
  veseľme sa,
  z ruže kvietok skvitol nám,
@@ -45,7 +45,7 @@
  V láske svojho Syna,
  čo nám hriechy sníma,
  spas dnes, Otče, i nás!</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

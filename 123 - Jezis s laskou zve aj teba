@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Ježiš s láskou zve aj teba</title>
-    <author>TEXT: P. C. Spurr, prel. Jana Nagajová; HUDBA: F. W. Haydock</author>
-    <hymn_number>123</hymn_number>
-    <presentation>V1 V2 V3</presentation>
-    <theme>BOŽIE DIELO ZÁCHRANY ČLOVEKA / Pozvanie k Pánovi Ježišovi; </theme>
-    <lyrics>[V1]
+  <title>Ježiš s láskou zve aj teba</title>
+  <author>TEXT: P. C. Spurr, prel. Jana Nagajová; HUDBA: F. W. Haydock</author>
+  <hymn_number>123</hymn_number>
+  <presentation>V1 V2 V3</presentation>
+  <theme>BOŽIE DIELO ZÁCHRANY ČLOVEKA / Pozvanie k Pánovi Ježišovi; </theme>
+  <lyrics>[V1]
  Svoju náruč rozprestiera
  k tebe Boží Syn,
  vie, že tvoja duša nesie
@@ -20,7 +20,7 @@
  poď a nemeškaj,
  srdce Jemu jedinému
  odovzdaj!</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

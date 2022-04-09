@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Ta, k nebies trónu, upri zraky!</title>
-    <author>TEXT: Gerhard Tersteegen, podľa čes. prekl. J. Bašteckého prel. Vladimír Betina, upr. Jana Nagajová; HUDBA: Dmitrij S. Bortnianskij</author>
-    <hymn_number>387</hymn_number>
-    <presentation>V1 V2 V3 V4</presentation>
-    <theme>VEČNÝ ŽIVOT / Večná blaženosť; </theme>
-    <lyrics>[V1]
+  <title>Ta, k nebies trónu, upri zraky!</title>
+  <author>TEXT: Gerhard Tersteegen, podľa čes. prekl. J. Bašteckého prel. Vladimír Betina, upr. Jana Nagajová; HUDBA: Dmitrij S. Bortnianskij</author>
+  <hymn_number>387</hymn_number>
+  <presentation>V1 V2 V3 V4</presentation>
+  <theme>VEČNÝ ŽIVOT / Večná blaženosť; </theme>
+  <lyrics>[V1]
  Ta, k nebies trónu, upri zraky,
  pohliadni k vrchom v čakaní
  a s vierou pozri nad oblaky,
@@ -33,7 +33,7 @@
  tam ti Boh pokoj daruje.||
  On sám ťa pozval k svadbe svojej,
  tam je tvoj diel a miesto tvoje.</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

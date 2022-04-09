@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Prichádza chvíľa</title>
-    <author>TEXT: Jana Nagajová; HUDBA: Slávo Kráľ</author>
-    <hymn_number>371</hymn_number>
-    <presentation>V1 V2 V3</presentation>
-    <theme>ŽIVOT V RODINE / Rodinná bohoslužba; </theme>
-    <lyrics>[V1]
+  <title>Prichádza chvíľa</title>
+  <author>TEXT: Jana Nagajová; HUDBA: Slávo Kráľ</author>
+  <hymn_number>371</hymn_number>
+  <presentation>V1 V2 V3</presentation>
+  <theme>ŽIVOT V RODINE / Rodinná bohoslužba; </theme>
+  <lyrics>[V1]
  Prichádza chvíľa večerná,
  nesiem Ti svoje bremená.||
  Hodiny zbytočne premrhané,
@@ -26,7 +26,7 @@
  posilníš dôveru, že ma máš rád,
  povieš mi: „Dieťa, prestaň sa báť!“
  Verím Ti, Pane môj!</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

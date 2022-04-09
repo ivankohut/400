@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Boh buď s vami, kým sa zídeme!</title>
-    <author>TEXT: Jeremiah E. Rankin, podľa čes. prekl. J. Rundusa prel. Jana Nagajová; HUDBA: William G. Tomer</author>
-    <hymn_number>305</hymn_number>
-    <presentation>V1 C V2 C V3 C V4 C</presentation>
-    <theme>ZBOROVÝ ŽIVOT / Zhromaždenia Božieho ľudu; </theme>
-    <lyrics>[V1]
+  <title>Boh buď s vami, kým sa zídeme!</title>
+  <author>TEXT: Jeremiah E. Rankin, podľa čes. prekl. J. Rundusa prel. Jana Nagajová; HUDBA: William G. Tomer</author>
+  <hymn_number>305</hymn_number>
+  <presentation>V1 C V2 C V3 C V4 C</presentation>
+  <theme>ZBOROVÝ ŽIVOT / Zhromaždenia Božieho ľudu; </theme>
+  <lyrics>[V1]
  Boh buď s vami, kým sa zídeme,
  múdrosť svoju vždy vám dávaj,
  vieru vašu zachovávaj,
@@ -30,7 +30,7 @@
  sám vás v láske zachovávaj,
  stráž vás, veď a požehnávaj,
  Boh buď s vami, kým sa zídeme!</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>

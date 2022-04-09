@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Chváľte, chváľte!</title>
-    <author>TEXT: Frances J. Crosby, podľa čes. prekl. N. Čapka prel. Jana Nagajová; HUDBA: Chester G. Allen</author>
-    <hymn_number>92</hymn_number>
-    <presentation>V1 C V2 C V3 C</presentation>
-    <theme>PÁN JEŽIŠ KRISTUS / Oslava Spasiteľa; </theme>
-    <lyrics>[V1]
+  <title>Chváľte, chváľte!</title>
+  <author>TEXT: Frances J. Crosby, podľa čes. prekl. N. Čapka prel. Jana Nagajová; HUDBA: Chester G. Allen</author>
+  <hymn_number>92</hymn_number>
+  <presentation>V1 C V2 C V3 C</presentation>
+  <theme>PÁN JEŽIŠ KRISTUS / Oslava Spasiteľa; </theme>
+  <lyrics>[V1]
  Chváľte, chváľte,
  Záchrancu hriešnikov chváľte,
  celá zem znej
@@ -49,7 +49,7 @@
  v nádhere triumfálnej,
  deťom Božím
  boj a žiaľ pominie.</lyrics>
-    <user1>Spevník - 400 kresťanských piesní
+  <user1>Spevník - 400 kresťanských piesní
 Bratská jednota baptistov v SR
 Rok vydania 2014</user1>
 </song>
